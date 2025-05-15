@@ -1,29 +1,99 @@
 [
     {
         "id": 1,
-        "description": "Wiślany Mokotów VIII",
-        "env_decision": [
-            {
-                "text": "Wszczęcie",
-                "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm"
-            },
-            {
-                "text": "Decyzja",
-                "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm"
-            }
-        ],
+        "description": "Bluszczańska Piniowa-Kątna",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741"
+        },
         "construction_permit": [
             {
-                "text": "PnB",
-                "url": "http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/"
+                "text": "Decyzja zmieniająca 1/MOK/ZRID/2025",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-nr-1/mok/zrid/2025-zmieniajacej-ostateczna-decyzje-nr-14/mok/zrid/2024-udzielajaca-pozwolenia-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-"
+            },
+            {
+                "text": "Decyzja 14/MOK/ZRID/2024",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna"
+            },
+            {
+                "text": "Zebranie materiałów",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania"
+            },
+            {
+                "text": "Ponowne wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-nr-1/mok/zrid/2025-zmieniajacej-ostateczna-decyzje-nr-14/mok/zrid/2024-udzielajaca-pozwolenia-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-"
+            },
+            {
+                "text": "Umorzenie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej"
+            },
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-w-sprawie-wszczecia-postepowania-administracyjnego-w-sprawie-rozbudowy-ulicy-bluszczanskiej-27-kud-1499615"
             }
         ],
-        "name": "Wiślany Mokotów VIII",
-        "env_decision_date": "4.11.2021",
-        "info": "",
-        "investor": "Spravia (Budimex Nieruchomości)",
-        "construction_start_date": "05.2024",
-        "url": "https://wislanymokotow.pl/e8/",
-        "construction_permit_date": "9.11.2023"
+        "investor": "Mill-yon",
+        "construction_start_date": "02.2025",
+        "construction_permit_date": "9.12.2024",
+        "project": "https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/"
+    },
+    {
+        "id": 2,
+        "description": "30 KUD Kiwi",
+        "construction_permit": [
+            {
+                "text": "Decyzja 1/Z/2023",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydanej-decyzji-na-budowe-drogi-gminnej-30-kud-1331711"
+            },
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/obwieszczenie-o-wszczeciu-postepowania-administracyjnego-droga-gminna-30-kud-5538386"
+            }
+        ],
+        "investor": "Ronson",
+        "construction_start_date": "02.2025",
+        "construction_permit_date": "28.02.2023"
+    },
+    {
+        "id": 3,
+        "description": "19 KUD Grejpfrutowa",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2740-2022-z-2022-01-19-2635917-8048831-9625415"
+        },
+        "construction_permit": [
+            {
+                "text": "Decyzja 2/Z/2022",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-19-kud-4108722"
+            },
+            {
+                "text": "Postępowanie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-toczacym-sie-postepowaniu-w-sprawie-realizacji-inwestycji-drogowej-19-kud-6852897"
+            },
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-toczacym-sie-postepowaniu.-budowa-drogi-gmninnej-19-kud-3550221"
+            }
+        ],
+        "investor": "SGI",
+        "construction_permit_date": "10.08.2022",
+        "project": "https://www.skyscrapercity.com/attachments/1728385215489-png.8031706/"
+    },
+    {
+        "id": 4,
+        "description": "Zachód APW",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359"
+        },
+        "construction_permit": [
+            {
+                "text": "PnB 8/MOK/2023",
+                "url": "https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/"
+            }
+        ],
+        "investor": "Spravia/Dom Development",
+        "construction_permit_date": "01.02.2023",
+        "project": "https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/"
     }
 ]
