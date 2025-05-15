@@ -35,7 +35,7 @@
         "investor": "Mill-yon",
         "construction_start_date": "02.2025",
         "construction_permit_date": "9.12.2024",
-        "project": "https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/"
+        "project_url": "https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/"
     },
     {
         "id": 2,
@@ -77,7 +77,7 @@
         ],
         "investor": "SGI",
         "construction_permit_date": "10.08.2022",
-        "project": "https://www.skyscrapercity.com/attachments/1728385215489-png.8031706/"
+        "project_url": "https://www.skyscrapercity.com/attachments/1728385215489-png.8031706/"
     },
     {
         "id": 4,
@@ -94,6 +94,201 @@
         ],
         "investor": "Spravia/Dom Development",
         "construction_permit_date": "01.02.2023",
-        "project": "https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/"
+        "project_url": "https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/"
+    },
+    {
+        "id": 5,
+        "description": "Mokotów Sportowy",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16"
+        },
+        "investor": "Dom Development",
+        "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506176.977594721&Y=5784791.092417153&S=14&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
+    },
+    {
+        "id": 6,
+        "description": "7 KUL Marzycieli",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082"
+        },
+        "construction_permit":[
+            {
+                "text": "Decyzja zmieniająca 4/Z/2022",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-obwieszczenie-o-wydaniu-decyzji-nr-4-z-2022-zmieniajacej-ostateczna-decyzje-nr-1-z-2022-z-dmiia-2022r-7-kul-4069300"
+            },
+            {
+                "text": "Decyzja 1/Z/2022",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-7-kul-8567424"
+            },
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-budowa-drogi-gminnej-7-kul-w-rejonie-ul.-polskiej-7812753"
+            }
+        ],
+        "investor": "YIT",
+        "construction_permit_date": "01.06.2022",
+        "construction_end_date": "Q1.2025"
+    },
+    {
+        "id": 7,
+        "description": "Ananasowa/Gąsocińska SGI",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-4288-2023-z-2023-08-30-7365831-2885409-2048880"
+        },
+        "construction_permit":[
+            {
+                "text": "Decyzja 7/MOK/ZRID/2024",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-budowe-fragmentow-drog-gminnych-ul.-ananasowej-16-kdd-oraz-ul.-gasocinskiej-34-kud.-966938"
+            },
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-budowe-drog-gminnych-ul.-ananasowej-ul.-bartyckiej-ul.-dywizjonu-ak-jelen-ul.-gasocinskiej.-5256171"
+            }
+        ],
+        "investor": "SGI",
+        "construction_permit_date": "13.06.2024",
+        "project_url": "https://www.skyscrapercity.com/attachments/1728385347670-png.8031714/"
+    },
+    {
+        "id": 8,
+        "description": "Kaloryczna Robyg",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-1090/2025-z-2025-03-12"
+        },
+        "investor": "Robyg"
+    },
+    {
+        "id": 9,
+        "description": "33 KUD",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-47/2024-z-2024-06-26"
+        },
+        "construction_permit":[
+            {
+                "text": "Decyzja 15/MOK/ZRID/2024",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowania-terenu-osady-siekierki-jako-33-kud-na-odcinku-od-skrzyzowania-z-droga-30-kud-bez-sk"
+            },
+            {
+                "text": "Wniosek",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-oraz-zebraniu-materialow-i-dowodow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowan"
+            }
+        ],
+        "investor": "SGI",
+        "construction_permit_date": "27.12.2024",
+        "project_url": "https://www.skyscrapercity.com/attachments/1737383634132-png.8592808/"
+    },
+    {
+        "id": 10,
+        "description": "Dantex Antoniewska",
+        "investor": "Dantex",
+        "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
+    },
+    {
+        "id": 11,
+        "description": "Pułku AK Waligóra Bluszczańska-Krybar",
+        "investor": "Budimex Nieruchomości",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154"
+        },
+        "construction_end_date": "~2015"        
+    },
+    {
+        "id": 12,
+        "description": "Krybar",
+        "investor": "Budimex Nieruchomości",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5592-2014-z-2014-03-26-7110845-1954993-7209555"
+        },
+        "construction_end_date": "~2015"        
+    },
+    {
+        "id": 13,
+        "description": "Kątna Kątna",
+        "investor": "Kątna Sp. z o.o.",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10"
+        }        
+    },
+    {
+        "id": 14,
+        "description": "Ananasowa Budimex",
+        "investor": "Kątna Sp. z o.o.",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-1390-2015-z-2015-09-23-5479726-9977009-3515020"
+        }        
+    },
+    {
+        "id": 15,
+        "description": "40 KDD Plac Wiślany",
+        "investor": "APM",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3969-2023-z-2023-06-28-9864745-3628183-4939935"
+        },
+        "construction_permit":[
+            {
+                "text": "Wyszukiwarka GUNB",
+                "url": "https://wyszukiwarka.gunb.gov.pl/wniosek/3ccd9e77-0826-4e6b-aee2-2dc9a9bf837f/"
+            }
+        ],
+        "project_url": "https://www.skyscrapercity.com/attachments/1737383757770-png.8592820/"      
+    },
+    {
+        "id": 16,
+        "description": "Kostszyńska APM",
+        "investor": "APM",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3969-2023-z-2023-06-28-9864745-3628183-4939935"
+        },
+        "construction_permit":[
+            {
+                "text": "Decyzja 1/MOK/ZRID/2024",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-nr-1-mok-zrid-2024-zezwalajacej-na-budowe-rozbudowe-ulicy-kostrzynskiej-na-odcinku-od-ul-zawodzie-do-ul-biechowskiej-5033776"
+            },
+            
+            {
+                "text": "Zebranie dowodów",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-dowodow-w-s-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-ulicy-kostrzynskiej-na-odcinku-od-ul-zawodzie-do-ul-biechowskiej-3585017"
+            },
+            
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-ws.-inwestycji-drogowej-polegajacej-na-budowie-ulicy-kostrzynskiej-na-odc.-od-ul.-zawodzie-do-ul.-biechowskiej-671705"
+            }
+        ],
+        "construction_permit_date": "15.01.2024",
+        "project_url": "https://www.skyscrapercity.com/attachments/1737383757770-png.8592820/"      
+    },
+    {
+        "id": 17,
+        "description": "35 KUD",
+        "investor": "? Ronson ?",
+        "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504909.888011405&Y=5785818.800229643&S=17&O=0&T=7fe778011fe004016dba49249246cdb6ffx2F"
+    },
+    {
+        "id": 15,
+        "description": "Waligóry Bluszczańska-Ryś",
+        "investor": "SGI",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3969-2023-z-2023-06-28-9864745-3628183-4939935"
+        },
+        "construction_permit":[
+            {
+                "text": "PnB 291/B/2021",
+                "url": "http://wyszukiwarka.gunb.gov.pl/wniosek/47c24e50-a1ea-49fa-815b-d86ae1371d69/"
+            }
+        ],
+        "construction_permit_date": "13.10.2021"     
     }
 ]

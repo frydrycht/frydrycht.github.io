@@ -63,7 +63,8 @@
                 setOrHideUrl("contract_row", "contract", investment.contract?investment.contract.url:null, investment.contract?investment.contract.text:null);
                 setOrHide("env_decision_date_row", "env_decision_date", investment.env_decision_date);
                 setOrHide("construction_permit_date_row", "construction_permit_date", investment.construction_permit_date);
-                setOrHideUrl("project_row", "project", investment.project, "Projekt");
+                setOrHideUrl("project_row", "project", investment.project_url, "Projekt");
+                setOrHideUrl("zud_row", "zud", investment.zud_url, "Mapa");
                 setOrHide("construction_start_date_row", "construction_start_date", investment.construction_start_date);
                 setOrHide("construction_end_date_row", "construction_end_date", investment.construction_end_date);
 
@@ -155,6 +156,10 @@
         <tr id="project_row">
             <th>Projekt</th>
             <td id="project"></td>
+        </tr>
+        <tr id="zud_row">
+            <th>Mapa z planowanym uzbrojeniem</th>
+            <td id="zud"></td>
         </tr>
         <tr id="construction_start_date_row">
             <th>Start budowy</th>
