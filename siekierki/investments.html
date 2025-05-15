@@ -46,13 +46,24 @@
                     }
                 }
 
+                // Pomocnicza funkcja do ukrywania wierszy
+                function setOrHideUrl(rowId, cellId, url, text) {
+                    const row = document.getElementById(rowId);
+                    const cell = document.getElementById(cellId);
+                    if (!url || url === "" || (Array.isArray(url) && url.length === 0)) {
+                        if (row) row.style.display = "none";
+                    } else {
+                        if (cell) cell.appendChild(createLink(text, url));
+                    }
+                }
+
                 // Standardowe pola tekstowe
                 setOrHide("investor_row", "investor", investment.investor);
-                setOrHide("url_row", "url", investment.url);
+                setOrHideUrl("url_row", "url", investment.url);
                 setOrHide("contract_row", "contract", investment.contract);
                 setOrHide("env_decision_date_row", "env_decision_date", investment.env_decision_date);
                 setOrHide("construction_permit_date_row", "construction_permit_date", investment.construction_permit_date);
-                setOrHide("project_row", "project", investment.project);
+                setOrHideUrl("project_row", "project", investment.project, "Projekt");
                 setOrHide("construction_start_date_row", "construction_start_date", investment.construction_start_date);
                 setOrHide("construction_end_date_row", "construction_end_date", investment.construction_end_date);
 
@@ -66,15 +77,19 @@
                     }
                     cell.innerHTML = ""; // Czyść zawartość
                     items.forEach((item, index) => {
-                        const a = document.createElement("a");
-                        a.href = item.url;
-                        a.textContent = item.text || item.url;
-                        a.target = "_blank";
-                        cell.appendChild(a);
+                        cell.appendChild(createLink(item.text, item.url));
                         if (index < items.length - 1) {
                             cell.appendChild(document.createElement("br"));
                         }
                     });
+                }
+
+                function createLink(text, url) {
+                    const a = document.createElement("a");
+                    a.href = url;
+                    a.textContent = text || url;
+                    a.target = "_blank";
+                    return a;
                 }
 
                 fillLinks("env_decision_row", "env_decision", investment.env_decision);
@@ -87,12 +102,21 @@
         });
     </script>
     <style>
-        body
-        {
+        body {
             font-family: "fira_sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
         }
-        th
-        {
+
+        table {
+            font-size: 0.9em;
+            color: #333;
+            border-collapse: collapse;
+        }
+
+        tr {
+            border-bottom: 0.1em solid #CCC;
+        }
+
+        th {
             text-align: left;
         }
     </style>
