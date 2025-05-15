@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "description": "Wiślany Mokotów VIII",
+        "env_decision": [
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm"
+            },
+            {
+                "text": "Decyzja",
+                "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm"
+            }
+        ],
+        "construction_permit": [
+            {
+                "text": "PnB",
+                "url": "http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/"
+            }
+        ],
+        "name": "Wiślany Mokotów VIII",
+        "env_decision_date": "4.11.2021",
+        "info": "",
+        "investor": "Spravia (Budimex Nieruchomości)",
+        "construction_start_date": "05.2024",
+        "url": "https://wislanymokotow.pl/e8/",
+        "construction_permit_date": "9.11.2023"
+    }
+]
