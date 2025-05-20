@@ -28,8 +28,16 @@
 
             const investId = getQueryParam("invest-id");
             if (!investId) {
-                const container = document.getElementById("investment_details_table");
-                if (container) container.style.display = "none";
+                const rowsToHide = [
+                    "investor_row", "url_row", "contract_row", "env_decision_date_row",
+                    "construction_permit_date_row", "project_row", "zud_row",
+                    "construction_start_date_row", "construction_end_date_row",
+                    "env_decision_row", "construction_permit_row", "info_row"
+                ];
+                rowsToHide.forEach(id => {
+                    const el = document.getElementById(id);
+                    if (el) el.style.display = "none";
+                });
                 return;
             }
 
