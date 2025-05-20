@@ -97,6 +97,29 @@
                 fillLinks("env_decision_row", "env_decision", investment.env_decision);
                 fillLinks("construction_permit_row", "construction_permit", investment.construction_permit);
 
+                function fillInfo(rowId, cellId, items) {
+                    const row = document.getElementById(rowId);
+                    const cell = document.getElementById(cellId);
+                    if (!items || items.length === 0) {
+                        if (row) row.style.display = "none";
+                        return;
+                    }
+                    cell.innerHTML = "";
+                    items.forEach((item, index) => {
+                        if (item.url) {
+                            cell.appendChild(createLink(item.text, item.url));
+                        } else {
+                            const span = document.createElement("span");
+                            span.textContent = item.text;
+                            cell.appendChild(span);
+                        }
+                        if (index < items.length - 1) {
+                            cell.appendChild(document.createElement("br"));
+                        }
+                    });
+                }
+
+                fillInfo("info_row", "info", investment.info);
             } catch (error) {
                 console.error("Błąd wczytywania danych:", error);
                 alert("Wystąpił błąd podczas ładowania danych.");
@@ -196,6 +219,11 @@
             <th>Oddanie do użytku</th>
             <td id="construction_end_date"></td>
         </tr>
+        <tr id="info_row">
+            <th>Informacje</th>
+            <td id="info"></td>
+        </tr>
+
     </table>
 </body>
 

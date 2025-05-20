@@ -393,5 +393,22 @@
             }
         ],
         "construction_permit_date": "12.04.2021"
+    },
+    {
+        "id": 27,
+        "description": "APW Czerniakowska-TS",
+        "investor": "UM Warszawa",
+        "construction_end_date": "02.2019"
+    },
+    {
+        "id": 28,
+        "description": "APW TS-EC Siekierki",
+        "investor": "UM Warszawa",
+        "info":[
+            {
+                "text": "Przetarg na dokumentację",
+                "url": "https://szrm.ezamawiajacy.pl/pn/szrm/demand/notice/public/167400/details"
+            }
+        ]
     }
 ]
