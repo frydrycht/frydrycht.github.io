@@ -410,5 +410,11 @@
                 "url": "https://szrm.ezamawiajacy.pl/pn/szrm/demand/notice/public/167400/details"
             }
         ]
+    },
+    {
+        "id": 29,
+        "description": "Dantex Ku Wiśle",
+        "investor": "Dantex",
+        "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504500.180719725&Y=5786718.449708823&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
     }
 ]
