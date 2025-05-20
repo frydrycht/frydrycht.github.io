@@ -8,6 +8,24 @@
                 return urlParams.get(name);
             }
 
+            function setOrHide(rowId, cellId, value) {
+                const row = document.getElementById(rowId);
+                const cell = document.getElementById(cellId);
+                if (!value || value === "" || (Array.isArray(value) && value.length === 0)) {
+                    if (row) row.style.display = "none";
+                } else {
+                    if (cell) cell.textContent = value;
+                }
+            }
+
+            // Nowe pola z query string
+            setOrHide("name_row", "name", getQueryParam("name"));
+            setOrHide("ref_mpzp_row", "ref_mpzp", getQueryParam("ref-mpzp"));
+            setOrHide("bus_row", "bus", getQueryParam("bus"));
+            setOrHide("tram_row", "tram", getQueryParam("tram"));
+            setOrHide("cycleway_row", "cycleway", getQueryParam("cycleway"));
+            setOrHide("status_street_row", "status_street", getQueryParam("status-street"));
+
             const investId = getQueryParam("invest-id");
             if (!investId) {
                 const container = document.getElementById("investment_details_table");
@@ -19,35 +37,19 @@
                 const response = await fetch("data.json");
                 const rawData = await response.json();
 
-                // Zakładamy, że plik JSON to mapa { [id]: obiekt } lub tablica
                 let investment = null;
 
                 if (Array.isArray(rawData)) {
-                    console.log("array");
                     investment = rawData.find(item => item.id == investId);
                 } else if (typeof rawData === "object") {
                     investment = rawData[investId];
                 }
-
-                console.log(investment);
 
                 if (!investment) {
                     alert(`Nie znaleziono inwestycji o id: ${investId}`);
                     return;
                 }
 
-                // Pomocnicza funkcja do ukrywania wierszy
-                function setOrHide(rowId, cellId, value) {
-                    const row = document.getElementById(rowId);
-                    const cell = document.getElementById(cellId);
-                    if (!value || value === "" || (Array.isArray(value) && value.length === 0)) {
-                        if (row) row.style.display = "none";
-                    } else {
-                        if (cell) cell.textContent = value;
-                    }
-                }
-
-                // Pomocnicza funkcja do ukrywania wierszy
                 function setOrHideUrl(rowId, cellId, url, text) {
                     const row = document.getElementById(rowId);
                     const cell = document.getElementById(cellId);
@@ -58,7 +60,6 @@
                     }
                 }
 
-                // Standardowe pola tekstowe
                 setOrHide("investor_row", "investor", investment.investor);
                 setOrHideUrl("url_row", "url", investment.url);
                 setOrHideUrl("contract_row", "contract", investment.contract ? investment.contract.url : null, investment.contract ? investment.contract.text : null);
@@ -69,7 +70,6 @@
                 setOrHide("construction_start_date_row", "construction_start_date", investment.construction_start_date);
                 setOrHide("construction_end_date_row", "construction_end_date", investment.construction_end_date);
 
-                // Pola z tablicami linków
                 function fillLinks(rowId, cellId, items) {
                     const row = document.getElementById(rowId);
                     const cell = document.getElementById(cellId);
@@ -77,7 +77,7 @@
                         if (row) row.style.display = "none";
                         return;
                     }
-                    cell.innerHTML = ""; // Czyść zawartość
+                    cell.innerHTML = "";
                     items.forEach((item, index) => {
                         cell.appendChild(createLink(item.text, item.url));
                         if (index < items.length - 1) {
@@ -126,6 +126,32 @@
 
 <body>
     <table id="investment_details_table">
+        <tr id="name_row">
+            <th>Nazwa</th>
+            <td id="name"></td>
+        </tr>
+        <tr id="ref_mpzp_row">
+            <th>Identyfikator MPZP</th>
+            <td id="ref_mpzp"></td>
+        </tr>
+        <tr id="bus_row">
+            <th>Autobus</th>
+            <td id="bus"></td>
+        </tr>
+        <tr id="tram_row">
+            <th>Tramwaj</th>
+            <td id="tram"></td>
+        </tr>
+        <tr id="cycleway_row">
+            <th>DDR</th>
+            <td id="cycleway"></td>
+        </tr>
+        <tr id="status_street_row">
+            <th>Status</th>
+            <td id="status_street"></td>
+        </tr>
+
+        <!-- Dotychczasowe wiersze -->
         <tr id="investor_row">
             <th>Inwestor</th>
             <td id="investor"></td>
@@ -171,7 +197,6 @@
             <td id="construction_end_date"></td>
         </tr>
     </table>
-
 </body>
 
 </html>
