@@ -10,7 +10,8 @@
 
             const investId = getQueryParam("invest-id");
             if (!investId) {
-                alert("Brak parametru 'invest-id' w adresie URL.");
+                const container = document.getElementById("investment_details_table");
+                if (container) container.style.display = "none";
                 return;
             }
 
@@ -60,7 +61,7 @@
                 // Standardowe pola tekstowe
                 setOrHide("investor_row", "investor", investment.investor);
                 setOrHideUrl("url_row", "url", investment.url);
-                setOrHideUrl("contract_row", "contract", investment.contract?investment.contract.url:null, investment.contract?investment.contract.text:null);
+                setOrHideUrl("contract_row", "contract", investment.contract ? investment.contract.url : null, investment.contract ? investment.contract.text : null);
                 setOrHide("env_decision_date_row", "env_decision_date", investment.env_decision_date);
                 setOrHide("construction_permit_date_row", "construction_permit_date", investment.construction_permit_date);
                 setOrHideUrl("project_row", "project", investment.project_url, "Projekt");
@@ -124,7 +125,7 @@
 </head>
 
 <body>
-    <table>
+    <table id="investment_details_table">
         <tr id="investor_row">
             <th>Inwestor</th>
             <td id="investor"></td>
