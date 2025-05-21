@@ -416,5 +416,34 @@
         "description": "Dantex Ku Wiśle",
         "investor": "Dantex",
         "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504500.180719725&Y=5786718.449708823&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
+    },
+    {
+        "id": 30,
+        "description": "Bałtyk APW-Bluszczańska",
+        "investor": "Budimex Nieruchomości/Spravia",
+        "construction_end_date": "03.2021",
+        "project_url":"https://um.warszawa.pl/documents/61166/62887705/Batalionu+AK+Ba%C5%82tyk+-+SOR+zatw.+budowa+ulicy.zip/ebbefe70-4550-60ad-be31-18eca4658ab4?t=1665661553429"
+    },
+    {
+        "id": 31,
+        "description": "Bartycka",
+        "investor": "UM Warszawa",
+        "info":[
+            {
+                "text": "28.08.2023 podpisano umowę na projekt przebudowy"
+            },
+            {
+                "text": "Projektant w sierpniu 2021 odstąpił od umowy",
+                "url": "https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539"
+            },
+            {
+                "text": "Opis SZRM",
+                "url": "https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/"
+            },
+            {
+                "text": "Postępowanie DŚU",
+                "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm"
+            }
+        ]
     }
 ]
