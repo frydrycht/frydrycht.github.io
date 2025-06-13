@@ -524,29 +524,7 @@
         "investor": "UD Mokotów"
     },
     {
-        "id": 38,
-        "description": "Marzycieli",
-        "investor": "YIT",
-        "contract": {
-            "text": "Uchwała zarządu dzielnicy",
-            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082"
-        },
-        "construction_permit": [
-            {
-                "text": "Decyzja zmieniająca 4/Z/2022",
-                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-obwieszczenie-o-wydaniu-decyzji-nr-4-z-2022-zmieniajacej-ostateczna-decyzje-nr-1-z-2022-z-dmiia-2022r-7-kul-4069300"
-            },
-            {
-                "text": "Decyzja 1/Z/2022",
-                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-7-kul-8567424"
-            },
-            {
-                "text": "Wszczęcie",
-                "url": "https://bip.um.warszawa.pl/web/mokotow/-/zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-budowa-drogi-gminnej-7-kul-w-rejonie-ul.-polskiej-7812753"
-            }
-        ],
-        "construction_permit_date": "01.06.2022",
-        "construction_end_date": "Q1.2025"
+        "id": 38
     },
     {
         "id": 39,
