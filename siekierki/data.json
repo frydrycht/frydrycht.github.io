@@ -447,6 +447,11 @@
     {
         "id": 32,
         "description": "Bluszczańska Figowa-Piniowa",
+        "investor": "Mill-yon",
+        "contract": {
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-292-2019-z-2019-02-20-2026256-5603348-6428605"
+        },
         "construction_permit": [
             {
                 "text": "Decyzja 8/MOK/ZRID/2024",
@@ -457,7 +462,6 @@
                 "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-przebudowie-ul.-bluszczanskiej.-621686"
             }
         ],
-        "investor": "Mill-yon",
         "construction_start_date": "09.2024",
         "construction_permit_date": "08.08.2024",
         "project_url": "https://www.skyscrapercity.com/attachments/1728385265416-png.8031708/"
