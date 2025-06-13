@@ -40,6 +40,11 @@
     {
         "id": 2,
         "description": "30 KUD Kiwi",
+        "investor": "Ronson",
+        "contract": {
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2561-2021-z-2021-10-20-9153331-7417380-1848367"
+        },
         "construction_permit": [
             {
                 "text": "Decyzja 1/Z/2023",
@@ -50,7 +55,6 @@
                 "url": "https://bip.um.warszawa.pl/web/mokotow/-/obwieszczenie-o-wszczeciu-postepowania-administracyjnego-droga-gminna-30-kud-5538386"
             }
         ],
-        "investor": "Ronson",
         "construction_start_date": "02.2025",
         "construction_permit_date": "28.02.2023"
     },
@@ -77,6 +81,7 @@
         ],
         "investor": "SGI",
         "construction_permit_date": "10.08.2022",
+        "construction_start_date": "08.2024",
         "project_url": "https://www.skyscrapercity.com/attachments/1728385215489-png.8031706/"
     },
     {
@@ -94,6 +99,7 @@
         ],
         "investor": "Spravia/Dom Development",
         "construction_permit_date": "01.02.2023",
+        "construction_start_date": "Q1.2025",
         "project_url": "https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/"
     },
     {
@@ -129,6 +135,7 @@
         ],
         "investor": "YIT",
         "construction_permit_date": "01.06.2022",
+        "construction_start_date": "Q1.2024",
         "construction_end_date": "Q1.2025"
     },
     {
@@ -396,7 +403,9 @@
         "id": 27,
         "description": "APW Czerniakowska-TS",
         "investor": "UM Warszawa",
-        "construction_end_date": "02.2019"
+        "construction_start_date": "06.2017",
+        "construction_end_date": "02.2019",
+        "project_url": "https://um.warszawa.pl/documents/61166/62887705/al.+Polski+Walcz%C4%85cej+%28Czerniakowska%29+-+SOR+zatw.zip/888f1a99-baa1-3bd6-ce3c-2fd182b6f374?t=1665490518276"
     },
     {
         "id": 28,
