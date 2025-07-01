@@ -164,14 +164,14 @@
         "description": "Kaloryczna Robyg",
         "contract": {
             "text": "Uchwała zarządu dzielnicy",
-            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-1090/2025-z-2025-03-12",
-            "construction_permit":[
-                {
-                    "text": "Wszczęcie",
-                    "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-ulicy-kalorycznej-na-odcinku-168-09-m-wraz-z-budowa-kanalizacji-deszczowej-oraz-zbiornikiem-re"
-                }
-            ]
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-1090/2025-z-2025-03-12"
         },
+        "construction_permit": [
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-ulicy-kalorycznej-na-odcinku-168-09-m-wraz-z-budowa-kanalizacji-deszczowej-oraz-zbiornikiem-re"
+            }
+        ],
         "investor": "Robyg"
     },
     {
@@ -565,7 +565,6 @@
             {
                 "text": "budowa DDR i oświetlenia z Budżetu Obywatelskiego"
             }
-
         ]
     },
     {
