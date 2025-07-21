@@ -23,7 +23,6 @@
             border-collapse: collapse;
             background-color: #1a1a1a;
             color: white;
-            overflow: hidden;
             box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
         }
 
@@ -39,6 +38,13 @@
             background-color: #222;
             color: #ccc;
             font-weight: bold;
+        }
+
+        thead th {
+            position: sticky;
+            top: 0;
+            background-color: #222;
+            z-index: 3;
         }
 
         tr:nth-child(even) {
