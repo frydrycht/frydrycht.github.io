@@ -137,7 +137,8 @@
         "investor": "YIT",
         "construction_permit_date": "01.06.2022",
         "construction_start_date": "Q1.2024",
-        "construction_end_date": "Q1.2025"
+        "construction_end_date": "Q1.2025",
+        "project_url": "https://drive.google.com/file/d/1T66VUQUVxwpEXgWl6yCY8DoBeU4-iQiN/view"
     },
     {
         "id": 7,
@@ -210,6 +211,15 @@
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154"
         },
+        "construction_permit":[
+            {
+                "text": "Zamienny ZRID 6/Z/2017"
+            },
+            {
+                "text": "ZRID 1/Z/2016"
+            }
+        ],
+        "construction_permit_date": "30-09-2016",
         "construction_end_date": "~2015"
     },
     {
@@ -301,7 +311,10 @@
                 "url": "http://wyszukiwarka.gunb.gov.pl/wniosek/47c24e50-a1ea-49fa-815b-d86ae1371d69/"
             }
         ],
-        "construction_permit_date": "13.10.2021"
+        "construction_permit_date": "13.10.2021",
+        "construction_start_date": "Q2.2023",
+        "construction_end_date": "11.2023",
+        "project_url": "https://drive.google.com/file/d/1j-PPfVplRY8AMz9yBz_bRrGD0GrECBXA/view"
     },
     {
         "id": 19,
@@ -392,7 +405,9 @@
                 "url": "http://wyszukiwarka.gunb.gov.pl/wniosek/2dbd8ea6-12e0-4537-a3f2-eaa36efc41d1/"
             }
         ],
-        "construction_permit_date": "12.04.2021"
+        "construction_permit_date": "12.04.2021",
+        "construction_start_date": "Q3.2021",
+        "construction_end_date": "12.2021"
     },
     {
         "id": 26,
@@ -435,6 +450,12 @@
         "id": 30,
         "description": "Bałtyk APW-Bluszczańska",
         "investor": "Budimex Nieruchomości/Spravia",
+        "construction_permit":[
+            {
+                "text": "ZRID 2/Z/2020"
+            }
+        ],
+        "construction_permit_date": "14.05.2020",
         "construction_end_date": "03.2021",
         "project_url": "https://um.warszawa.pl/documents/61166/62887705/Batalionu+AK+Ba%C5%82tyk+-+SOR+zatw.+budowa+ulicy.zip/ebbefe70-4550-60ad-be31-18eca4658ab4?t=1665661553429"
     },
@@ -514,6 +535,15 @@
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154"
         },
+        "construction_permit":[
+            {
+                "text": "Zamienny ZRID 6/Z/2017"
+            },
+            {
+                "text": "ZRID 1/Z/2016"
+            }
+        ],
+        "construction_permit_date": "30-09-2016",
         "construction_end_date": "~2015"
     },
     {
@@ -536,6 +566,12 @@
     {
         "id": 39,
         "description": "Grupy AK Północ",
+        "construction_permit":[
+            {
+                "text": "ZRID 691/2010"
+            }
+        ],
+        "construction_permit_date": "06.10.2010",
         "construction_end_date": "~2012"
     },
     {
@@ -557,6 +593,7 @@
             }
         ],
         "construction_permit_date": "26.05.2025",
+        "construction_start_date": "07.2025",
         "project_url": "https://um.warszawa.pl/documents/61166/63025835/Bluszcza%C5%84ska+%28AK+Walig%C3%B3ra+-+AK+P%C3%B3%C5%82noc%29+-+SOR+DDR+UD+Mokot%C3%B3w+2025.pdf/a262fd32-7496-c682-108c-c6b3e7e40415?t=1748008901153",
         "info": [
             {
