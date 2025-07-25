@@ -7,15 +7,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
-            font-family: "fira_sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+            font-family: "fira_sans", sans-serif;
             color: white;
             background-color: #1a1a1a;
+            padding: 2rem;
+        }
+
+        h1 {
+            margin-bottom: 1rem;
+        }
+
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .legend,
+        .filter {
+            background-color: #222;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 0 5px rgba(255, 255, 255, 0.05);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 0.5rem;
+            border-radius: 3px;
+        }
+
+        .legend-yellow { background-color: #4d4d00; }
+        .legend-orange { background-color: #804000; }
+        .legend-red { background-color: #661111; }
+        .legend-green { background-color: #0f3d0f; }
+        .legend-none { background-color: #444; }
+
+        .filter select {
+            background-color: #333;
+            color: white;
+            padding: 0.5rem;
+            border: 1px solid #555;
+            border-radius: 5px;
         }
 
         .table-container {
             width: 100%;
             overflow-x: auto;
-            margin-top: 2rem;
+            margin-top: 1rem;
         }
 
         table {
@@ -47,10 +94,6 @@
             z-index: 3;
         }
 
-        tr:nth-child(even) {
-            background-color: #181818;
-        }
-
         a {
             color: #4da6ff;
             text-decoration: none;
@@ -60,17 +103,13 @@
             text-decoration: underline;
         }
 
+        .row-yellow { background-color: #4d4d00 !important; color: #fff7cc; }
+        .row-orange { background-color: #804000 !important; color: #ffe0cc; }
+        .row-red { background-color: #661111 !important; color: #ffcccc; }
+        .row-green { background-color: #0f3d0f !important; color: #ccffcc; }
+
         @media (max-width: 768px) {
-
-            table,
-            thead,
-            tbody,
-            th,
-            td,
-            tr {
-                display: block;
-            }
-
+            table, thead, tbody, th, td, tr { display: block; }
             tr {
                 margin-bottom: 1rem;
                 border: 1px solid #333;
@@ -78,18 +117,13 @@
                 background-color: #121212;
                 padding: 0.5rem;
             }
-
-            th {
-                display: none;
-            }
-
+            th { display: none; }
             td {
                 position: relative;
                 padding-left: 50%;
                 border: none;
                 border-bottom: 1px solid #333;
             }
-
             td::before {
                 content: attr(data-label);
                 position: absolute;
@@ -104,82 +138,139 @@
 
 <body>
     <h1>Dane z pliku JSON</h1>
-    <div id="table-container">Ładowanie danych...</div>
+
+    <div class="controls">
+        <div class="legend">
+            <div class="legend-item"><div class="legend-color legend-yellow"></div> Tylko pozwolenie budowlane</div>
+            <div class="legend-item"><div class="legend-color legend-orange"></div> Ma datę pozwolenia</div>
+            <div class="legend-item"><div class="legend-color legend-red"></div> W budowie</div>
+            <div class="legend-item"><div class="legend-color legend-green"></div> Zakończona inwestycja</div>
+            <div class="legend-item"><div class="legend-color legend-none"></div> Inny status</div>
+        </div>
+
+        <div class="filter">
+            <label for="stageFilter">Filtruj wg etapu:</label><br>
+            <select id="stageFilter">
+                <option value="all">Wszystkie</option>
+                <option value="yellow">Tylko pozwolenie budowlane</option>
+                <option value="orange">Ma datę pozwolenia</option>
+                <option value="red">W budowie</option>
+                <option value="green">Zakończona inwestycja</option>
+                <option value="none">Inny status</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="table-container" id="table-container">Ładowanie danych...</div>
 
     <script>
         function createLink(obj) {
             if (!obj) return '';
             const text = obj.text || '';
             const url = obj.url || '';
-
-            if (url.trim() === '') {
-                return text; // brak linku, pokazujemy tylko tekst
-            }
-
-            return `<a href="${url}" target="_blank">${text || url}</a>`;
+            return url.trim() ? `<a href="${url}" target="_blank">${text || url}</a>` : text;
         }
 
         function createList(items) {
-            if (!Array.isArray(items) || items.length === 0) {
-                return '';
-            }
+            if (!Array.isArray(items) || items.length === 0) return '';
             return items.map(item => `<div>${createLink(item)}</div>`).join('');
+        }
+
+        let rawData = [];
+
+        function determineRowClass(entry) {
+            if (entry.construction_end_date) return 'row-green';
+            if (entry.construction_start_date) return 'row-red';
+            if (entry.construction_permit_date) return 'row-orange';
+            if (entry.construction_permit && entry.construction_permit.length > 0) return 'row-yellow';
+            return ''; // Inny status
+        }
+
+        function renderTable(data) {
+            const container = document.getElementById('table-container');
+            if (!Array.isArray(data) || data.length === 0) {
+                container.innerHTML = "Brak danych.";
+                return;
+            }
+
+            let html = `<table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Opis</th>
+                        <th>Inwestor</th>
+                        <th>Umowa</th>
+                        <th>Decyzja środowiskowa</th>
+                        <th>Data uzyskania DŚU</th>
+                        <th>Pozwolenia budowlane</th>
+                        <th>Data pozwolenia</th>
+                        <th>Link do projektu</th>
+                        <th>Rozpoczęcie budowy</th>
+                        <th>Oddanie do użytku</th>
+                        <th>Informacje</th>
+                    </tr>
+                </thead>
+                <tbody>`;
+
+            data.forEach(entry => {
+                const rowClass = determineRowClass(entry);
+                html += `<tr class="${rowClass}">
+                    <td data-label="ID">${entry.id ?? ''}</td>
+                    <td data-label="Opis">${entry.description ?? ''}</td>
+                    <td data-label="Inwestor">${entry.investor ?? ''}</td>
+                    <td data-label="Umowa">${createLink(entry.contract)}</td>
+                    <td data-label="Decyzja środowiskowa">${createList(entry.env_permit)}</td>
+                    <td data-label="Data uzyskania DŚU">${entry.env_permit_date ?? ''}</td>
+                    <td data-label="Pozwolenia budowlane">${createList(entry.construction_permit)}</td>
+                    <td data-label="Data pozwolenia">${entry.construction_permit_date ?? ''}</td>
+                    <td data-label="Link do projektu">${entry.project_url ? `<a href="${entry.project_url}" target="_blank">Projekt</a>` : ''}</td>
+                    <td data-label="Rozpoczęcie budowy">${entry.construction_start_date ?? ''}</td>
+                    <td data-label="Oddanie do użytku">${entry.construction_end_date ?? ''}</td>
+                    <td data-label="Informacje">${createList(entry.info)}</td>
+                </tr>`;
+            });
+
+            html += `</tbody></table>`;
+            container.innerHTML = html;
+        }
+
+        function applyFilter() {
+            const value = document.getElementById('stageFilter').value;
+
+            if (value === 'all') {
+                renderTable(rawData);
+                return;
+            }
+
+            const classMap = {
+                yellow: 'row-yellow',
+                orange: 'row-orange',
+                red: 'row-red',
+                green: 'row-green',
+            };
+
+            let filtered;
+            if (value === 'none') {
+                filtered = rawData.filter(entry => determineRowClass(entry) === '');
+            } else {
+                filtered = rawData.filter(entry => determineRowClass(entry) === classMap[value]);
+            }
+
+            renderTable(filtered);
         }
 
         fetch('data.json')
             .then(response => response.json())
             .then(data => {
-                const container = document.getElementById('table-container');
-                if (!Array.isArray(data) || data.length === 0) {
-                    container.innerHTML = "Brak danych.";
-                    return;
-                }
-
-                let html = `<table>
-          <thead>
-            <tr>
-              <th>ID</th>
-              <th>Opis</th>
-              <th>Inwestor</th>
-              <th>Umowa</th>
-              <th>Decyzja środowiskowa</th>
-              <th>Data uzyskania DŚU</th>
-              <th>Pozwolenia budowlane</th>
-              <th>Data pozwolenia</th>
-              <th>Link do projektu</th>
-              <th>Rozpoczęcie budowy</th>
-              <th>Oddanie do użytku</th>
-              <th>Informacje</th>
-            </tr>
-          </thead>
-          <tbody>`;
-
-                data.forEach(entry => {
-                    html += `<tr>
-    <td data-label="ID">${entry.id ?? ''}</td>
-    <td data-label="Opis">${entry.description ?? ''}</td>
-    <td data-label="Inwestor">${entry.investor ?? ''}</td>
-    <td data-label="Umowa">${createLink(entry.contract)}</td>
-    <td data-label="Decyzja środowiskowa">${createList(entry.env_permit)}</td>
-    <td data-label="Data uzyskania DŚU">${entry.env_permit_date ?? ''}</td>
-    <td data-label="Pozwolenia budowlane">${createList(entry.construction_permit)}</td>
-    <td data-label="Data pozwolenia">${entry.construction_permit_date ?? ''}</td>
-    <td data-label="Link do projektu">
-        ${entry.project_url ? `<a href="${entry.project_url}" target="_blank">Projekt</a>` : ''}
-        </td>
-    <td data-label="Rozpoczęcie budowy">${entry.construction_start_date ?? ''}</td>
-    <td data-label="Oddanie do użytku">${entry.construction_end_date ?? ''}</td>
-        <td data-label="Informacje">${createList(entry.info)}</td>
-        </tr>`;
-                });
-
-                html += `</tbody></table>`;
-                container.innerHTML = html;
+                rawData = data;
+                renderTable(rawData);
             })
             .catch(err => {
                 document.getElementById('table-container').innerText = "Błąd podczas ładowania danych.";
                 console.error("Błąd JSON:", err);
             });
+
+        document.getElementById('stageFilter').addEventListener('change', applyFilter);
     </script>
 </body>
 

@@ -33,8 +33,9 @@
             }
         ],
         "investor": "Mill-yon",
-        "construction_start_date": "02.2025",
         "construction_permit_date": "9.12.2024",
+        "construction_start_date": "02.2025",
+        "construction_end_date": "07.2025",
         "project_url": "https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/"
     },
     {
@@ -383,7 +384,8 @@
                 "url": "https://wyszukiwarka.gunb.gov.pl/wniosek/5fa333f9-f4b1-40c7-afe7-c299b1513aef/"
             }
         ],
-        "construction_permit_date": "22.08.2019"
+        "construction_permit_date": "22.08.2019",
+        "construction_end_date": "Q4.2022"
     },
     {
         "id": 24,
@@ -418,8 +420,7 @@
                 "text": "Wszczęcie postępowania",
                 "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowania-przestrzennego-rejonu-augustowki-czesc-i-w-r"
             }
-        ],
-        "construction_permit_date": "12.04.2021"
+        ]
     },
     {
         "id": 27,
@@ -499,8 +500,9 @@
                 "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-przebudowie-ul.-bluszczanskiej.-621686"
             }
         ],
-        "construction_start_date": "09.2024",
         "construction_permit_date": "08.08.2024",
+        "construction_start_date": "09.2024",
+        "construction_end_date": "07.2025",
         "project_url": "https://www.skyscrapercity.com/attachments/1728385265416-png.8031708/"
     },
     {
