@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Dane z JSON</title>
+    <title>Przegląd inwestycji</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
@@ -45,11 +45,25 @@
             border-radius: 3px;
         }
 
-        .legend-yellow { background-color: #4d4d00; }
-        .legend-orange { background-color: #804000; }
-        .legend-red { background-color: #661111; }
-        .legend-green { background-color: #0f3d0f; }
-        .legend-none { background-color: #444; }
+        .legend-yellow {
+            background-color: #4d4d00;
+        }
+
+        .legend-orange {
+            background-color: #804000;
+        }
+
+        .legend-red {
+            background-color: #661111;
+        }
+
+        .legend-green {
+            background-color: #0f3d0f;
+        }
+
+        .legend-none {
+            background-color: #444;
+        }
 
         .filter select {
             background-color: #333;
@@ -92,6 +106,10 @@
             top: 0;
             background-color: #222;
             z-index: 3;
+            white-space: normal;
+            word-wrap: break-word;
+            hyphens: auto;
+            max-width: 150px;
         }
 
         a {
@@ -103,13 +121,37 @@
             text-decoration: underline;
         }
 
-        .row-yellow { background-color: #4d4d00 !important; color: #fff7cc; }
-        .row-orange { background-color: #804000 !important; color: #ffe0cc; }
-        .row-red { background-color: #661111 !important; color: #ffcccc; }
-        .row-green { background-color: #0f3d0f !important; color: #ccffcc; }
+        .row-yellow {
+            background-color: #4d4d00 !important;
+            color: #fff7cc;
+        }
+
+        .row-orange {
+            background-color: #804000 !important;
+            color: #ffe0cc;
+        }
+
+        .row-red {
+            background-color: #661111 !important;
+            color: #ffcccc;
+        }
+
+        .row-green {
+            background-color: #0f3d0f !important;
+            color: #ccffcc;
+        }
 
         @media (max-width: 768px) {
-            table, thead, tbody, th, td, tr { display: block; }
+
+            table,
+            thead,
+            tbody,
+            th,
+            td,
+            tr {
+                display: block;
+            }
+
             tr {
                 margin-bottom: 1rem;
                 border: 1px solid #333;
@@ -117,46 +159,61 @@
                 background-color: #121212;
                 padding: 0.5rem;
             }
-            th { display: none; }
-            td {
-                position: relative;
-                padding-left: 50%;
-                border: none;
-                border-bottom: 1px solid #333;
+
+            th {
+                display: none;
             }
+
+            td {
+                display: flex;
+                flex-direction: column;
+                padding-left: 1rem;
+            }
+
             td::before {
                 content: attr(data-label);
-                position: absolute;
-                left: 1rem;
-                top: 0.75rem;
                 font-weight: bold;
                 color: #aaa;
+                margin-bottom: 0.25rem;
+                white-space: normal;
+                word-break: break-word;
+                hyphens: auto;
             }
         }
     </style>
 </head>
 
 <body>
-    <h1>Dane z pliku JSON</h1>
+    <h1>Przegląd inwestycji</h1>
 
     <div class="controls">
         <div class="legend">
-            <div class="legend-item"><div class="legend-color legend-yellow"></div> Tylko pozwolenie budowlane</div>
-            <div class="legend-item"><div class="legend-color legend-orange"></div> Ma datę pozwolenia</div>
-            <div class="legend-item"><div class="legend-color legend-red"></div> W budowie</div>
-            <div class="legend-item"><div class="legend-color legend-green"></div> Zakończona inwestycja</div>
-            <div class="legend-item"><div class="legend-color legend-none"></div> Inny status</div>
+            <div class="legend-item">
+                <div class="legend-color legend-none"></div> Planowane
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-yellow"></div> Złożony wniosek PnB/ZRID
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-orange"></div> Wydane PnB/ZRID
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-red"></div> W budowie
+            </div>
+            <div class="legend-item">
+                <div class="legend-color legend-green"></div> Zakończone
+            </div>
         </div>
 
         <div class="filter">
             <label for="stageFilter">Filtruj wg etapu:</label><br>
             <select id="stageFilter">
                 <option value="all">Wszystkie</option>
-                <option value="yellow">Tylko pozwolenie budowlane</option>
-                <option value="orange">Ma datę pozwolenia</option>
+                <option value="none">Planowane</option>
+                <option value="yellow">Złożony wniosek PnB/ZRID</option>
+                <option value="orange">Wydane PnB/ZRID</option>
                 <option value="red">W budowie</option>
-                <option value="green">Zakończona inwestycja</option>
-                <option value="none">Inny status</option>
+                <option value="green">Zakończone</option>
             </select>
         </div>
     </div>
@@ -183,7 +240,7 @@
             if (entry.construction_start_date) return 'row-red';
             if (entry.construction_permit_date) return 'row-orange';
             if (entry.construction_permit && entry.construction_permit.length > 0) return 'row-yellow';
-            return ''; // Inny status
+            return ''; // Planowane
         }
 
         function renderTable(data) {
