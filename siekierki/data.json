@@ -447,6 +447,10 @@
         "id": 29,
         "description": "Dantex Ku Wiśle",
         "investor": "Dantex",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-1652/2025-z-2025-07-30"
+        },
         "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504500.180719725&Y=5786718.449708823&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
     },
     {
