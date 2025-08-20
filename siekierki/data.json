@@ -573,7 +573,15 @@
         "construction_end_date": "Q3.2019"
     },
     {
-        "id": 38
+        "id": 38,
+        "description": "Przebudowa Bananowej i Wału Zawadowskiego",
+        "investor": "UD Mokotów",
+        "info":[
+            {
+                "text": "Przetarg na opracowanie dokumentacji",
+                "url": "https://zamowienia.um.warszawa.pl/pn/umw/demand/notice/public/136793/details"
+            }
+        ]
     },
     {
         "id": 39,
