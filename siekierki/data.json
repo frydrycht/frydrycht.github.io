@@ -57,7 +57,8 @@
             }
         ],
         "construction_start_date": "02.2025",
-        "construction_permit_date": "28.02.2023"
+        "construction_permit_date": "28.02.2023",
+        "construction_end_date": "10.2025"
     },
     {
         "id": 3,
@@ -171,11 +172,16 @@
         },
         "construction_permit": [
             {
+                "text": "Decyzja 6/MOK/ZRID/2025",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-ulicy-kalorycznej-na-odcinku-168-09-m-wraz-z-budowa-kanalizacji-deszczowej-oraz-zbiornikiem-retencyjno-rozsaczajacym-oswietleniem-i-kanalem-techn"
+            },
+            {
                 "text": "Wszczęcie",
                 "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-ulicy-kalorycznej-na-odcinku-168-09-m-wraz-z-budowa-kanalizacji-deszczowej-oraz-zbiornikiem-re"
             }
         ],
         "investor": "Robyg",
+        "construction_permit_date": "30.09.2025",
         "project_url": "https://drive.google.com/file/d/1KEcGRp-biv4FcSHyWnwzeATtpAN4p9yQ/view?usp=sharing"
     },
     {
