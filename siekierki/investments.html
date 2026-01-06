@@ -1,247 +1,219 @@
-<html>
+<!DOCTYPE html>
+<html lang="pl">
 
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8742BD1FMV"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+    <meta charset="UTF-8">
+    <title>Investment details</title>
 
-        gtag('config', 'G-8742BD1FMV');
-    </script>
-    <script>
-        document.addEventListener("DOMContentLoaded", async () => {
-            function getQueryParam(name) {
-                const urlParams = new URLSearchParams(window.location.search);
-                return urlParams.get(name);
-            }
-
-            function setOrHide(rowId, cellId, value) {
-                const row = document.getElementById(rowId);
-                const cell = document.getElementById(cellId);
-                if (!value || value === "" || (Array.isArray(value) && value.length === 0)) {
-                    if (row) row.style.display = "none";
-                } else {
-                    if (cell) cell.textContent = value;
-                }
-            }
-
-            // Nowe pola z query string
-            setOrHide("name_row", "name", getQueryParam("name"));
-            setOrHide("ref_mpzp_row", "ref_mpzp", getQueryParam("ref-mpzp"));
-            setOrHide("bus_row", "bus", getQueryParam("bus"));
-            setOrHide("tram_row", "tram", getQueryParam("tram"));
-            setOrHide("cycleway_row", "cycleway", getQueryParam("cycleway"));
-            setOrHide("status_street_row", "status_street", getQueryParam("status-street"));
-
-            const investId = getQueryParam("invest-id");
-            if (!investId) {
-                const rowsToHide = [
-                    "investor_row", "url_row", "contract_row", "env_decision_date_row",
-                    "construction_permit_date_row", "project_row", "zud_row",
-                    "construction_start_date_row", "construction_end_date_row",
-                    "env_decision_row", "construction_permit_row", "info_row"
-                ];
-                rowsToHide.forEach(id => {
-                    const el = document.getElementById(id);
-                    if (el) el.style.display = "none";
-                });
-                return;
-            }
-
-            try {
-                const response = await fetch("data.json");
-                const rawData = await response.json();
-
-                let investment = null;
-
-                if (Array.isArray(rawData)) {
-                    investment = rawData.find(item => item.id == investId);
-                } else if (typeof rawData === "object") {
-                    investment = rawData[investId];
-                }
-
-                if (!investment) {
-                    alert(`Nie znaleziono inwestycji o id: ${investId}`);
-                    return;
-                }
-
-                function setOrHideUrl(rowId, cellId, url, text) {
-                    const row = document.getElementById(rowId);
-                    const cell = document.getElementById(cellId);
-                    if (!url || url === "" || (Array.isArray(url) && url.length === 0)) {
-                        if (row) row.style.display = "none";
-                    } else {
-                        if (cell) cell.appendChild(createLink(text, url));
-                    }
-                }
-
-                setOrHide("investor_row", "investor", investment.investor);
-                setOrHideUrl("url_row", "url", investment.url);
-                setOrHideUrl("contract_row", "contract", investment.contract ? investment.contract.url : null, investment.contract ? investment.contract.text : null);
-                setOrHide("env_decision_date_row", "env_decision_date", investment.env_decision_date);
-                setOrHide("construction_permit_date_row", "construction_permit_date", investment.construction_permit_date);
-                setOrHideUrl("project_row", "project", investment.project_url, "Projekt");
-                setOrHideUrl("zud_row", "zud", investment.zud_url, "Mapa");
-                setOrHide("construction_start_date_row", "construction_start_date", investment.construction_start_date);
-                setOrHide("construction_end_date_row", "construction_end_date", investment.construction_end_date);
-
-                function fillLinks(rowId, cellId, items) {
-                    const row = document.getElementById(rowId);
-                    const cell = document.getElementById(cellId);
-                    if (!items || items.length === 0) {
-                        if (row) row.style.display = "none";
-                        return;
-                    }
-                    cell.innerHTML = "";
-                    items.forEach((item, index) => {
-                        cell.appendChild(createLink(item.text, item.url));
-                        if (index < items.length - 1) {
-                            cell.appendChild(document.createElement("br"));
-                        }
-                    });
-                }
-
-                function createLink(text, url) {
-                    const a = document.createElement("a");
-                    a.href = url;
-                    a.textContent = text || url;
-                    a.target = "_blank";
-                    return a;
-                }
-
-                fillLinks("env_decision_row", "env_decision", investment.env_decision);
-                fillLinks("construction_permit_row", "construction_permit", investment.construction_permit);
-
-                function fillInfo(rowId, cellId, items) {
-                    const row = document.getElementById(rowId);
-                    const cell = document.getElementById(cellId);
-                    if (!items || items.length === 0) {
-                        if (row) row.style.display = "none";
-                        return;
-                    }
-                    cell.innerHTML = "";
-                    items.forEach((item, index) => {
-                        if (item.url) {
-                            cell.appendChild(createLink(item.text, item.url));
-                        } else {
-                            const span = document.createElement("span");
-                            span.textContent = item.text;
-                            cell.appendChild(span);
-                        }
-                        if (index < items.length - 1) {
-                            cell.appendChild(document.createElement("br"));
-                        }
-                    });
-                }
-
-                fillInfo("info_row", "info", investment.info);
-            } catch (error) {
-                console.error("Błąd wczytywania danych:", error);
-                alert("Wystąpił błąd podczas ładowania danych.");
-            }
-        });
-    </script>
     <style>
         body {
-            font-family: "fira_sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+            font-family: system-ui, sans-serif;
         }
 
         table {
-            font-size: 0.9em;
-            color: #333;
             border-collapse: collapse;
-        }
-
-        tr {
-            border-bottom: 0.1em solid #CCC;
+            font-size: 0.9em;
+            width: 100%;
         }
 
         th {
             text-align: left;
+            padding: 6px;
+            background: #f4f4f4;
+            width: 220px;
+        }
+
+        td {
+            padding: 6px;
+        }
+
+        tr {
+            border-bottom: 1px solid #ccc;
+        }
+
+        .nested-table {
+            width: 100%;
+            margin-top: 6px;
+        }
+
+        .nested-table th {
+            background: #fafafa;
+            width: auto;
         }
     </style>
 </head>
 
 <body>
-    <table id="investment_details_table">
+
+    <table id="investment_table">
         <tr id="name_row">
             <th>Nazwa</th>
             <td id="name"></td>
         </tr>
-        <tr id="ref_mpzp_row">
-            <th>Identyfikator MPZP</th>
-            <td id="ref_mpzp"></td>
-        </tr>
-        <tr id="bus_row">
-            <th>Autobus</th>
-            <td id="bus"></td>
-        </tr>
-        <tr id="tram_row">
-            <th>Tramwaj</th>
-            <td id="tram"></td>
-        </tr>
-        <tr id="cycleway_row">
-            <th>DDR</th>
-            <td id="cycleway"></td>
-        </tr>
-        <tr id="status_street_row">
-            <th>Status</th>
-            <td id="status_street"></td>
-        </tr>
 
-        <!-- Dotychczasowe wiersze -->
         <tr id="investor_row">
             <th>Inwestor</th>
             <td id="investor"></td>
         </tr>
-        <tr id="url_row">
-            <th>Strona www</th>
-            <td id="url"></td>
-        </tr>
-        <tr id="contract_row">
-            <th>Umowa</th>
-            <td id="contract"></td>
-        </tr>
-        <tr id="env_decision_row">
-            <th>Decyzja środowiskowa</th>
-            <td id="env_decision"></td>
-        </tr>
-        <tr id="env_decision_date_row">
-            <th>Data uzyskania DŚU</th>
-            <td id="env_decision_date"></td>
-        </tr>
-        <tr id="construction_permit_row">
-            <th>Pozwolenie na budowę</th>
-            <td id="construction_permit"></td>
-        </tr>
-        <tr id="construction_permit_date_row">
-            <th>Data uzyskania PnB</th>
-            <td id="construction_permit_date"></td>
-        </tr>
-        <tr id="project_row">
-            <th>Projekt</th>
-            <td id="project"></td>
-        </tr>
-        <tr id="zud_row">
-            <th>Mapa z planowanym uzbrojeniem</th>
-            <td id="zud"></td>
-        </tr>
-        <tr id="construction_start_date_row">
-            <th>Start budowy</th>
-            <td id="construction_start_date"></td>
-        </tr>
-        <tr id="construction_end_date_row">
-            <th>Oddanie do użytku</th>
-            <td id="construction_end_date"></td>
-        </tr>
-        <tr id="info_row">
-            <th>Informacje</th>
-            <td id="info"></td>
+
+        <tr id="description_row">
+            <th>Opis</th>
+            <td id="description"></td>
         </tr>
 
+        <tr id="website_row">
+            <th>Strona www</th>
+            <td id="website"></td>
+        </tr>
+
+        <tr id="status_row">
+            <th>Status</th>
+            <td id="status"></td>
+        </tr>
+
+        <tr id="construction_permit_date_row">
+            <th>Data PnB</th>
+            <td id="construction_permit_date"></td>
+        </tr>
+
+        <tr id="construction_permit_row">
+            <th>Pozwolenia na budowę</th>
+            <td id="construction_permit"></td>
+        </tr>
     </table>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", async () => {
+
+            function getQueryParam(name) {
+                return new URLSearchParams(window.location.search).get(name);
+            }
+
+            function setOrHide(rowId, cellId, value) {
+                const row = document.getElementById(rowId);
+                const cell = document.getElementById(cellId);
+
+                if (!value) {
+                    row.style.display = "none";
+                } else {
+                    cell.textContent = value;
+                }
+            }
+
+            function setLinkOrHide(rowId, cellId, url) {
+                const row = document.getElementById(rowId);
+                const cell = document.getElementById(cellId);
+
+                if (!url) {
+                    row.style.display = "none";
+                } else {
+                    const a = document.createElement("a");
+                    a.href = url;
+                    a.textContent = url;
+                    a.target = "_blank";
+                    cell.appendChild(a);
+                }
+            }
+
+            const investId = getQueryParam("invest-id");
+            if (!investId) {
+                alert("Brak parametru invest-id");
+                return;
+            }
+
+            try {
+                const [investmentsRes, pnbRes] = await Promise.all([
+                    fetch("/siekierki/data/investments.json"),
+                    fetch("/siekierki/data/pnb-data.json")
+                ]);
+
+                const investments = await investmentsRes.json();
+                const pnbData = await pnbRes.json();
+
+                const investment = investments.find(i => i.invest_id === investId);
+
+                if (!investment) {
+                    alert("Nie znaleziono inwestycji");
+                    return;
+                }
+
+                setOrHide("name_row", "name", investment.name);
+                setOrHide("investor_row", "investor", investment.investor);
+                setOrHide("description_row", "description", investment.description);
+                setLinkOrHide("website_row", "website", investment.website?.trim());
+                setOrHide("status_row", "status", investment.status);
+                setOrHide(
+                    "construction_permit_date_row",
+                    "construction_permit_date",
+                    investment.construction_permit_date
+                );
+
+                fillConstructionPermits(
+                    "construction_permit_row",
+                    "construction_permit",
+                    investment.construction_permit,
+                    pnbData
+                );
+
+            } catch (err) {
+                console.error(err);
+                alert("Błąd ładowania danych");
+            }
+
+            function fillConstructionPermits(rowId, cellId, permitIds, pnbData) {
+                const row = document.getElementById(rowId);
+                const cell = document.getElementById(cellId);
+
+                if (!permitIds || permitIds.length === 0) {
+                    row.style.display = "none";
+                    return;
+                }
+
+                const matched = pnbData.filter(p =>
+                    permitIds.includes(p.id)
+                );
+
+                if (matched.length === 0) {
+                    row.style.display = "none";
+                    return;
+                }
+
+                const table = document.createElement("table");
+                table.className = "nested-table";
+
+                table.innerHTML = `
+        <tr>
+            <th>Wnioskodawca</th>
+            <th>Przedmiot inwestycji</th>
+            <th>Decyzja</th>
+            <th>Data decyzji</th>
+            <th>Link</th>
+        </tr>
+    `;
+
+                matched.forEach(p => {
+                    const tr = document.createElement("tr");
+
+                    tr.innerHTML = `
+            <td>${p.wnioskodawca || ""}</td>
+            <td>${p.przedmiot_inwestycji || ""}</td>
+            <td>${p.decyzja || ""}</td>
+            <td>${p.data_decyzji || ""}</td>
+            <td>
+                ${p.link
+                            ? `<a href="https://wyszukiwarka.gunb.gov.pl/${p.link}" target="_blank">Zobacz</a>`
+                            : ""}
+            </td>
+        `;
+
+                    table.appendChild(tr);
+                });
+
+                cell.appendChild(table);
+            }
+        });
+    </script>
+
 </body>
 
 </html>
