@@ -368,7 +368,7 @@
   {
     "invest_id": "8a3ff60d-4176-4545-a5e8-201cb8592654",
     "name": "Plac przed wejściem na Kopiec PW",
-    "investor": "",
+    "investor": "Zarząd Zieleni Warszawa",
     "description": "Etap IA Parku Akcji \"Burza\"",
     "info": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3c1bffd7-f3ed-11ed-b70f-ae2d9e28ec7b",
     "website": "",
@@ -512,7 +512,7 @@
   {
     "invest_id": "fca3aee6-c849-4cf7-a1de-4ee44eac291c",
     "name": "Zielono Mi I",
-    "investor": "",
+    "investor": "Ronson",
     "description": "etap I - 2 budynki, ok. 92 mieszkania, ok. 91 miejsc postojowych, 1 kondygnacja podziemna, 4 nadziemne, oddzielne hale garażowe pod budynkami (etap nie wymaga decyzji środowiskowej)",
     "info": "",
     "website": "https://ronson.pl/zielono-mi/",
@@ -585,7 +585,7 @@
   {
     "invest_id": "e966fa3f-cc09-4dd4-9696-5fe608ae79d9",
     "name": "Szkoła",
-    "investor": "",
+    "investor": "UM Warszawa",
     "description": "Teren zarezerwowany pod szkołę",
     "info": "W 2022 mają się rozpocząć prace przygotowawcze https://um.warszawa.pl/-/trudny-budzet-2022-stolica-nie-rezygnuje-z-inwestycji\nWe wrześniu 2024 nabyto jedną z działek pod budowę szkoły.",
     "website": "",
@@ -674,7 +674,7 @@
   {
     "invest_id": "253a1b5a-e3e9-48a4-a57b-ac889790408b",
     "name": "Osiedle przy Bernardyńskiej ",
-    "investor": "Apricot Capital Group, Greenfields",
+    "investor": "Apricot Capital Group",
     "description": "3 budynki wielorodzinne, max 6 kondygnacji, 74 budynki jednorodzinne, max 3 kondygnacje",
     "info": "https://www.sadyba24.pl/wiadomosci/item/2616-nowe-osiedle-zbuduja-na-polach-przy-jeziorku-czerniakowskim",
     "website": "",
@@ -708,7 +708,7 @@
   {
     "invest_id": "d0a21488-fe89-4aea-83df-df2279a205f0",
     "name": "Park Akcji Burza",
-    "investor": "Zarząd Zieleni",
+    "investor": "Zarząd Zieleni Warszawa",
     "description": "",
     "info": "",
     "website": "",
@@ -724,7 +724,7 @@
   {
     "invest_id": "4c85a465-693a-4178-9ae3-ad1cb39c6e74",
     "name": "",
-    "investor": "ACG 18 > Apricot",
+    "investor": "Apricot Capital Group",
     "description": "4 budynki mieszkalne z usługami w parterach, max 6 kondygnacji, max 3 kondygnacje podziemne\nkomunikacja 7 KDL + ?25 KDD? lub 4KDL + ?25 KDD?",
     "info": "",
     "website": "",
@@ -740,7 +740,7 @@
   {
     "invest_id": "441fa318-2812-40aa-bc62-c230b19beb49",
     "name": "",
-    "investor": "ACG 15 > Apricot",
+    "investor": "Apricot Capital Group",
     "description": "1 budynek wielorodzinny z usługami w parterze, max 6 kondygnacji, 27 budynków jednorodzinnych 2 lokalowych, max 3 kondygnacje\nkomunikacja 4 KDL + 5 KDL",
     "info": "",
     "website": "",
@@ -758,7 +758,7 @@
   {
     "invest_id": "6ec02ef5-ec48-48ce-a22a-339af4d87c47",
     "name": "",
-    "investor": "Strawberry Investment > Apricot",
+    "investor": "Apricot Capital Group",
     "description": "1 budynek wielorodzinny z usługami w parterze, max 6 kondygnacji, 27 budynków jednorodzinnych 2 lokalowych, max 3 kondygnacje\nkomunikacja 4 KDL + 5 KDL\n",
     "info": "",
     "website": "",
@@ -829,7 +829,7 @@
   {
     "invest_id": "b2f19802-5219-4247-be70-34d8e8be78cd",
     "name": "",
-    "investor": "Dom Development/Palamia",
+    "investor": "Dom Development",
     "description": "etap 3B: 2-5 kondygnacji, 0k. 112 mieszkań, ok. 3 lokale usługowe",
     "info": "",
     "website": "",
@@ -1002,7 +1002,7 @@
   {
     "invest_id": "7a207d9e-9f06-499b-91ab-b70b346b237c",
     "name": "",
-    "investor": "Wawa Novum ",
+    "investor": "Wawa Novum",
     "description": "budowa zespołu 3 budynków mieszkalnych wielorodzinnych wraz z infrastrukturą oraz rozbiórką istniejących instalacji zewnętrznych",
     "info": "",
     "website": "",
@@ -1022,7 +1022,7 @@
   {
     "invest_id": "9a277720-16f7-48d5-98eb-99bf2c7c04f9",
     "name": "",
-    "investor": "Dom Development, Palamia > Dom Development",
+    "investor": "Dom Development",
     "description": "kubatura: 27706 + 18361",
     "info": "",
     "website": "",
@@ -1058,7 +1058,7 @@
   {
     "invest_id": "9e28b76b-8cc8-48fd-96e9-596db1454be1",
     "name": "",
-    "investor": "Fregate Investments Sp. z o.o. > Dom Development",
+    "investor": "Dom Development",
     "description": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi w parterze, garażem podziemnym oraz niezbędną infrastrukturą techniczną",
     "info": "",
     "website": "",
@@ -1076,7 +1076,7 @@
   {
     "invest_id": "ec228eaf-fbb4-4e4e-b923-b7325a8e7ac1",
     "name": "",
-    "investor": "Petunia Sp. z o.o., Fregate Investments Sp. z o.o., Dom Land Sp. z o.o. > Dom Development",
+    "investor": "Dom Development",
     "description": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz niezbędną infrastrukturą techniczną\nkubatura: 24893 + 22174 + \n15297",
     "info": "",
     "website": "",
@@ -1153,7 +1153,7 @@
   {
     "invest_id": "631706a5-e289-400d-a49b-13ccdc66c2cc",
     "name": "Piniova Apartamenty",
-    "investor": "WSD ZZ 8 Sp. z o.o. (White Stone Development)",
+    "investor": "White Stone Development",
     "description": "2 budynki wielorodzinne, 74 mieszkania",
     "info": "https://www.urbanity.pl/mazowieckie/warszawa/rusza-budowa-kameralnego-osiedla-na-mokotowie-w-planach-dewelopera-nastepne-inwestycje,w26547",
     "website": "",
@@ -1172,7 +1172,7 @@
   {
     "invest_id": "2513f726-7cdc-4ccd-8a96-3d6193b1edeb",
     "name": "",
-    "investor": "Petunia Sp. z o.o./Dom Development",
+    "investor": "Dom Development",
     "description": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami, garażem podziemnym i zagospodarowaniem terenu",
     "info": "",
     "website": "",
@@ -1283,8 +1283,8 @@
   },
   {
     "invest_id": "78034ffa-1993-45ae-a2a2-3ee7c41c34bd",
-    "name": "? Robyg ?",
-    "investor": "",
+    "name": "",
+    "investor": "Robyg",
     "description": "",
     "info": "baner ROBYG na ogrodzeniu",
     "website": "",
@@ -1495,7 +1495,7 @@
   {
     "invest_id": "6f9a5938-1d1a-4ec4-a6e2-3b2849d0c0c5",
     "name": "Rytm Mokotowa",
-    "investor": "Robyg/AMP Atelier Sp. z o.o.",
+    "investor": "Robyg",
     "description": "",
     "info": "",
     "website": "https://robyg.pl/warszawa/inwestycje/rytm-mokotowa",
@@ -1642,7 +1642,7 @@
   {
     "invest_id": "5f141fb2-293f-4149-ac6a-7ef4ab0da809",
     "name": "Plac Wiślany ",
-    "investor": "APM/Mallson",
+    "investor": "APM",
     "description": "30 sklepów, 100 miejsc parkingowych\nhttp://www.mallson.pl/pl/projekty/projekty-w-realizacji/warszawa-plac-wislany\n-----\nGaraż podziemny ok.5700 m2 + nadziemny ok 1200 m2\n",
     "info": "12.04.2022 wydano decyzję odmawiającą wydania decyzji środowiskowej ",
     "website": "",
@@ -1661,7 +1661,7 @@
   {
     "invest_id": "19f06586-6f48-47f1-882a-fc6e526e9407",
     "name": "Plac Wiślany",
-    "investor": "APM/Mallson",
+    "investor": "APM",
     "description": "30 sklepów, 100 miejsc parkingowych\nhttp://www.mallson.pl/pl/projekty/projekty-w-realizacji/warszawa-plac-wislany\n-----\nGaraż podziemny ok.5700 m2 + nadziemny ok 1200 m2",
     "info": "",
     "website": "",
