@@ -643,7 +643,16 @@
     "website": "https://czerniakowski.pl/pl/osiedle-mokotow-miodowy/",
     "environmental_permit": "",
     "environmental_permit_date": "",
-    "construction_permit": [],
+    "construction_permit": [
+      "8b765764-1bf9-4e43-aac4-1ca3aeef89e7",
+      "99d9f7f4-d446-43be-b13a-4b33ffe600e7",
+      "395a8f57-4191-4551-909b-c4ac1c5b8245",
+      "2a44aec9-f61e-4ea5-8270-55478175f6b2",
+      "8c85a45c-8c1d-446b-9f24-51413c453438",
+      "9c47c25a-3533-4b15-af0a-c6a663a747ab",
+      "2bdca846-b47a-46cb-93af-7b7bb5716b29",
+      "cddc1cdf-8cd6-4105-8a7c-a61fe96df4e6"
+    ],
     "construction_permit_date": "",
     "gx_media_links": null,
     "status": "Planowane",
@@ -829,7 +838,7 @@
   {
     "invest_id": "b2f19802-5219-4247-be70-34d8e8be78cd",
     "name": "",
-    "investor": "Dom Development/Palamia",
+    "investor": "Dom Development",
     "description": "etap 3B: 2-5 kondygnacji, 0k. 112 mieszkań, ok. 3 lokale usługowe",
     "info": "",
     "website": "",
@@ -1022,7 +1031,7 @@
   {
     "invest_id": "9a277720-16f7-48d5-98eb-99bf2c7c04f9",
     "name": "",
-    "investor": "Dom Development, Palamia > Dom Development",
+    "investor": "Dom Development",
     "description": "kubatura: 27706 + 18361",
     "info": "",
     "website": "",
@@ -1058,7 +1067,7 @@
   {
     "invest_id": "9e28b76b-8cc8-48fd-96e9-596db1454be1",
     "name": "",
-    "investor": "Fregate Investments Sp. z o.o. > Dom Development",
+    "investor": "Dom Development",
     "description": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi w parterze, garażem podziemnym oraz niezbędną infrastrukturą techniczną",
     "info": "",
     "website": "",

@@ -195,10 +195,10 @@
                     const tr = document.createElement("tr");
 
                     tr.innerHTML = `
-            <td>${p.wnioskodawca || ""}</td>
-            <td>${p.przedmiot_inwestycji || ""}</td>
-            <td>${p.decyzja || ""}</td>
-            <td>${p.data_decyzji || ""}</td>
+            <td>${p.applicant || ""}</td>
+            <td>${p.project_subject || ""}</td>
+            <td>${p.decision || ""}</td>
+            <td>${p.decision_date || ""}</td>
             <td>
                 ${p.link
                             ? `<a href="https://wyszukiwarka.gunb.gov.pl/${p.link}" target="_blank">Zobacz</a>`
