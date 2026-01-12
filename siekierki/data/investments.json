@@ -574,7 +574,8 @@
     "environmental_permit": "",
     "environmental_permit_date": "",
     "construction_permit": [
-      "74b57d81-b474-40e7-a692-19cb7063c40c"
+      "74b57d81-b474-40e7-a692-19cb7063c40c",
+      "716904ff-a495-4b9b-8824-2170801f5c5c"
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
@@ -1029,72 +1030,23 @@
     "construction_start_date": null
   },
   {
-    "invest_id": "9a277720-16f7-48d5-98eb-99bf2c7c04f9",
-    "name": "",
-    "investor": "Dom Development",
-    "description": "kubatura: 27706 + 18361",
-    "info": "",
-    "website": "",
-    "environmental_permit": "",
-    "environmental_permit_date": "",
-    "construction_permit": [
-      "db85f68b-81a2-4ec0-bc21-4a17022da931",
-      "d5fd3469-ac06-4621-9b7d-0c6ef957bdb6",
-      "12d9a27f-897a-4055-8be7-d5b9c35424f4"
-    ],
-    "construction_permit_date": "",
-    "gx_media_links": null,
-    "status": "Planowane",
-    "start_date": null,
-    "construction_start_date": null
-  },
-  {
     "invest_id": "a0170949-cf89-4f87-91e6-9960d27aec88",
     "name": "",
     "investor": "Dom Development",
-    "description": "",
-    "info": "",
-    "website": "",
-    "environmental_permit": "",
-    "environmental_permit_date": "",
-    "construction_permit": [],
-    "construction_permit_date": "",
-    "gx_media_links": null,
-    "status": "Planowane",
-    "start_date": null,
-    "construction_start_date": null
-  },
-  {
-    "invest_id": "9e28b76b-8cc8-48fd-96e9-596db1454be1",
-    "name": "",
-    "investor": "Dom Development",
-    "description": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi w parterze, garażem podziemnym oraz niezbędną infrastrukturą techniczną",
+    "description": "Bartycka",
     "info": "",
     "website": "",
     "environmental_permit": "",
     "environmental_permit_date": "",
     "construction_permit": [
-      "f141ecc3-e87a-4bc9-8091-79b5779631be"
-    ],
-    "construction_permit_date": "",
-    "gx_media_links": null,
-    "status": "Planowane",
-    "start_date": null,
-    "construction_start_date": null
-  },
-  {
-    "invest_id": "ec228eaf-fbb4-4e4e-b923-b7325a8e7ac1",
-    "name": "",
-    "investor": "Dom Development",
-    "description": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz niezbędną infrastrukturą techniczną\nkubatura: 24893 + 22174 + \n15297",
-    "info": "",
-    "website": "",
-    "environmental_permit": "",
-    "environmental_permit_date": "",
-    "construction_permit": [
+      "a0918771-6e84-4d63-9bae-fdee3c1a5817",
+      "db85f68b-81a2-4ec0-bc21-4a17022da931",
+      "d5fd3469-ac06-4621-9b7d-0c6ef957bdb6",
+      "12d9a27f-897a-4055-8be7-d5b9c35424f4",
       "8f7c1b76-9e37-42b9-a277-dfb704d3341f",
       "aeaba999-8887-49b6-863f-7d94bb4c0da0",
-      "ff5e6d36-89bf-4687-ae37-4669e66a5368"
+      "ff5e6d36-89bf-4687-ae37-4669e66a5368",
+      "f141ecc3-e87a-4bc9-8091-79b5779631be"
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
@@ -1703,6 +1655,39 @@
     "construction_permit_date": "16.05.2025",
     "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorP6o4iBtpgf5kwyoGTjIkLBqw3DrQs-I1st5pzwbbIIN5hJJ5BicUxOW8tCPJEdWSZ9dsK5A8y0CThyg2OpnxtspQ15GfJm0vjlvOO9GGHwHdTrOZARGV1aZaVffBhZP2IfcLfG4S6sz7gCrzds_DqcWkSzYrJF7nhmXG6b5LXFNUQEo_ynhmxskG-8L52CtLD-qmi7K_UNeG4R-oafKLCs9XVTNujOHm66-lWlto1eJjyEufnCgYY0td8Cw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop55GL2Sd42hAxnqy16yrtWF3Tyz06vmrqI0umy7e-ACyur_IKBhpLfM6NnhmS64ngoTbgdBl0MVvgWLsu1F-bB4DE2AvGVkgAPgm05HI8Raknk7hFMUpahK9pVLkjnyiyaDodVwj-udpx2f95wk1UHPPWTh5lG6JAuAeMcmI0zyYIKxBMnfYQNYJfRBLcu9J26IDGgCZjUki0xwypHt4ixMsM-4_CVaiT7R1zslAMWojTsBxNXd1NlDMgz3g?authuser=0&fife=s16383",
     "status": "W budowie",
+    "start_date": null,
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "e77bc23e-3231-4266-b8b8-4f5e9609b21c",
+    "name": "",
+    "investor": "SBM \"Klub Dwustu\"",
+    "description": "",
+    "info": "",
+    "environmental_permit": "",
+    "environmental_permit_date": "",
+    "construction_permit": [
+      "bc59a624-040d-4f62-9739-e105994566fe",
+      "83677b37-4d4c-43f6-ad40-a8dcc3ecff7b"
+    ],
+    "construction_permit_date": "",
+    "status": "Planowane",
+    "start_date": null,
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "6e036af4-42a4-499d-83e0-e4f924ecb7a0",
+    "name": "",
+    "investor": "INVEST Sp. z o.o.",
+    "description": "",
+    "info": "",
+    "environmental_permit": "",
+    "environmental_permit_date": "",
+    "construction_permit": [
+      "bde8268b-0301-4eac-9b41-f4333beb9877"
+    ],
+    "construction_permit_date": "",
+    "status": "Planowane",
     "start_date": null,
     "construction_start_date": ""
   }
