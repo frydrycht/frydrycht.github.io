@@ -4,31 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Investment details</title>
-
+    
     <style>
         body {
-            font-family: system-ui, sans-serif;
+            font-family: "fira_sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
         }
 
         table {
-            border-collapse: collapse;
             font-size: 0.9em;
-            width: 100%;
+            color: #333;
+            border-collapse: collapse;
+        }
+
+        tr {
+            border-bottom: 0.1em solid #CCC;
         }
 
         th {
             text-align: left;
-            padding: 6px;
-            background: #f4f4f4;
-            width: 220px;
-        }
-
-        td {
-            padding: 6px;
-        }
-
-        tr {
-            border-bottom: 1px solid #ccc;
         }
 
         .nested-table {
@@ -80,6 +73,16 @@
             <th>Pozwolenia na budowę</th>
             <td id="construction_permit"></td>
         </tr>
+
+        <tr id="environmental_permit_date_row">
+            <th>Data decyzji środowiskowej</th>
+            <td id="environmental_permit_date"></td>
+        </tr>
+
+        <tr id="environmental_permit_row">
+            <th>Decyzja środowiskowa</th>
+            <td id="environmental_permit"></td>
+        </tr>
     </table>
 
     <script>
@@ -122,13 +125,15 @@
             }
 
             try {
-                const [investmentsRes, pnbRes] = await Promise.all([
+                const [investmentsRes, pnbRes, envRes] = await Promise.all([
                     fetch("/siekierki/data/investments.json"),
-                    fetch("/siekierki/data/pnb-data.json")
+                    fetch("/siekierki/data/pnb-data.json"),
+                    fetch("/siekierki/data/env-data.json")
                 ]);
 
                 const investments = await investmentsRes.json();
                 const pnbData = await pnbRes.json();
+                const envData = await envRes.json();
 
                 const investment = investments.find(i => i.invest_id === investId);
 
@@ -153,6 +158,19 @@
                     "construction_permit",
                     investment.construction_permit,
                     pnbData
+                );
+
+                setOrHide(
+                    "environmental_permit_date_row",
+                    "environmental_permit_date",
+                    investment.environmental_permit_date
+                );
+
+                fillEnvironmentalPermits(
+                    "environmental_permit_row",
+                    "environmental_permit",
+                    investment.environmental_permit,
+                    envData
                 );
 
             } catch (err) {
@@ -210,6 +228,72 @@
                 });
 
                 cell.appendChild(table);
+            }        
+
+            function fillEnvironmentalPermits(rowId, cellId, permitIds, pnbData) {
+                const row = document.getElementById(rowId);
+                const cell = document.getElementById(cellId);
+
+                if (!permitIds || permitIds.length === 0) {
+                    row.style.display = "none";
+                    return;
+                }
+
+                const matched = pnbData.filter(p =>
+                    permitIds.includes(p.id)
+                );
+
+                if (matched.length === 0) {
+                    row.style.display = "none";
+                    return;
+                }
+
+                const table = document.createElement("table");
+                table.className = "nested-table";
+
+                table.innerHTML = `
+        <tr>
+            <th>Numer sprawy</th>
+            <th>Wnioskodawca</th>
+            <th>Przedmiot inwestycji</th>
+            <th>Decyzja</th>
+            <th>Data decyzji</th>
+            <th>Linki</th>
+        </tr>
+    `;
+
+                matched.forEach(p => {
+                    const tr = document.createElement("tr");
+
+                    tr.innerHTML = `
+            <td>${p.project_id || ""}</td>
+            <td>${p.applicant || ""}</td>
+            <td>${p.project_subject || ""}</td>
+            <td>${p.decision || ""}</td>
+            <td>${p.decision_date || ""}</td>
+            <td>
+                ${fillEnvironmentalLinks(p.urls)}
+            </td>
+        `;
+
+                    table.appendChild(tr);
+                });
+
+                cell.appendChild(table);
+            }
+
+            function fillEnvironmentalLinks(urls) {
+                let innerHTML = "";
+
+                if (!urls || !Array.isArray(urls)) {
+                    return innerHTML;
+                }
+
+                urls.forEach(url => {
+                    innerHTML += `<a href="${url.url}" target="_blank">${url.name}</a><br>`;
+                });
+
+                return innerHTML;
             }
         });
     </script>
