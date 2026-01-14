@@ -21,6 +21,7 @@
     "investor": "Gościniec Boutique Residences Sp. z o.o.",
     "description": "zespół budynków mieszkalnych jednorodzinnych w zabudowie szeregowej",
     "construction_permit": [
+      "7e16ddb9-0f41-47f2-aff3-27668f1c26a9",
       "30a57e5e-2f51-4b8f-bc37-7de6288ee6f1",
       "ec156395-9f90-4e40-830e-8165940b5f9a",
       "beeda8f4-7c90-456e-a83d-3ae4009ef7a9",
@@ -73,7 +74,9 @@
     "description": "",
     "info": "",
     "website": "https://wislanymokotow.pl/e4/",
-    "construction_permit": [],
+    "construction_permit": [
+      "2c777ff9-2071-4696-89d3-6e5e76350935"
+    ],
     "construction_permit_date": "",
     "gx_media_links": null,
     "status": "Oddane do użytku",
@@ -87,7 +90,9 @@
     "description": "",
     "info": "",
     "website": "https://wislanymokotow.pl/e5/",
-    "construction_permit": [],
+    "construction_permit": [
+      "3f736092-eab7-4a48-86a5-14802cc3c7a0"
+    ],
     "construction_permit_date": "",
     "gx_media_links": null,
     "status": "Oddane do użytku",
@@ -136,7 +141,10 @@
     "description": "",
     "info": "https://www.sgi.pl/aktualnosci/kolejny-projekt-sgi-gotowy-ustronie-mokotow-z-pozwoleniem-na-uzytkowanie/",
     "website": "https://www.sgi.pl/mieszkania-warszawa/ustronie/",
-    "construction_permit": [],
+    "construction_permit": [
+      "60ea51ed-cdc8-42fc-8c2b-f4dce8961f3c",
+      "070dd5ca-fadc-450e-9bf0-8b12a1207f64"
+    ],
     "construction_permit_date": "",
     "gx_media_links": null,
     "status": "Oddane do użytku",
@@ -164,7 +172,9 @@
     "description": "",
     "info": "",
     "website": "https://bluresidence.pl/",
-    "construction_permit": [],
+    "construction_permit": [
+      "f5e39fb6-2a51-4e5a-80bf-3b0a6d2ae417"
+    ],
     "construction_permit_date": "",
     "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorne2nHu2XFIWhR0kiSJgKJzWINHeZeZEAvj35l8-esG0IKWXC4bNQVn67KQwjy_npVQ6y8SCqmkODh6grh8PSCVmSdw5do8D6fp6n9kpqTboV12dC-W2PWMJE02gy-c5KV2fRbpYvcMPcrofBWw1hMXDuE6tDRAn51uD8N7gkXagO8Xus76JWCs8HcL-cUqyIyne5c_1sdG-s?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopzAeMAhZVxZTCsgMIyr9c8y8BvhNllak0SSqH1aQ8JaJDDm1J0XLlcB17o5bQW6wPGSpE5n-Vw_jU0xOAKA7I_vhEvQk_8XxYGrChEOohHi3Ty1AmndFP6kLiNJcBOca9dos8mXjJHhzFCjMlZ4vYEZJLUhdSnc6CmLlYQu6LodE_hpIB7L9zwG8CsdFyD0880HW9FtAt87SU?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooKabY7qOynxTj6cJJ0GKyidRQ2sO7E99GCjQwbdf2VrVgnvpUc8XDIHYoM4rhEL582t4qCZBIlRqdxBzlU_Gp9ppl-Qp9kicdVTddvLnnGMQ-OJzvgwlaiseiV8jZEpzG6KuXqvvyaJwbYhOc_LjBkDcnatMnh12g104qf4EuJiscXOG9HnH-NS0K5a5FFoCLccpIUFRZNlj8?authuser=0&fife=s16383",
     "status": "Oddane do użytku",
@@ -179,7 +189,8 @@
     "info": "",
     "website": "https://www.msmenergetyka.pl/filesN/StrGlowna/Inwestycje/WB-1_Zwierzyniecka_8CiD.php",
     "construction_permit": [
-      "78b48d9b-6723-4eee-b12f-c3b13ad3cede"
+      "78b48d9b-6723-4eee-b12f-c3b13ad3cede",
+      "76a61e47-31c3-495a-a392-1c278ad9ab67"
     ],
     "construction_permit_date": "19.07.2019",
     "gx_media_links": null,
@@ -195,7 +206,9 @@
     "info": "",
     "website": "https://wislanymokotow.pl/e6/",
     "construction_permit": [
-      "9c05d16b-3f42-46ad-896c-a826426525a5"
+      "9c05d16b-3f42-46ad-896c-a826426525a5",
+      "e0f9be5e-562a-4ec8-b2b9-9214b19fecfb",
+      "dcdde80b-5737-4cd7-ae89-26a53d138af3"
     ],
     "construction_permit_date": "8.10.2020",
     "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqeK3OAliCZNCw7CSXLLv7DOLxCG7BEUVWrXjJ5kGJGQTGsKQSbB7PSDSfJSm8BT9Or2HpmYhNruJZ2r1_IjUM4UE_A93QBVDeUnvdEXkle9V5zmFSQbMrKt3PGXXVk6bcIcvjsZpb3qcgMZ8km_OymX4bXPyvkadpuJhF1zE1-7w7oRv_l0BX1WxK6gA1WjP4HKAZwwOalhw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooOO8UGOa1pJRuypUYf6MDxzAZHXr4-zU7ChReaHrHs4yiawO7F1qityVK7bzTme-mFBzY646O9zaiemR_6_yTfVM44H8taNXHoI3FjurNEaRyd0YWReiXV40iTVrNG-T_9iskWvX-lQU6APBYwsgjYTDr0IyJGVXTeaCOkxX8nN-Dek6GimmXOfXEXNEEG2QoNpi2LpzrgJ0U?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoo8t4c40uF2CLYCPcR9kKTz4xYieCMoGErBvh1Jvj2WbpTKxQPhrKjs_SClQ_lImBciBQbYu1MKx50yMF3Kpc1bRAh3VZHJoCipIgSmNUBfL9jW0FOOPr90AfrNzfNbAP-8nVB8CeGwsT7RYv3qZPsOVW-acdlP15q58HRBddeZA-i0oV5UaSzaswE5BhdSLgZ5orabdLWadUE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq4W71DRHDnS5I62HLCnVPmzSTKyoY6e8e0gu5zbivFEk3xtY_a4kQ4rgLCh1LLsMiDeDghkXSN8kEVYcttCv4iZGnpd8BijlwBRMzONN2flS78rT_iFweCwApbOfrUJCyFgKxoOHiFhKNTn76BKhzDCM5ZUQfYnUOIc8F9ywaHuAdJLShdg4lCzkzEreiP2UMel1CziY5N_Vc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoq-tWuHwyD_uO0bnoJflx6hpqRyaC1i1pbhylGyNOoy4Ctw1ghiaslzvs9Z52qI_Uboj8LMJ-My11nFoH7dUX899BLgQeej_CvM7ZFx9cW1AjoEBY2BQitX3NOB_jjup0L0VFmQCYYoMUX-0Mzd_q9K44WcPAqx5qxp_CCtVujEuEiG7eKJa4OLkMr0CKMdG_evcyYlDDiCklE?authuser=0&fife=s16383",
@@ -331,7 +344,8 @@
     "website": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wydane/2022/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2022/Decyzja_nr_180_OS_2022_z_18_marca_2022_r__znak_OS-IV-UII_6220_133_2018_SYP.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_przy_ul__Polskiej_i_7-KUL_w_Dzielnicy_M.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/NR/exeres/1093754B-905C-4DAD-82E3-86422344144A.htm",
     "environmental_permit": [
-      "4a459d59-48d6-4784-9eb4-37175546af9e"
+      "4a459d59-48d6-4784-9eb4-37175546af9e",
+      "6a28f35e-9d56-414b-b515-007b627f38bc"
     ],
     "environmental_permit_date": "21.03.2022",
     "construction_permit": [
@@ -370,7 +384,8 @@
     "website": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wydane/2022/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2022/Decyzja_nr_180_OS_2022_z_18_marca_2022_r__znak_OS-IV-UII_6220_133_2018_SYP.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_przy_ul__Polskiej_i_7-KUL_w_Dzielnicy_M.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/NR/exeres/1093754B-905C-4DAD-82E3-86422344144A.htm",
     "environmental_permit": [
-      "4a459d59-48d6-4784-9eb4-37175546af9e"
+      "4a459d59-48d6-4784-9eb4-37175546af9e",
+      "6a28f35e-9d56-414b-b515-007b627f38bc"
     ],
     "environmental_permit_date": "21.03.2022",
     "construction_permit": [
@@ -819,6 +834,9 @@
     "investor": "YIT",
     "description": "",
     "info": "",
+    "construction_permit":[
+      "d72ae566-1151-4b5e-bfd1-085a7552b324"
+    ],
     "website": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
     "status": "Planowane",
     "start_date": null,
@@ -885,6 +903,7 @@
     "investor": "Dom Development",
     "description": "Bartycka",
     "construction_permit": [
+      "3ef5cb38-db4e-4b2e-95e1-93e0e30973c8",
       "a0918771-6e84-4d63-9bae-fdee3c1a5817",
       "db85f68b-81a2-4ec0-bc21-4a17022da931",
       "d5fd3469-ac06-4621-9b7d-0c6ef957bdb6",
@@ -1145,7 +1164,11 @@
     "investor": "Dom Development",
     "description": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, z garażami podziemnymi wraz z infrastrukturą techniczną, zagospodarowaniem terenu z rozbiórką budynku mieszkalnego jednorodzinnego oraz budynków gospodarczych",
     "construction_permit": [
-      "07a1161d-33da-4ddc-a74a-f72557b014d5"
+      "07a1161d-33da-4ddc-a74a-f72557b014d5",
+      "73c8bc14-77d3-4688-90c6-32d1e67fa797",
+      "bf5da2a6-4fac-4cc3-89c9-1c1f7ce08931",
+      "ad4ae0d9-9792-47ae-9463-a5ea9d6d272a",
+      "97da9436-ead7-4223-8124-1b110b5bf5c7"
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
@@ -1302,6 +1325,7 @@
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2022/Decyzja_nr_583_OS_2022_z_10_pazdziernika_2022_r__znak_OS-IV-UI_6220_34_2021_KSZ.htm\nhttps://bip.warszawa.pl/NR/exeres/093FBE75-5D35-4ACF-9B60-02C3271D6E91.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_z_garazami_podziemnymi_na_czesci_dzialek_ewid__.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_z_garazami_podziemnymi_na_czesci_dzialek_ewid__.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_z_garazami_podziemnymi_przy_ul__Polskiej_w_Dzie.htm",
     "environmental_permit_date": "10.10.2022",
     "construction_permit": [
+      "f748b4d6-7691-49f5-a71c-8123d283fe40",
       "24a898ca-21dd-4027-8d1e-7f35a33f51b7"
     ],
     "construction_permit_date": "01.09.2023",
@@ -1472,7 +1496,7 @@
     "name": "",
     "investor": "White Stone Development",
     "construction_permit": [
-      "c93c49ee-4960-4491-8118-ad72eb607932"
+      "b6cac7ef-95c6-43ce-9780-507741fa135d"
     ],
     "construction_permit_date": "",
     "status": "Planowane",

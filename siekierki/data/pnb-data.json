@@ -278,7 +278,8 @@
     "project_subject": "budowa sieci kanalizacji sanitarnej DN 200",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-05-18",
-    "link": "/wniosek/6d9d7db4-1323-437c-a426-f3e8ca1dec55/"
+    "link": "/wniosek/6d9d7db4-1323-437c-a426-f3e8ca1dec55/",
+    "ignored":"true"
   },
   {
     "id": "1c5bc9e1-16d4-4f31-b6c6-7652fdc43990",
@@ -668,7 +669,8 @@
     "project_subject": "budowa budynku usługowego z pomieszczeniami rekreacji indywidualnej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-11-03",
-    "link": "/wniosek/c8188e0c-2cba-46f5-8cb8-a28618cd42f0/"
+    "link": "/wniosek/c8188e0c-2cba-46f5-8cb8-a28618cd42f0/",
+    "ignored": "true"
   },
   {
     "id": "aa131d29-b454-481d-a34e-7de010286537",
@@ -696,7 +698,8 @@
     "project_subject": "przebudowa lokalu mieszkalnego nr 134 w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja odmowna",
     "decision_date": "2021-12-13",
-    "link": "/wniosek/69765281-aa94-4e8a-a287-259aa09de073/"
+    "link": "/wniosek/69765281-aa94-4e8a-a287-259aa09de073/",
+    "ignored": "true"
   },
   {
     "id": "1d92916f-b3d9-4234-b337-3c8c9308699d",
@@ -1948,7 +1951,8 @@
     "project_subject": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego",
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
-    "link": "/wniosek/40197c87-dde5-40fe-9ded-210815b00afc/"
+    "link": "/wniosek/40197c87-dde5-40fe-9ded-210815b00afc/",
+    "ignored":"true"
   },
   {
     "id": "e0617689-959b-4ebc-90c8-592d5e0fb6e3",
