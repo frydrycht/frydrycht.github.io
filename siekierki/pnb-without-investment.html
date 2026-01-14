@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Unreferenced PNB Records</title>
+
+    <style>
+        body {
+            font-family: "fira_sans", sans-serif;
+            color: white;
+            background-color: #1a1a1a;
+            padding: 2rem;
+        }
+
+        h1 {
+            margin-bottom: 1rem;
+        }
+
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .legend,
+        .filter {
+            background-color: #222;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 0 5px rgba(255, 255, 255, 0.05);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 0.5rem;
+            border-radius: 3px;
+        }
+
+        .legend-yellow { background-color: #4d4d00; }
+        .legend-orange { background-color: #804000; }
+        .legend-red    { background-color: #661111; }
+        .legend-green  { background-color: #0f3d0f; }
+        .legend-none   { background-color: #444; }
+
+        .filter select {
+            background-color: #333;
+            color: white;
+            padding: 0.5rem;
+            border: 1px solid #555;
+            border-radius: 5px;
+        }
+
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-top: 1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #1a1a1a;
+            color: white;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+        }
+
+        th, td {
+            padding: 1rem;
+            border: 1px solid #333;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        th {
+            background-color: #222;
+            color: #ccc;
+            font-weight: bold;
+        }
+
+        thead th {
+            position: sticky;
+            top: 0;
+            background-color: #222;
+            z-index: 3;
+            white-space: normal;
+            word-wrap: break-word;
+            hyphens: auto;
+            max-width: 150px;
+        }
+
+        a {
+            color: #4da6ff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+
+            tr {
+                margin-bottom: 1rem;
+                border: 1px solid #333;
+                border-radius: 10px;
+                background-color: #121212;
+                padding: 0.5rem;
+            }
+
+            th {
+                display: none;
+            }
+
+            td {
+                display: flex;
+                flex-direction: column;
+                padding-left: 1rem;
+            }
+
+            td::before {
+                content: attr(data-label);
+                font-weight: bold;
+                color: #aaa;
+                margin-bottom: 0.25rem;
+                white-space: normal;
+                word-break: break-word;
+                hyphens: auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Wnioski o PnB bez przypisanej inwestycji</h1>
+<p id="resultsNumber"></p>
+
+<div class="table-container">
+    <table id="resultsTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Data złożenia wniosku</th>
+                <th>Wnioskodawca</th>
+                <th>Przedmiot inwestycji</th>
+                <th>Decyzja</th>
+                <th>Data decyzji</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script>
+async function loadData() {
+    try {
+        const [pnbResponse, investmentsResponse] = await Promise.all([
+            fetch("/siekierki/data/pnb-data.json"),
+            fetch("/siekierki/data/investments.json")
+        ]);
+
+        const pnbData = await pnbResponse.json();
+        const investments = await investmentsResponse.json();
+
+        // Collect all referenced construction permit IDs
+        const referencedIds = new Set();
+
+        investments.forEach(inv => {
+            if (Array.isArray(inv.construction_permit)) {
+                inv.construction_permit.forEach(id => referencedIds.add(id));
+            }
+        });
+
+        // Filter PNB entries that are NOT referenced
+        const unusedPnb = pnbData.filter(pnb => !pnb.ignored && !referencedIds.has(pnb.id));
+
+        renderTable(unusedPnb);
+
+    } catch (err) {
+        console.error("Error loading data:", err);
+        alert("Failed to load JSON files. Check console and file paths.");
+    }
+}
+
+function renderTable(data) {
+    const tResultsNumber = document.querySelector("#resultsNumber");
+    tResultsNumber.innerHTML = `${data.length} wyniki`;
+
+    const tbody = document.querySelector("#resultsTable tbody");
+    tbody.innerHTML = "";
+
+    if (data.length === 0) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `<td colspan="7">Wszystkie wnioski są przypisane ✅</td>`;
+        tbody.appendChild(tr);
+        return;
+    }
+
+    data.forEach(item => {
+        const tr = document.createElement("tr");
+
+        tr.innerHTML = `
+            <td data-label="ID">${item.id}</td>
+            <td data-label="Application date">${item.application_date || ""}</td>
+            <td data-label="Applicant">${item.applicant || ""}</td>
+            <td data-label="Project subject">${item.project_subject || ""}</td>
+            <td data-label="Decision">${item.decision || ""}</td>
+            <td data-label="Decision date">${item.decision_date || ""}</td>
+            <td data-label="Link">
+                ${item.link ? `<a href="https://wyszukiwarka.gunb.gov.pl/${item.link}" target="_blank">Zobacz</a>` : ""}
+            </td>
+        `;
+
+        tbody.appendChild(tr);
+    });
+}
+
+// Start
+loadData();
+</script>
+
+</body>
+</html>

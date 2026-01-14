@@ -504,6 +504,7 @@
     "description": "",
     "info": "W kwietniu 2025 Ronson nabył działki o adresach Polska 14 i 16 (https://ronson.pl/wp-content/uploads/2025/05/Srodroczne-Skrocone-Sprawozdania-Finansowe-za-okres-trzech-miesiecy-zakonczonych-dnia-31-marca-2025-1.pdf str. 52)",
     "construction_permit": [
+      "be204ce6-6f89-4653-b724-c5b234752e6a",
       "74b57d81-b474-40e7-a692-19cb7063c40c",
       "716904ff-a495-4b9b-8824-2170801f5c5c"
     ],
@@ -1046,6 +1047,7 @@
     "info": "Inwestor w grudniu zakupił działkę z istniejącym domem i w związku z tym zmodyfikował plany osiedla",
     "website": "https://www.sgi.pl/warszawa/ananasowa/",
     "construction_permit": [
+      "c93c49ee-4960-4491-8118-ad72eb607932",
       "d3e26752-df78-4c9c-9123-598891638064",
       "b59293a5-2322-4a6d-846a-ee1df47e2db5"
     ],
@@ -1459,6 +1461,18 @@
     "investor": "Robyg",
     "construction_permit": [
       "2f2f7d2a-cc06-46e1-96b6-f98677106569"
+    ],
+    "construction_permit_date": "",
+    "status": "Planowane",
+    "start_date": null,
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "69624308-164a-4f63-8898-d00827888960",
+    "name": "",
+    "investor": "White Stone Development",
+    "construction_permit": [
+      "c93c49ee-4960-4491-8118-ad72eb607932"
     ],
     "construction_permit_date": "",
     "status": "Planowane",

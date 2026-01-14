@@ -1,5 +1,15 @@
 [
   {
+    "id": "56b7aca2-c521-47c0-bfcd-6e5c70d23ba2",
+    "application_date": "2026-01-05",
+    "applicant": "Buczkowska Agnieszka",
+    "project_subject": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/56b7aca2-c521-47c0-bfcd-6e5c70d23ba2/",
+    "ignored": "true"
+  },
+  {
     "id": "3ef5cb38-db4e-4b2e-95e1-93e0e30973c8",
     "application_date": "2025-12-22",
     "applicant": "Dom Development S.A.",
@@ -33,7 +43,8 @@
     "project_subject": "rozbiórka budynku gospodarczego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-10-02",
-    "link": "/wniosek/8bdd2f0f-9dad-4be2-baca-ea9dbbd6d77e/"
+    "link": "/wniosek/8bdd2f0f-9dad-4be2-baca-ea9dbbd6d77e/",
+    "ignored": "true"
   },
   {
     "id": "05d39896-47cc-4e1f-ab48-9072815db909",
@@ -42,7 +53,8 @@
     "project_subject": "budowa instalacji gazu na potrzeby lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-08-12",
-    "link": "/wniosek/05d39896-47cc-4e1f-ab48-9072815db909/"
+    "link": "/wniosek/05d39896-47cc-4e1f-ab48-9072815db909/",
+    "ignored": "true"
   },
   {
     "id": "db85f68b-81a2-4ec0-bc21-4a17022da931",
@@ -60,7 +72,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-12-30",
-    "link": "/wniosek/730e54c4-d936-4dc6-9fab-2036366ad706/"
+    "link": "/wniosek/730e54c4-d936-4dc6-9fab-2036366ad706/",
+    "ignored": "true"
   },
   {
     "id": "af8a589b-62a9-4fca-bdc2-96ec599089e4",
@@ -69,7 +82,8 @@
     "project_subject": "przebudowa pomieszczeń na potrzeby laboratorium technicznego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-05-28",
-    "link": "/wniosek/af8a589b-62a9-4fca-bdc2-96ec599089e4/"
+    "link": "/wniosek/af8a589b-62a9-4fca-bdc2-96ec599089e4/",
+    "ignored": "true"
   },
   {
     "id": "ff5e6d36-89bf-4687-ae37-4669e66a5368",
@@ -108,15 +122,6 @@
     "link": "/wniosek/12d9a27f-897a-4055-8be7-d5b9c35424f4/"
   },
   {
-    "id": "f141ecc3-e87a-4bc9-8091-79b5779631be",
-    "application_date": "2024-03-08",
-    "applicant": "Fregate Investments Sp. z o.o.",
-    "project_subject": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi w parterze, garażem podziemnym oraz niezbędną infrastrukturą techniczną",
-    "decision": "Postępowanie zawieszone",
-    "decision_date": "",
-    "link": "/wniosek/f141ecc3-e87a-4bc9-8091-79b5779631be/"
-  },
-  {
     "id": "8f7c1b76-9e37-42b9-a277-dfb704d3341f",
     "application_date": "2024-03-08",
     "applicant": "Petunia Sp. z o.o.",
@@ -124,6 +129,15 @@
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
     "link": "/wniosek/8f7c1b76-9e37-42b9-a277-dfb704d3341f/"
+  },
+  {
+    "id": "f141ecc3-e87a-4bc9-8091-79b5779631be",
+    "application_date": "2024-03-08",
+    "applicant": "Fregate Investments Sp. z o.o.",
+    "project_subject": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi w parterze, garażem podziemnym oraz niezbędną infrastrukturą techniczną",
+    "decision": "Postępowanie zawieszone",
+    "decision_date": "",
+    "link": "/wniosek/f141ecc3-e87a-4bc9-8091-79b5779631be/"
   },
   {
     "id": "d5fd3469-ac06-4621-9b7d-0c6ef957bdb6",
@@ -141,7 +155,8 @@
     "project_subject": "przebudowa budynku jednorodzinnego w zabudowie szeregowej wraz z budową dwóch budynków mieszkalnych jednorodzinnych w zabudowie szeregowej",
     "decision": "Decyzja odmowna",
     "decision_date": "2023-11-27",
-    "link": "/wniosek/38128a2f-f9e6-41d6-a045-3ccc75d6100c/"
+    "link": "/wniosek/38128a2f-f9e6-41d6-a045-3ccc75d6100c/",
+    "ignored": "true"
   },
   {
     "id": "adbbb725-e936-498b-a1af-331bf7d9a5b5",
@@ -150,7 +165,8 @@
     "project_subject": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-01-04",
-    "link": "/wniosek/adbbb725-e936-498b-a1af-331bf7d9a5b5/"
+    "link": "/wniosek/adbbb725-e936-498b-a1af-331bf7d9a5b5/",
+    "ignored": "true"
   },
   {
     "id": "49f32f8a-76da-463b-9ba6-edaac5590fec",
@@ -159,7 +175,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-06-21",
-    "link": "/wniosek/49f32f8a-76da-463b-9ba6-edaac5590fec/"
+    "link": "/wniosek/49f32f8a-76da-463b-9ba6-edaac5590fec/",
+    "ignored": "true"
   },
   {
     "id": "6b824315-5c4c-448b-b66a-5e31390feac7",
@@ -168,16 +185,8 @@
     "project_subject": "przebudowa poddasza w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-05-25",
-    "link": "/wniosek/6b824315-5c4c-448b-b66a-5e31390feac7/"
-  },
-  {
-    "id": "b75bf354-83f3-47a3-874a-70a95e6f74e6",
-    "application_date": "2022-11-18",
-    "applicant": "Stoen Operator  Sp. z o.o.",
-    "project_subject": "budowa sieci elektroenergetycznej SN i nN w ramach odtworzenia układu pracy sieci elektroenergetycznej nN po wybudowaniu przyłącza elektroenergetycznego do zasilenia budynku wielorodzinnego",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2022-12-15",
-    "link": "/wniosek/b75bf354-83f3-47a3-874a-70a95e6f74e6/"
+    "link": "/wniosek/6b824315-5c4c-448b-b66a-5e31390feac7/",
+    "ignored": "true"
   },
   {
     "id": "1b3386f7-ac78-4f96-85be-33ef4e1d44f5",
@@ -204,7 +213,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego z usługami w parterze wraz z budową  instalacji gazowej wewnętrznej oraz budową zbiornika na deszczówkę",
     "decision": "Decyzja pozytywna",
     "decision_date": "2025-11-04",
-    "link": "/wniosek/8c4c99bd-84a7-4412-9b16-bdfbb05a3d22/"
+    "link": "/wniosek/8c4c99bd-84a7-4412-9b16-bdfbb05a3d22/",
+    "ignored": "true"
   },
   {
     "id": "830b6378-36f2-46fe-923f-80af4196bda9",
@@ -216,15 +226,6 @@
     "link": "/wniosek/830b6378-36f2-46fe-923f-80af4196bda9/"
   },
   {
-    "id": "90267d35-7cee-48ea-ae41-deef98b1df17",
-    "application_date": "2021-09-15",
-    "applicant": "Albero Invest - 4 Sp. z o.o.",
-    "project_subject": "budowa zespołu budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej z garażami podziemnymi, infrastrukturą, kanałami podziemnymi i murkami oporowymi",
-    "decision": "Wycofany przez inwestora",
-    "decision_date": "2023-12-13",
-    "link": "/wniosek/90267d35-7cee-48ea-ae41-deef98b1df17/"
-  },
-  {
     "id": "632e0d5f-5ca4-4929-bcb0-9b5c2c12637e",
     "application_date": "2021-09-15",
     "applicant": "Albero Invest - 4 Sp. z o.o.",
@@ -232,6 +233,15 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-10-26",
     "link": "/wniosek/632e0d5f-5ca4-4929-bcb0-9b5c2c12637e/"
+  },
+  {
+    "id": "90267d35-7cee-48ea-ae41-deef98b1df17",
+    "application_date": "2021-09-15",
+    "applicant": "Albero Invest - 4 Sp. z o.o.",
+    "project_subject": "budowa zespołu budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej z garażami podziemnymi, infrastrukturą, kanałami podziemnymi i murkami oporowymi",
+    "decision": "Wycofany przez inwestora",
+    "decision_date": "2023-12-13",
+    "link": "/wniosek/90267d35-7cee-48ea-ae41-deef98b1df17/"
   },
   {
     "id": "60ea51ed-cdc8-42fc-8c2b-f4dce8961f3c",
@@ -258,7 +268,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-09-08",
-    "link": "/wniosek/863cbbc4-3ea9-44e5-8b18-3ad06a4d2055/"
+    "link": "/wniosek/863cbbc4-3ea9-44e5-8b18-3ad06a4d2055/",
+    "ignored": "true"
   },
   {
     "id": "6d9d7db4-1323-437c-a426-f3e8ca1dec55",
@@ -276,7 +287,8 @@
     "project_subject": "rozbiórka budynków mieszkalnych, inwentarskich i garażu",
     "decision": "Decyzja pozytywna",
     "decision_date": "2019-07-02",
-    "link": "/wniosek/1c5bc9e1-16d4-4f31-b6c6-7652fdc43990/"
+    "link": "/wniosek/1c5bc9e1-16d4-4f31-b6c6-7652fdc43990/",
+    "ignored": "true"
   },
   {
     "id": "97ec43f1-d3aa-48dd-a404-79b3e7d72f07",
@@ -285,7 +297,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego z garażem",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-08-21",
-    "link": "/wniosek/97ec43f1-d3aa-48dd-a404-79b3e7d72f07/"
+    "link": "/wniosek/97ec43f1-d3aa-48dd-a404-79b3e7d72f07/",
+    "ignored": "true"
   },
   {
     "id": "1778b2eb-de1d-4fda-bedc-f23efe66025d",
@@ -294,7 +307,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2019-02-20",
-    "link": "/wniosek/1778b2eb-de1d-4fda-bedc-f23efe66025d/"
+    "link": "/wniosek/1778b2eb-de1d-4fda-bedc-f23efe66025d/",
+    "ignored": "true"
   },
   {
     "id": "b41d9ec0-80cf-4c63-b671-399bb4466987",
@@ -303,7 +317,8 @@
     "project_subject": "budowa sieci gazowej dystrybucyjnej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2018-12-04",
-    "link": "/wniosek/b41d9ec0-80cf-4c63-b671-399bb4466987/"
+    "link": "/wniosek/b41d9ec0-80cf-4c63-b671-399bb4466987/",
+    "ignored": "true"
   },
   {
     "id": "cf4cd2ac-1aae-43df-be03-6985e3cf212d",
@@ -312,7 +327,8 @@
     "project_subject": "budowa instalcji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Bez rozpatrzenia",
     "decision_date": "",
-    "link": "/wniosek/cf4cd2ac-1aae-43df-be03-6985e3cf212d/"
+    "link": "/wniosek/cf4cd2ac-1aae-43df-be03-6985e3cf212d/",
+    "ignored": "true"
   },
   {
     "id": "712ca7d3-20fd-4877-8e51-08397d9a8772",
@@ -321,7 +337,8 @@
     "project_subject": "modernizacja ujęć infiltracyjnych PU-3 i PU-4 na terenie stacji pomp rzecznych Zakładu Centralnego MPWiK",
     "decision": "Decyzja pozytywna",
     "decision_date": "2017-10-20",
-    "link": "/wniosek/712ca7d3-20fd-4877-8e51-08397d9a8772/"
+    "link": "/wniosek/712ca7d3-20fd-4877-8e51-08397d9a8772/",
+    "ignored": "true"
   },
   {
     "id": "7482a443-5d81-4ced-a563-467e3ecff451",
@@ -330,7 +347,8 @@
     "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2017-05-29",
-    "link": "/wniosek/7482a443-5d81-4ced-a563-467e3ecff451/"
+    "link": "/wniosek/7482a443-5d81-4ced-a563-467e3ecff451/",
+    "ignored": "true"
   },
   {
     "id": "070dd5ca-fadc-450e-9bf0-8b12a1207f64",
@@ -348,7 +366,8 @@
     "project_subject": "zmiana sposobu użytkowania lokalu usługowo - biurowego na dwa lokale mieszkalne",
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
-    "link": "/wniosek/0bbcfe4d-5c29-4178-897f-0f9119936932/"
+    "link": "/wniosek/0bbcfe4d-5c29-4178-897f-0f9119936932/",
+    "ignored": "true"
   },
   {
     "id": "81bf5dcb-3c11-42b3-a3ab-86f2e904e722",
@@ -357,7 +376,8 @@
     "project_subject": "rozbiórka i budowa przedsionka do klatki schodowej nr II w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-06-29",
-    "link": "/wniosek/81bf5dcb-3c11-42b3-a3ab-86f2e904e722/"
+    "link": "/wniosek/81bf5dcb-3c11-42b3-a3ab-86f2e904e722/",
+    "ignored": "true"
   },
   {
     "id": "b43156b1-0f20-4432-b271-17b426b0af87",
@@ -366,7 +386,8 @@
     "project_subject": "rozbiórka i budowa przedsionka do klatki schodowej nr VI w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-06-29",
-    "link": "/wniosek/b43156b1-0f20-4432-b271-17b426b0af87/"
+    "link": "/wniosek/b43156b1-0f20-4432-b271-17b426b0af87/",
+    "ignored": "true"
   },
   {
     "id": "58d09450-365e-4e13-b249-2c5b794954f5",
@@ -378,22 +399,24 @@
     "link": "/wniosek/58d09450-365e-4e13-b249-2c5b794954f5/"
   },
   {
-    "id": "0686359e-aefc-4217-9c96-4e7d326525ec",
-    "application_date": "2021-12-31",
-    "applicant": "SBM EC Siekierki",
-    "project_subject": "rozbiórka i budowa przedsionka do klatki schodowej nr II w budynku mieszkalnym wielorodzinnym",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2022-01-25",
-    "link": "/wniosek/0686359e-aefc-4217-9c96-4e7d326525ec/"
-  },
-  {
     "id": "507cb64f-02ff-4453-93ea-ea7d99665c2d",
     "application_date": "2021-12-31",
     "applicant": "SBM EC Siekierki",
     "project_subject": "rozbiórka i budowa przedsionka do klatki schodowej nr II w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-01-25",
-    "link": "/wniosek/507cb64f-02ff-4453-93ea-ea7d99665c2d/"
+    "link": "/wniosek/507cb64f-02ff-4453-93ea-ea7d99665c2d/",
+    "ignored": "true"
+  },
+  {
+    "id": "0686359e-aefc-4217-9c96-4e7d326525ec",
+    "application_date": "2021-12-31",
+    "applicant": "SBM EC Siekierki",
+    "project_subject": "rozbiórka i budowa przedsionka do klatki schodowej nr II w budynku mieszkalnym wielorodzinnym",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2022-01-25",
+    "link": "/wniosek/0686359e-aefc-4217-9c96-4e7d326525ec/",
+    "ignored": "true"
   },
   {
     "id": "d68898e1-fca7-4732-a341-ee0be7f9ac3b",
@@ -411,7 +434,8 @@
     "project_subject": "przebudowa polegająca na rozbiórce i budowie  przedsionków do klatki schodowej nr I i V w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-01-21",
-    "link": "/wniosek/cd3bdd41-830a-435b-bf7f-a9f6e26543d8/"
+    "link": "/wniosek/cd3bdd41-830a-435b-bf7f-a9f6e26543d8/",
+    "ignored": "true"
   },
   {
     "id": "7960273c-1a41-49f8-87e3-c66ec28cb8ed",
@@ -420,7 +444,8 @@
     "project_subject": "rozbiórka i budowa przedsionka do klatki schodowej nr IV w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-01-21",
-    "link": "/wniosek/7960273c-1a41-49f8-87e3-c66ec28cb8ed/"
+    "link": "/wniosek/7960273c-1a41-49f8-87e3-c66ec28cb8ed/",
+    "ignored": "true"
   },
   {
     "id": "94b44776-0a16-4b10-8981-3156d270a52c",
@@ -438,7 +463,8 @@
     "project_subject": "przbudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2019-08-19",
-    "link": "/wniosek/9c435862-fd7f-4d94-abc1-c0e7da261d33/"
+    "link": "/wniosek/9c435862-fd7f-4d94-abc1-c0e7da261d33/",
+    "ignored": "true"
   },
   {
     "id": "78b48d9b-6723-4eee-b12f-c3b13ad3cede",
@@ -474,7 +500,8 @@
     "project_subject": "przebudowa   witryny okiennej  w elewacji budynku mieszkalnego wielorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2018-11-08",
-    "link": "/wniosek/f0207ec7-0578-4c03-800f-4fb0b9d52820/"
+    "link": "/wniosek/f0207ec7-0578-4c03-800f-4fb0b9d52820/",
+    "ignored": "true"
   },
   {
     "id": "76a61e47-31c3-495a-a392-1c278ad9ab67",
@@ -492,7 +519,8 @@
     "project_subject": "rozbiórka i budowa przedsionka klatki schodowej nr 3 w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2018-07-13",
-    "link": "/wniosek/b7c36f4f-1950-451f-b712-83f41547488e/"
+    "link": "/wniosek/b7c36f4f-1950-451f-b712-83f41547488e/",
+    "ignored": "true"
   },
   {
     "id": "36a7fc30-bd35-4c4d-add5-fc00b6dac8fa",
@@ -501,7 +529,8 @@
     "project_subject": "rozbiórka i budowa przedsionka klatki schodowej nr 5 w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2018-07-13",
-    "link": "/wniosek/36a7fc30-bd35-4c4d-add5-fc00b6dac8fa/"
+    "link": "/wniosek/36a7fc30-bd35-4c4d-add5-fc00b6dac8fa/",
+    "ignored": "true"
   },
   {
     "id": "60356e1c-3047-498a-b183-c390d29a73f2",
@@ -519,7 +548,8 @@
     "project_subject": "remont i przebudowa przedsionka klatki schodowej nr 3 w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja odmowna",
     "decision_date": "2018-05-16",
-    "link": "/wniosek/9d93755b-74fc-44fc-aeaa-2ec701078852/"
+    "link": "/wniosek/9d93755b-74fc-44fc-aeaa-2ec701078852/",
+    "ignored": "true"
   },
   {
     "id": "7faff600-98ea-4cfb-bb8f-5389f1884332",
@@ -540,15 +570,6 @@
     "link": "/wniosek/7d35ae77-4c17-4059-b898-4c2db409f7d8/"
   },
   {
-    "id": "f6eb5d75-e744-4d6a-ba7b-b230c7190c77",
-    "application_date": "2024-06-21",
-    "applicant": "Sabak Ventures Sp. z o.o.",
-    "project_subject": "budowa budynku usługowego",
-    "decision": "Postępowanie zawieszone",
-    "decision_date": "",
-    "link": "/wniosek/f6eb5d75-e744-4d6a-ba7b-b230c7190c77/"
-  },
-  {
     "id": "049c679e-d4a0-47c0-8063-1e38b1d0bc23",
     "application_date": "2024-06-21",
     "applicant": "SGI F Sp. zo.o.",
@@ -556,6 +577,15 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-11-06",
     "link": "/wniosek/049c679e-d4a0-47c0-8063-1e38b1d0bc23/"
+  },
+  {
+    "id": "f6eb5d75-e744-4d6a-ba7b-b230c7190c77",
+    "application_date": "2024-06-21",
+    "applicant": "Sabak Ventures Sp. z o.o.",
+    "project_subject": "budowa budynku usługowego",
+    "decision": "Postępowanie zawieszone",
+    "decision_date": "",
+    "link": "/wniosek/f6eb5d75-e744-4d6a-ba7b-b230c7190c77/"
   },
   {
     "id": "a70758a1-77b2-4710-a473-c1f393a11164",
@@ -609,7 +639,8 @@
     "project_subject": "przebudowa budynku mieszkalnego jednorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-12-13",
-    "link": "/wniosek/503fc2d9-63e5-4583-a203-5a353a7f0219/"
+    "link": "/wniosek/503fc2d9-63e5-4583-a203-5a353a7f0219/",
+    "ignored": "true"
   },
   {
     "id": "fa94053e-3a87-48b8-ba17-1230fecb50bd",
@@ -618,7 +649,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego",
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
-    "link": "/wniosek/fa94053e-3a87-48b8-ba17-1230fecb50bd/"
+    "link": "/wniosek/fa94053e-3a87-48b8-ba17-1230fecb50bd/",
+    "ignored": "true"
   },
   {
     "id": "9b18b26d-99b0-4437-ba32-f96d53f1d7ec",
@@ -645,7 +677,8 @@
     "project_subject": "zmiana decyzji pozwolenia na budowę nr 170/B/2020 z dnia 19.06.2020 zatwierdzającej projekt budowlany i udzielającej pozwolenia na budowę dla inwestycji polegającej na budowie budynku usługowego wraz z infrastrukturą techniczną i zagospodarowaniem terenu w zakresie zatwierdzenia zamiennego projektu budowlanego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-01-12",
-    "link": "/wniosek/aa131d29-b454-481d-a34e-7de010286537/"
+    "link": "/wniosek/aa131d29-b454-481d-a34e-7de010286537/",
+    "ignored": "true"
   },
   {
     "id": "f02a3950-936f-4146-8b28-d7074290edc2",
@@ -672,7 +705,8 @@
     "project_subject": "zmiana decyzji pozwolenia na budowę nr 170/B/2020 z dnia 19.06.2020 zatwierdzającej projekt budowlany i udzielającej pozwolenia na budowę dla inwestycji polegającej na budowie budynku usługowego wraz z infrastrukturą techniczną i zagospodarowaniem terenu w zakresie zatwierdzenia zamiennego projektu budowlanego",
     "decision": "Bez rozpatrzenia",
     "decision_date": "",
-    "link": "/wniosek/1d92916f-b3d9-4234-b337-3c8c9308699d/"
+    "link": "/wniosek/1d92916f-b3d9-4234-b337-3c8c9308699d/",
+    "ignored": "true"
   },
   {
     "id": "ce788e66-c13a-4cf4-a52a-69cb30d1e4f5",
@@ -708,7 +742,8 @@
     "project_subject": "budowa muru oporowego, z drenażem, wraz z montażem ogrodzenia (wysokość 1.2 m)",
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
-    "link": "/wniosek/2e8758d8-5aa2-474e-8b7d-3dc485ccdccb/"
+    "link": "/wniosek/2e8758d8-5aa2-474e-8b7d-3dc485ccdccb/",
+    "ignored": "true"
   },
   {
     "id": "d1bbcfc8-7aab-4edf-9259-b265cd769b92",
@@ -717,16 +752,8 @@
     "project_subject": "zmiana pozwolenia na budowę 278/B/2023 zatwierdzającego projekt budowlany i zezwalającego na budowę budynku mieszkalnego jednorodzinnego  z garażem i zagospodarowaniem terenu w zakresie budowy instalacji gazowej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-10-10",
-    "link": "/wniosek/d1bbcfc8-7aab-4edf-9259-b265cd769b92/"
-  },
-  {
-    "id": "fe92c29d-2c27-4c33-be17-afe0baf67a1f",
-    "application_date": "2024-03-29",
-    "applicant": "WSD ZZ 8 Sp. z o.o.",
-    "project_subject": "budowa budynku mieszkalnego wielorodzinnego \"B\" z garażem podziemnym oraz z zagospodarowaniem terenu",
-    "decision": "Postępowanie zawieszone",
-    "decision_date": "",
-    "link": "/wniosek/fe92c29d-2c27-4c33-be17-afe0baf67a1f/"
+    "link": "/wniosek/d1bbcfc8-7aab-4edf-9259-b265cd769b92/",
+    "ignored": "true"
   },
   {
     "id": "cf29ea9c-5bc7-46f2-a0be-4d2fb288cf2d",
@@ -738,13 +765,23 @@
     "link": "/wniosek/cf29ea9c-5bc7-46f2-a0be-4d2fb288cf2d/"
   },
   {
+    "id": "fe92c29d-2c27-4c33-be17-afe0baf67a1f",
+    "application_date": "2024-03-29",
+    "applicant": "WSD ZZ 8 Sp. z o.o.",
+    "project_subject": "budowa budynku mieszkalnego wielorodzinnego \"B\" z garażem podziemnym oraz z zagospodarowaniem terenu",
+    "decision": "Postępowanie zawieszone",
+    "decision_date": "",
+    "link": "/wniosek/fe92c29d-2c27-4c33-be17-afe0baf67a1f/"
+  },
+  {
     "id": "f7121b64-a2a5-4337-a693-0aa19f00e329",
     "application_date": "2024-03-27",
     "applicant": "Dobrowolska Kinga",
     "project_subject": "budowa zewnętrznej i wewnętrznej instalacji gazowej",
     "decision": "Decyzja odmowna",
     "decision_date": "2024-06-20",
-    "link": "/wniosek/f7121b64-a2a5-4337-a693-0aa19f00e329/"
+    "link": "/wniosek/f7121b64-a2a5-4337-a693-0aa19f00e329/",
+    "ignored": "true"
   },
   {
     "id": "136e556e-f52d-4bba-82c7-25d28f222f56",
@@ -762,7 +799,8 @@
     "project_subject": "Budowa budynku mieszkalnego jednorodzinnego z garażem wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną w tym ogrodzeniem, i szczelnym podziemnym zbiornikiem bezodpływowym oraz rozbiórką budynku mieszkalnego jednorodzinnego i budynków gospodarczych",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-12-27",
-    "link": "/wniosek/dd95f010-99ca-4a38-879c-557f6b01469d/"
+    "link": "/wniosek/dd95f010-99ca-4a38-879c-557f6b01469d/",
+    "ignored": "true"
   },
   {
     "id": "d298e447-1367-4405-b5e8-4a250c3ee81b",
@@ -771,7 +809,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego z garażem wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną w tym ogrodzeniem i szczelnym podziemnym zbiornikiem bezodpływowym oraz rozbiórka budynku mieszkalnego jednorodzinnego i budynków gospodarczych",
     "decision": "Decyzja odmowna",
     "decision_date": "2023-10-06",
-    "link": "/wniosek/d298e447-1367-4405-b5e8-4a250c3ee81b/"
+    "link": "/wniosek/d298e447-1367-4405-b5e8-4a250c3ee81b/",
+    "ignored": "true"
   },
   {
     "id": "4938897e-fe65-477f-a434-62ee3335185d",
@@ -780,7 +819,8 @@
     "project_subject": "budowa instalacji gazu w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-05-19",
-    "link": "/wniosek/4938897e-fe65-477f-a434-62ee3335185d/"
+    "link": "/wniosek/4938897e-fe65-477f-a434-62ee3335185d/",
+    "ignored": "true"
   },
   {
     "id": "cf36da58-a432-47d0-8ed3-f493efb94d50",
@@ -789,7 +829,8 @@
     "project_subject": "rozbiórka sieci elektroenergetycznej SN i nN w ramach odtworzenia układu pracy sieci elektroenergetycznej nN po wybudowaniu przyłącza elektroenergetycznego do zasilenia budynku wielorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-03-01",
-    "link": "/wniosek/cf36da58-a432-47d0-8ed3-f493efb94d50/"
+    "link": "/wniosek/cf36da58-a432-47d0-8ed3-f493efb94d50/",
+    "ignored": "true"
   },
   {
     "id": "134d4eb0-b626-4f14-b94a-51ff408d7729",
@@ -798,7 +839,8 @@
     "project_subject": "rozbiórka budynku gospodarczego/garażu o wymiarach 4,5m x 4,5m i wysokości 2,8m",
     "decision": "Wycofany przez inwestora",
     "decision_date": "2022-12-08",
-    "link": "/wniosek/134d4eb0-b626-4f14-b94a-51ff408d7729/"
+    "link": "/wniosek/134d4eb0-b626-4f14-b94a-51ff408d7729/",
+    "ignored": "true"
   },
   {
     "id": "bac6661b-1121-4dc5-9752-a2c91342c75d",
@@ -807,7 +849,8 @@
     "project_subject": "rozbiórka sieci elektroenergetycznej SN i nN w ramach odtworzenia układu pracy sieci elektroenergetycznej  nN po wybudowaniu przyłącza elektroenergetycznego  (Etap1) do zasilania budynku wielorodzinnego",
     "decision": "Decyzja odmowna",
     "decision_date": "2022-08-26",
-    "link": "/wniosek/bac6661b-1121-4dc5-9752-a2c91342c75d/"
+    "link": "/wniosek/bac6661b-1121-4dc5-9752-a2c91342c75d/",
+    "ignored": "true"
   },
   {
     "id": "3f49c58d-bed5-4757-a60f-8f0555ea4d1b",
@@ -825,7 +868,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-08-10",
-    "link": "/wniosek/17e486e4-bb69-4588-88dc-ada511e68511/"
+    "link": "/wniosek/17e486e4-bb69-4588-88dc-ada511e68511/",
+    "ignored": "true"
   },
   {
     "id": "81470c19-13e0-449f-b9aa-f0424370f6b0",
@@ -834,7 +878,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-08-10",
-    "link": "/wniosek/81470c19-13e0-449f-b9aa-f0424370f6b0/"
+    "link": "/wniosek/81470c19-13e0-449f-b9aa-f0424370f6b0/",
+    "ignored": "true"
   },
   {
     "id": "248b5a57-3bcb-48a3-8097-b7f6bd195917",
@@ -843,7 +888,8 @@
     "project_subject": "przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-01-20",
-    "link": "/wniosek/248b5a57-3bcb-48a3-8097-b7f6bd195917/"
+    "link": "/wniosek/248b5a57-3bcb-48a3-8097-b7f6bd195917/",
+    "ignored": "true"
   },
   {
     "id": "b5136ed1-216d-4535-a654-710554cc4f7e",
@@ -852,7 +898,8 @@
     "project_subject": "rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-10-20",
-    "link": "/wniosek/b5136ed1-216d-4535-a654-710554cc4f7e/"
+    "link": "/wniosek/b5136ed1-216d-4535-a654-710554cc4f7e/",
+    "ignored": "true"
   },
   {
     "id": "f5e39fb6-2a51-4e5a-80bf-3b0a6d2ae417",
@@ -924,7 +971,8 @@
     "project_subject": "Budowa sieci wodociągowej DN 100 mm",
     "decision": "Decyzja pozytywna",
     "decision_date": "2025-04-15",
-    "link": "/wniosek/ea5a714e-9a18-4476-b827-d2ce9b39028a/"
+    "link": "/wniosek/ea5a714e-9a18-4476-b827-d2ce9b39028a/",
+    "ignored": "true"
   },
   {
     "id": "f39f4adc-a917-447c-b9d3-6f9e8e3e0210",
@@ -933,7 +981,8 @@
     "project_subject": "Budowa sieci wodociągowej DN100mm na odcinku od HP 32246 do złączenia z przewidzianym do przebudowy przewodem wodociągowym wraz z kasacją istniejącego przewodu wodociągowego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-11-04",
-    "link": "/wniosek/f39f4adc-a917-447c-b9d3-6f9e8e3e0210/"
+    "link": "/wniosek/f39f4adc-a917-447c-b9d3-6f9e8e3e0210/",
+    "ignored": "true"
   },
   {
     "id": "beeda8f4-7c90-456e-a83d-3ae4009ef7a9",
@@ -951,7 +1000,8 @@
     "project_subject": "zmiana decyzji 80/B/2023 z 26.04.2023 zatwierdzającej projekt zagospodarowania terenu oraz projekt architektoniczno-budowlany i udzielającej pozwolenie na budowę dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego z usługą w parterze wraz z urządzeniami budowlanymi w tym szczelnym zbiornikiem na nieczystości ciekłe o pojemności 10 m³ i instalacją fotowoltaiczną o mocy 9,6kW oraz rozbiórką istniejącego budynku mieszkalnego, w zakresie budowy instalacji gazowej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-10-04",
-    "link": "/wniosek/94676ab6-6e69-439b-900c-ef95e286400f/"
+    "link": "/wniosek/94676ab6-6e69-439b-900c-ef95e286400f/",
+    "ignored": "true"
   },
   {
     "id": "dc69e9af-5d04-43b0-b9a2-12d7a21e5dda",
@@ -978,7 +1028,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku",
     "decision": "Bez rozpatrzenia",
     "decision_date": "",
-    "link": "/wniosek/a52b67c4-f66b-4d2e-bdc6-c2d32f39cc82/"
+    "link": "/wniosek/a52b67c4-f66b-4d2e-bdc6-c2d32f39cc82/",
+    "ignored": "true"
   },
   {
     "id": "5c28ab21-b232-4dda-9659-79ee2766671c",
@@ -996,7 +1047,8 @@
     "project_subject": "Budowa sieci kanalizacji sanitarnej DN 200",
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
-    "link": "/wniosek/e3897b10-ef43-44c2-99a2-f80563d17d06/"
+    "link": "/wniosek/e3897b10-ef43-44c2-99a2-f80563d17d06/",
+    "ignored": "true"
   },
   {
     "id": "2041203b-0ff3-4929-a049-0ab99776179b",
@@ -1014,7 +1066,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego z urządzeniami budowlanymi w tym szczelnym zbiornikiem na nieczystości płynne o pojemności 10m³ oraz rozbiórką istniejącego budynku mieszkalnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-04-26",
-    "link": "/wniosek/c4eb8fdc-a6a8-4168-84b6-91f0d3828410/"
+    "link": "/wniosek/c4eb8fdc-a6a8-4168-84b6-91f0d3828410/",
+    "ignored": "true"
   },
   {
     "id": "22e145fb-4496-44fa-b777-d8891a910d9e",
@@ -1023,7 +1076,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-07-14",
-    "link": "/wniosek/22e145fb-4496-44fa-b777-d8891a910d9e/"
+    "link": "/wniosek/22e145fb-4496-44fa-b777-d8891a910d9e/",
+    "ignored": "true"
   },
   {
     "id": "994a3aff-085a-4cde-b5fa-38c92598c6c4",
@@ -1032,7 +1086,8 @@
     "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego, gospodarczego oraz ziemianki",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-04-22",
-    "link": "/wniosek/994a3aff-085a-4cde-b5fa-38c92598c6c4/"
+    "link": "/wniosek/994a3aff-085a-4cde-b5fa-38c92598c6c4/",
+    "ignored": "true"
   },
   {
     "id": "0a80e7e7-de41-4814-9159-d74b5d1e2c46",
@@ -1041,7 +1096,35 @@
     "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-05-18",
-    "link": "/wniosek/0a80e7e7-de41-4814-9159-d74b5d1e2c46/"
+    "link": "/wniosek/0a80e7e7-de41-4814-9159-d74b5d1e2c46/",
+    "ignored": "true"
+  },
+  {
+    "id": "c93c49ee-4960-4491-8118-ad72eb607932",
+    "application_date": "2025-12-31",
+    "applicant": "Antar S Sp. z o.o.",
+    "project_subject": "zmiana decyzji o pozwoleniu na budowę nr 64/MOK/PB/2024 z 19.03.2024 zatwierdzenie projektu zagospodarowania terenu oraz projektu architektoniczno-budowlanego i udzielenie pozwolenia na budowę dla inwestycji budowlanej polegajacej na budowie zespołu pięciu budynków mieszkalnych wielorodzinnych wraz z podziemnym parkingiem, infrastrukturą techniczną w zakresie zmiany działek inwestycji",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/c93c49ee-4960-4491-8118-ad72eb607932/"
+  },
+  {
+    "id": "b6cac7ef-95c6-43ce-9780-507741fa135d",
+    "application_date": "2025-12-31",
+    "applicant": "WSD SPV 5 Sp. z o.o.",
+    "project_subject": "budowa budynku mieszkalnego wielorodzinnego wraz z garażem podziemnym, parkingiem naziemnym, elementami zagospodarowania terenu i niezbędną infrastrukturą techniczną",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/b6cac7ef-95c6-43ce-9780-507741fa135d/"
+  },
+  {
+    "id": "be204ce6-6f89-4653-b724-c5b234752e6a",
+    "application_date": "2025-12-30",
+    "applicant": "RONSON DEVELOPMENT PARTNER 2 SP. Z O.O. - RETREAT 2011 SP.K.",
+    "project_subject": "zespół budynków mieszkalnych z garażem podziemnym wraz z towarzyszącą infrastrukturą techniczną doziemną instalacją kanalizacji deszczowej, oświetleniem terenu wraz z zagospodarowaniem terenu, 2 miejscami postojowymi dla samochodów osobowych, 1 punktem ładowania samochodów elektrycznych, 1 miejscem postojowym dla osób niepełnosprawnych",
+    "decision": "Przekazany",
+    "decision_date": "",
+    "link": "/wniosek/be204ce6-6f89-4653-b724-c5b234752e6a/"
   },
   {
     "id": "716904ff-a495-4b9b-8824-2170801f5c5c",
@@ -1075,7 +1158,7 @@
     "application_date": "2025-03-17",
     "applicant": "Antar S Sp. z o.o.",
     "project_subject": "zmiana decyzji 64/MOK/PB/2024 z 19.03.2024 zatwierdzającej projekt zagospodarowania terenu oraz projekt architektoniczno-budowlany i udzielającej pozwolenia na budowę dla inwestycji budowlanej polegającej na budowie zespołu pięciu budynków mieszkalnych wielorodzinnych wraz z podziemnym parkingiem, infrastrukturą techniczną i drogami dojazdowymi",
-    "decision": "Postępowanie zawieszone",
+    "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/01465e94-0268-49df-bf9d-790d41e43786/"
   },
@@ -1125,15 +1208,6 @@
     "link": "/wniosek/5139a348-2af5-48c5-8991-ba567f96cc7f/"
   },
   {
-    "id": "bc7bed3e-fcfd-40f2-94d5-f2a1c9df876f",
-    "application_date": "2024-03-29",
-    "applicant": "Kątna Sp. Z o.o. Sp. k.",
-    "project_subject": "budowa budynku mieszkalnego wielorodzinnego z usługami, garażem podziemnym i infrastrukturą",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2025-06-04",
-    "link": "/wniosek/bc7bed3e-fcfd-40f2-94d5-f2a1c9df876f/"
-  },
-  {
     "id": "d9436dcd-b12d-468b-8713-6f5a9911a064",
     "application_date": "2024-03-29",
     "applicant": "Zdrowie Sp. z o.o.",
@@ -1141,6 +1215,15 @@
     "decision": "Wycofany przez inwestora",
     "decision_date": "2024-07-03",
     "link": "/wniosek/d9436dcd-b12d-468b-8713-6f5a9911a064/"
+  },
+  {
+    "id": "bc7bed3e-fcfd-40f2-94d5-f2a1c9df876f",
+    "application_date": "2024-03-29",
+    "applicant": "Kątna Sp. Z o.o. Sp. k.",
+    "project_subject": "budowa budynku mieszkalnego wielorodzinnego z usługami, garażem podziemnym i infrastrukturą",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2025-06-04",
+    "link": "/wniosek/bc7bed3e-fcfd-40f2-94d5-f2a1c9df876f/"
   },
   {
     "id": "44e9bd30-cceb-4536-b792-10604231063b",
@@ -1158,7 +1241,8 @@
     "project_subject": "Budowa budynku mieszkalnego jednorodzinnego ze zbiornikiem bezodpływowym na nieczystości ciekłe",
     "decision": "Decyzja pozytywna",
     "decision_date": "2025-02-28",
-    "link": "/wniosek/001892d2-dc83-4454-86be-6d128056a182/"
+    "link": "/wniosek/001892d2-dc83-4454-86be-6d128056a182/",
+    "ignored": "true"
   },
   {
     "id": "41325148-c2f9-41b0-90f2-85c1283eb889",
@@ -1167,7 +1251,8 @@
     "project_subject": "Budowa instalacji gazowej niskiego ciśnienia w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-03-19",
-    "link": "/wniosek/41325148-c2f9-41b0-90f2-85c1283eb889/"
+    "link": "/wniosek/41325148-c2f9-41b0-90f2-85c1283eb889/",
+    "ignored": "true"
   },
   {
     "id": "77cd112f-2595-41e2-926e-ea9c84839eb4",
@@ -1177,33 +1262,6 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-05-23",
     "link": "/wniosek/77cd112f-2595-41e2-926e-ea9c84839eb4/"
-  },
-  {
-    "id": "193fb89e-2d17-483b-b564-443f563ad1c1",
-    "application_date": "2023-11-15",
-    "applicant": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
-    "project_subject": "Budowa sieci wodociągowej",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2024-03-05",
-    "link": "/wniosek/193fb89e-2d17-483b-b564-443f563ad1c1/"
-  },
-  {
-    "id": "d08c53df-ec8e-4621-a56b-6032ac562681",
-    "application_date": "2023-11-15",
-    "applicant": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
-    "project_subject": "Budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2024-03-26",
-    "link": "/wniosek/d08c53df-ec8e-4621-a56b-6032ac562681/"
-  },
-  {
-    "id": "c6eacffa-4b43-45d9-89a6-54cfe3e5a880",
-    "application_date": "2023-11-15",
-    "applicant": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
-    "project_subject": "Budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2024-07-19",
-    "link": "/wniosek/c6eacffa-4b43-45d9-89a6-54cfe3e5a880/"
   },
   {
     "id": "bde8268b-0301-4eac-9b41-f4333beb9877",
@@ -1230,7 +1288,8 @@
     "project_subject": "Rozbiórka 2 obiektów budowlanych mieszkalnych",
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
-    "link": "/wniosek/54a5de16-0b32-4cd9-8f32-33b9d27ec3bf/"
+    "link": "/wniosek/54a5de16-0b32-4cd9-8f32-33b9d27ec3bf/",
+    "ignored": "true"
   },
   {
     "id": "52be39b9-07b0-419c-90a8-8ea129e6299d",
@@ -1239,7 +1298,8 @@
     "project_subject": "przebudowa wraz z połączeniem dwóch lokali mieszkalnych",
     "decision": "Decyzja pozytywna",
     "decision_date": "2025-09-04",
-    "link": "/wniosek/52be39b9-07b0-419c-90a8-8ea129e6299d/"
+    "link": "/wniosek/52be39b9-07b0-419c-90a8-8ea129e6299d/",
+    "ignored": "true"
   },
   {
     "id": "853a396d-8fc1-464f-be92-41b25810e371",
@@ -1248,7 +1308,8 @@
     "project_subject": "przebudowa dachu w budynku mieszkalnym jednorodzinnym",
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
-    "link": "/wniosek/853a396d-8fc1-464f-be92-41b25810e371/"
+    "link": "/wniosek/853a396d-8fc1-464f-be92-41b25810e371/",
+    "ignored": "true"
   },
   {
     "id": "a4f10970-6ebb-43ab-b5e2-9a845a579067",
@@ -1257,7 +1318,8 @@
     "project_subject": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na połączeniu dwóch lokali mieszkalnych",
     "decision": "Bez rozpatrzenia",
     "decision_date": "",
-    "link": "/wniosek/a4f10970-6ebb-43ab-b5e2-9a845a579067/"
+    "link": "/wniosek/a4f10970-6ebb-43ab-b5e2-9a845a579067/",
+    "ignored": "true"
   },
   {
     "id": "e64d9572-0ef7-472e-b30b-8745f76bc3d0",
@@ -1266,7 +1328,8 @@
     "project_subject": "budowa i przebudowa sieci wodociągowej ze zmianą średnicy z DN 100 na DN 200 mm do zasuwy ZL 38872 wraz z przebudową przyłączy wodociągowych",
     "decision": "Decyzja pozytywna",
     "decision_date": "2025-06-23",
-    "link": "/wniosek/e64d9572-0ef7-472e-b30b-8745f76bc3d0/"
+    "link": "/wniosek/e64d9572-0ef7-472e-b30b-8745f76bc3d0/",
+    "ignored": "true"
   },
   {
     "id": "484c2239-1a3f-4f68-95b9-8f427a1cf30e",
@@ -1275,7 +1338,8 @@
     "project_subject": "budowa instalacji gazu w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-02-16",
-    "link": "/wniosek/484c2239-1a3f-4f68-95b9-8f427a1cf30e/"
+    "link": "/wniosek/484c2239-1a3f-4f68-95b9-8f427a1cf30e/",
+    "ignored": "true"
   },
   {
     "id": "cdf136ea-c0b1-4482-a9b9-b6b1b52627c2",
@@ -1284,7 +1348,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego w zabudowie wolnostojącej z niezbędną infrastrukturą techniczną oraz szambem szczelnym",
     "decision": "Decyzja umarzająca",
     "decision_date": "2025-03-10",
-    "link": "/wniosek/cdf136ea-c0b1-4482-a9b9-b6b1b52627c2/"
+    "link": "/wniosek/cdf136ea-c0b1-4482-a9b9-b6b1b52627c2/",
+    "ignored": "true"
   },
   {
     "id": "1b5fab3b-e4f0-4184-981f-e765f1300ab6",
@@ -1302,7 +1367,8 @@
     "project_subject": "rozbiórka budynku mieszkalnego i garażu wolnostojącego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-11-05",
-    "link": "/wniosek/d905f15b-7ceb-4106-8426-0d176cb0eaee/"
+    "link": "/wniosek/d905f15b-7ceb-4106-8426-0d176cb0eaee/",
+    "ignored": "true"
   },
   {
     "id": "cae1028e-52e7-491f-beec-c24fcad7d64d",
@@ -1329,7 +1395,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-07-31",
-    "link": "/wniosek/b046c603-e6f3-453b-a9e1-88478488de77/"
+    "link": "/wniosek/b046c603-e6f3-453b-a9e1-88478488de77/",
+    "ignored": "true"
   },
   {
     "id": "b0ce2a64-a7c3-4c8f-bfc3-f4f5afd747ef",
@@ -1395,13 +1462,34 @@
     "link": "/wniosek/879d2fe6-4394-41fb-bac6-6e9c839e2589/"
   },
   {
+    "id": "d08c53df-ec8e-4621-a56b-6032ac562681",
+    "application_date": "2023-11-15",
+    "applicant": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+    "project_subject": "Budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2024-03-26",
+    "link": "/wniosek/d08c53df-ec8e-4621-a56b-6032ac562681/",
+    "ignored": "true"
+  },
+  {
+    "id": "193fb89e-2d17-483b-b564-443f563ad1c1",
+    "application_date": "2023-11-15",
+    "applicant": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+    "project_subject": "Budowa sieci wodociągowej",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2024-03-05",
+    "link": "/wniosek/193fb89e-2d17-483b-b564-443f563ad1c1/",
+    "ignored": "true"
+  },
+  {
     "id": "7884a4b8-87d9-4e32-b5eb-d024b00e1e1a",
     "application_date": "2023-03-17",
     "applicant": "Spravia Sp. z o.o.",
     "project_subject": "budowa osiedlowej preizolowanej sieci ciepłowniczej 2xdn100/200 wraz z przyłączami sieci ciepłowniczej 2xdn65/140, 2xdn40/110 do projektowanej zabudowy mieszkaniowej",
     "decision": "Przekazany",
     "decision_date": "",
-    "link": "/wniosek/7884a4b8-87d9-4e32-b5eb-d024b00e1e1a/"
+    "link": "/wniosek/7884a4b8-87d9-4e32-b5eb-d024b00e1e1a/",
+    "ignored": "true"
   },
   {
     "id": "20248033-d7e8-4244-8915-5990f7032936",
@@ -1428,7 +1516,8 @@
     "project_subject": "budowa sieci kanalizacji ścieków bytowych z odgałęzieniami",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-04-15",
-    "link": "/wniosek/549b9f25-c102-4175-9676-539b9bc416a6/"
+    "link": "/wniosek/549b9f25-c102-4175-9676-539b9bc416a6/",
+    "ignored": "true"
   },
   {
     "id": "081c41f0-ca3c-450f-a28d-29a878ae4889",
@@ -1491,7 +1580,8 @@
     "project_subject": "budowa  kanalizacji sanitarnej ɸ 0.50 m L=19,25 w ulicy 9KDL i 9 KUL oraz ɸ  0.20 m L=9.0 w ulicy wraz z odcinkami sieci od kanału ulicznego do granic nieruchomości prywatnych",
     "decision": "Decyzja pozytywna",
     "decision_date": "2019-08-16",
-    "link": "/wniosek/0388f350-e8e5-4a54-844a-17c0cbe2f642/"
+    "link": "/wniosek/0388f350-e8e5-4a54-844a-17c0cbe2f642/",
+    "ignored": "true"
   },
   {
     "id": "3f736092-eab7-4a48-86a5-14802cc3c7a0",
@@ -1518,7 +1608,8 @@
     "project_subject": "budowa kanałów ściekowych o średnicy: Ø 200 mm L=307,5 m w ul. Czerniakowskiej - bis na odcinku od kanału ściekowego Ø 500 mm w  ulicy  oraz kanału  Ø 200 mm L= 189,5 m w ul. Czerniakowskiej - bis na odcinku od istniejącego kanalu ściekowego  Ø 500 mm  w ulicy w kierunku 38KDD i 35KDD",
     "decision": "Przekazany",
     "decision_date": "",
-    "link": "/wniosek/a6c47813-d5ac-4402-94a5-12e543edc465/"
+    "link": "/wniosek/a6c47813-d5ac-4402-94a5-12e543edc465/",
+    "ignored": "true"
   },
   {
     "id": "8dfab6e3-b331-4125-986e-85b337502b8a",
@@ -1536,7 +1627,8 @@
     "project_subject": "Budowa punktu pomiarowego związana ze zmianą lokalizacji istniejącego punktu pomiaru PW00052 natężenia przepływu i ciśnienia wody na przebudowywanym przewodzie DN 100 w ul. Polskiej z obecnej lokalizacji na wysokości posesji 15C na odcinek projektowanego do przebudowy przewodu między ul. Gąsocińską i ul. Antoniewską",
     "decision": "Decyzja pozytywna",
     "decision_date": "2025-05-13",
-    "link": "/wniosek/995fee51-3285-4902-8774-46f2d9ae1a88/"
+    "link": "/wniosek/995fee51-3285-4902-8774-46f2d9ae1a88/",
+    "ignored": "true"
   },
   {
     "id": "777ca69b-4a65-4f64-99fe-de474db79b50",
@@ -1545,7 +1637,18 @@
     "project_subject": "Budowa sieci wodociągowej",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-08-28",
-    "link": "/wniosek/777ca69b-4a65-4f64-99fe-de474db79b50/"
+    "link": "/wniosek/777ca69b-4a65-4f64-99fe-de474db79b50/",
+    "ignored": "true"
+  },
+  {
+    "id": "c6eacffa-4b43-45d9-89a6-54cfe3e5a880",
+    "application_date": "2023-11-15",
+    "applicant": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+    "project_subject": "Budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2024-07-19",
+    "link": "/wniosek/c6eacffa-4b43-45d9-89a6-54cfe3e5a880/",
+    "ignored": "true"
   },
   {
     "id": "42aa904a-18fb-41dd-bff0-017e7e6eade0",
@@ -1563,7 +1666,8 @@
     "project_subject": "przebudowa instalacji gazowej w budynku mieszkalnym  jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-05-28",
-    "link": "/wniosek/a8d12bb4-b933-40c1-8a66-106f2466513e/"
+    "link": "/wniosek/a8d12bb4-b933-40c1-8a66-106f2466513e/",
+    "ignored": "true"
   },
   {
     "id": "c3460f7d-e8e0-49c3-ab16-b6727ddade0c",
@@ -1572,7 +1676,8 @@
     "project_subject": "budowa przewodu wodociągowego DN 150 mm L=401,5 m w ulicy na odcinku od magistrali wodociągowej DN 400 mm do złączenia z istniejącym przewodem wodociągowym DN 100 mm w ulicy",
     "decision": "Decyzja pozytywna",
     "decision_date": "2017-06-29",
-    "link": "/wniosek/c3460f7d-e8e0-49c3-ab16-b6727ddade0c/"
+    "link": "/wniosek/c3460f7d-e8e0-49c3-ab16-b6727ddade0c/",
+    "ignored": "true"
   },
   {
     "id": "bc59a624-040d-4f62-9739-e105994566fe",
@@ -1626,7 +1731,8 @@
     "project_subject": "budowa sieci wodociągowej DN 150 L = 177,8 m",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-02-24",
-    "link": "/wniosek/8ed06872-9417-445b-ac9e-7733fcec2b7c/"
+    "link": "/wniosek/8ed06872-9417-445b-ac9e-7733fcec2b7c/",
+    "ignored": "true"
   },
   {
     "id": "33fa4629-adf3-4b00-b1e5-e7d9f62caa1a",
@@ -1635,7 +1741,8 @@
     "project_subject": "rozbudowa, nadbudowa i przebudowa wraz z podziałem na dwa samodzielne lokale budynku mieszkalnego jednorodzinnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-11-08",
-    "link": "/wniosek/33fa4629-adf3-4b00-b1e5-e7d9f62caa1a/"
+    "link": "/wniosek/33fa4629-adf3-4b00-b1e5-e7d9f62caa1a/",
+    "ignored": "true"
   },
   {
     "id": "602c0d07-88af-4210-adcd-84a1d4bb5272",
@@ -1644,7 +1751,8 @@
     "project_subject": "rozbiórka obiektu węzła betoniarskiego ( 18 obiektów)",
     "decision": "Decyzja umarzająca",
     "decision_date": "2023-03-28",
-    "link": "/wniosek/602c0d07-88af-4210-adcd-84a1d4bb5272/"
+    "link": "/wniosek/602c0d07-88af-4210-adcd-84a1d4bb5272/",
+    "ignored": "true"
   },
   {
     "id": "5655d971-34be-4ddf-bcaf-0887c75d9c6b",
@@ -1654,6 +1762,15 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/5655d971-34be-4ddf-bcaf-0887c75d9c6b/"
+  },
+  {
+    "id": "1d11299c-0750-4f9c-b662-a4c429c7b0d6",
+    "application_date": "2025-12-23",
+    "applicant": "ACG 15 Sp. z o.o.",
+    "project_subject": "budowa zespołu zabudowy jednorodzinnej z garażami podziemnymi wraz z infrastrukturą towarzyszącą",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/1d11299c-0750-4f9c-b662-a4c429c7b0d6/"
   },
   {
     "id": "7d413d74-3dde-4031-8a81-535321dd19b9",
@@ -1674,22 +1791,14 @@
     "link": "/wniosek/5ba543be-da69-4519-bfb4-ea63af547c6e/"
   },
   {
-    "id": "1d11299c-0750-4f9c-b662-a4c429c7b0d6",
-    "application_date": "2025-12-23",
-    "applicant": "ACG 15 Sp. z o.o.",
-    "project_subject": "budowa zespołu zabudowy jednorodzinnej z garażami podziemnymi wraz z infrastrukturą towarzyszącą",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
-    "link": "/wniosek/1d11299c-0750-4f9c-b662-a4c429c7b0d6/"
-  },
-  {
     "id": "d06a226f-e91b-4631-95e4-0c7be3b41f75",
     "application_date": "2025-09-05",
     "applicant": "Centrum Obsługi Administracji Rządowej",
     "project_subject": "Przebudowa lokali mieszkalnych nr 1 i 2",
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
-    "link": "/wniosek/d06a226f-e91b-4631-95e4-0c7be3b41f75/"
+    "link": "/wniosek/d06a226f-e91b-4631-95e4-0c7be3b41f75/",
+    "ignored": "true"
   },
   {
     "id": "6b96bae8-6a35-420b-974c-ec12b3a4799c",
@@ -1725,7 +1834,8 @@
     "project_subject": "Przebudowa stacji pomp kanałowych \"Wolicka\" wraz z budową instalacji dezodoryzacji, instalacji towarzyszących oraz towarzyszące prace remontowe na terenie obiektu",
     "decision": "Decyzja pozytywna",
     "decision_date": "2024-10-21",
-    "link": "/wniosek/fe146a74-bd07-419d-a603-404d1c8b412a/"
+    "link": "/wniosek/fe146a74-bd07-419d-a603-404d1c8b412a/",
+    "ignored": "true"
   },
   {
     "id": "6a2e1148-64ba-4d63-ad01-e7f4019cac4e",
@@ -1743,7 +1853,8 @@
     "project_subject": "budowa oraz rozbiórka instalacji oświetlenia terenu osiedlowego wzdłuż ciągu pieszo-jezdnego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-03-29",
-    "link": "/wniosek/da107a1e-1f3c-4aeb-b89d-c3f7e097103c/"
+    "link": "/wniosek/da107a1e-1f3c-4aeb-b89d-c3f7e097103c/",
+    "ignored": "true"
   },
   {
     "id": "722009ca-f3c8-4eaa-baeb-8ec4509136b8",
@@ -1761,7 +1872,8 @@
     "project_subject": "przebudowa części elewacji budynku mieszkalnego wielorodzinnego",
     "decision": "Decyzja odmowna",
     "decision_date": "2021-07-22",
-    "link": "/wniosek/56430069-4b6e-4f99-ad88-63dd4a71b2f9/"
+    "link": "/wniosek/56430069-4b6e-4f99-ad88-63dd4a71b2f9/",
+    "ignored": "true"
   },
   {
     "id": "4560e0df-0b7f-4fe9-a53a-a3b07e0b9e06",
@@ -1770,7 +1882,8 @@
     "project_subject": "przebudowa lokalu mieszkalnego nr 3 wraz z rozbiórką istniejących schodów zewnętrznych, wykonaniem nowych schodów zewnętrznych i nowego otworu okiennego oraz zabudowa loggii wraz ze zmianą sposobu użytkowania ma cele mieszkalne w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-04-14",
-    "link": "/wniosek/4560e0df-0b7f-4fe9-a53a-a3b07e0b9e06/"
+    "link": "/wniosek/4560e0df-0b7f-4fe9-a53a-a3b07e0b9e06/",
+    "ignored": "true"
   },
   {
     "id": "8632e21b-3885-4744-acf2-48573d364ee9",
@@ -1806,7 +1919,8 @@
     "project_subject": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2017-05-23",
-    "link": "/wniosek/85acffcf-4781-4d12-a97f-b33a0f84ffd6/"
+    "link": "/wniosek/85acffcf-4781-4d12-a97f-b33a0f84ffd6/",
+    "ignored": "true"
   },
   {
     "id": "85cb22ee-b93b-495c-a3b0-9535b37a2c01",
@@ -1815,7 +1929,8 @@
     "project_subject": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym",
     "decision": "Bez rozpatrzenia",
     "decision_date": "",
-    "link": "/wniosek/85cb22ee-b93b-495c-a3b0-9535b37a2c01/"
+    "link": "/wniosek/85cb22ee-b93b-495c-a3b0-9535b37a2c01/",
+    "ignored": "true"
   },
   {
     "id": "2d9eb2c0-d26a-4ff6-8ee7-0b8ae5413ede",
@@ -1851,7 +1966,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego wraz z infrastrukturą techniczną",
     "decision": "Decyzja odmowna",
     "decision_date": "2022-12-30",
-    "link": "/wniosek/4bc55c88-acad-4012-a603-b99085db7e57/"
+    "link": "/wniosek/4bc55c88-acad-4012-a603-b99085db7e57/",
+    "ignored": "true"
   },
   {
     "id": "d9a25e61-56f1-4b4f-9e8c-f87bebf5dffb",
@@ -1860,7 +1976,8 @@
     "project_subject": "przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego na budynek mieszkalny jednorodzinny dwulokalowy",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-07-26",
-    "link": "/wniosek/d9a25e61-56f1-4b4f-9e8c-f87bebf5dffb/"
+    "link": "/wniosek/d9a25e61-56f1-4b4f-9e8c-f87bebf5dffb/",
+    "ignored": "true"
   },
   {
     "id": "a5046409-2662-453a-80cc-895d6792222f",
@@ -1869,7 +1986,8 @@
     "project_subject": "rozbiórka budynku gospodarczego",
     "decision": "Decyzja pozytywna",
     "decision_date": "2021-09-07",
-    "link": "/wniosek/a5046409-2662-453a-80cc-895d6792222f/"
+    "link": "/wniosek/a5046409-2662-453a-80cc-895d6792222f/",
+    "ignored": "true"
   },
   {
     "id": "f8e16bad-28b2-4ef3-a63f-b881fbe5aaf4",
@@ -1878,7 +1996,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego wraz z infrastrukturą techniczną",
     "decision": "Decyzja odmowna",
     "decision_date": "2022-06-02",
-    "link": "/wniosek/f8e16bad-28b2-4ef3-a63f-b881fbe5aaf4/"
+    "link": "/wniosek/f8e16bad-28b2-4ef3-a63f-b881fbe5aaf4/",
+    "ignored": "true"
   },
   {
     "id": "20693c41-d6f3-46d8-8622-56623b7b2057",
@@ -1905,7 +2024,8 @@
     "project_subject": "Budowa sieci wodociągowej",
     "decision": "Przekazany",
     "decision_date": "",
-    "link": "/wniosek/d0ba07a5-8ac4-4a77-aee3-9fb1579d0651/"
+    "link": "/wniosek/d0ba07a5-8ac4-4a77-aee3-9fb1579d0651/",
+    "ignored": "true"
   },
   {
     "id": "f1694929-cf0e-4c25-89e1-28c13df30802",
@@ -1914,7 +2034,8 @@
     "project_subject": "budowa kanału ściekowego DN 250 mm, L= 484 m i DN 200mm, L=97m w ulicy wraz z odcinkami sieci DN 160mm, L-4m, DN 150 mm, L=52,5m od kanału głównego do granic nieruchomości prywatnych",
     "decision": "Decyzja pozytywna",
     "decision_date": "2022-11-24",
-    "link": "/wniosek/f1694929-cf0e-4c25-89e1-28c13df30802/"
+    "link": "/wniosek/f1694929-cf0e-4c25-89e1-28c13df30802/",
+    "ignored": "true"
   },
   {
     "id": "852c9512-ca9c-4b6e-a067-6bf84fe6941d",
@@ -1932,7 +2053,8 @@
     "project_subject": "budowa dwutorowej elektroenergetycznej sieci kablowej 110kV wraz z siecią światłowodową relacji RPZ Wilanów EC Siekierki., RPZ Natolin - EC Siekierki",
     "decision": "Przekazany",
     "decision_date": "",
-    "link": "/wniosek/4f347722-eab6-4aef-89e3-50cda7f01b34/"
+    "link": "/wniosek/4f347722-eab6-4aef-89e3-50cda7f01b34/",
+    "ignored": "true"
   },
   {
     "id": "cd78fdb5-eb89-4bbe-94f4-17f9ac9028a8",
@@ -1941,43 +2063,8 @@
     "project_subject": "budowa dwutorowej elektroenergetycznej sieci kablowej 110 kV wraz z siecią światłowodową relacji RPZ Wilanów - EC siekierki, RPZ Natolin - EC siekierki",
     "decision": "Decyzja pozytywna",
     "decision_date": "2020-10-05",
-    "link": "/wniosek/cd78fdb5-eb89-4bbe-94f4-17f9ac9028a8/"
-  },
-  {
-    "id": "8b765764-1bf9-4e43-aac4-1ca3aeef89e7",
-    "application_date": "2025-12-29",
-    "applicant": "Tanna Sp. z o.o.",
-    "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
-    "link": "/wniosek/8b765764-1bf9-4e43-aac4-1ca3aeef89e7/"
-  },
-  {
-    "id": "99d9f7f4-d446-43be-b13a-4b33ffe600e7",
-    "application_date": "2025-12-29",
-    "applicant": "Tanna Sp. z o.o.",
-    "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
-    "link": "/wniosek/99d9f7f4-d446-43be-b13a-4b33ffe600e7/"
-  },
-  {
-    "id": "395a8f57-4191-4551-909b-c4ac1c5b8245",
-    "application_date": "2025-12-29",
-    "applicant": "Tanna Sp. z o.o.",
-    "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
-    "link": "/wniosek/395a8f57-4191-4551-909b-c4ac1c5b8245/"
-  },
-  {
-    "id": "2a44aec9-f61e-4ea5-8270-55478175f6b2",
-    "application_date": "2025-12-29",
-    "applicant": "Tanna Sp. z o.o.",
-    "project_subject": "wnioske o pozwolenie na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
-    "link": "/wniosek/2a44aec9-f61e-4ea5-8270-55478175f6b2/"
+    "link": "/wniosek/cd78fdb5-eb89-4bbe-94f4-17f9ac9028a8/",
+    "ignored": "true"
   },
   {
     "id": "8c85a45c-8c1d-446b-9f24-51413c453438",
@@ -1989,13 +2076,31 @@
     "link": "/wniosek/8c85a45c-8c1d-446b-9f24-51413c453438/"
   },
   {
-    "id": "9c47c25a-3533-4b15-af0a-c6a663a747ab",
+    "id": "2a44aec9-f61e-4ea5-8270-55478175f6b2",
+    "application_date": "2025-12-29",
+    "applicant": "Tanna Sp. z o.o.",
+    "project_subject": "wnioske o pozwolenie na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/2a44aec9-f61e-4ea5-8270-55478175f6b2/"
+  },
+  {
+    "id": "395a8f57-4191-4551-909b-c4ac1c5b8245",
     "application_date": "2025-12-29",
     "applicant": "Tanna Sp. z o.o.",
     "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
-    "link": "/wniosek/9c47c25a-3533-4b15-af0a-c6a663a747ab/"
+    "link": "/wniosek/395a8f57-4191-4551-909b-c4ac1c5b8245/"
+  },
+  {
+    "id": "99d9f7f4-d446-43be-b13a-4b33ffe600e7",
+    "application_date": "2025-12-29",
+    "applicant": "Tanna Sp. z o.o.",
+    "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/99d9f7f4-d446-43be-b13a-4b33ffe600e7/"
   },
   {
     "id": "2bdca846-b47a-46cb-93af-7b7bb5716b29",
@@ -2007,13 +2112,22 @@
     "link": "/wniosek/2bdca846-b47a-46cb-93af-7b7bb5716b29/"
   },
   {
-    "id": "bf5da2a6-4fac-4cc3-89c9-1c1f7ce08931",
-    "application_date": "2025-12-22",
-    "applicant": "Dom Development S.A.",
-    "project_subject": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze z garażem podziemnym wraz z infrastrukturą i zagospodarowaniem terenu",
+    "id": "9c47c25a-3533-4b15-af0a-c6a663a747ab",
+    "application_date": "2025-12-29",
+    "applicant": "Tanna Sp. z o.o.",
+    "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
-    "link": "/wniosek/bf5da2a6-4fac-4cc3-89c9-1c1f7ce08931/"
+    "link": "/wniosek/9c47c25a-3533-4b15-af0a-c6a663a747ab/"
+  },
+  {
+    "id": "8b765764-1bf9-4e43-aac4-1ca3aeef89e7",
+    "application_date": "2025-12-29",
+    "applicant": "Tanna Sp. z o.o.",
+    "project_subject": "wniosek o wydanie pozwolenia na budowę zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/8b765764-1bf9-4e43-aac4-1ca3aeef89e7/"
   },
   {
     "id": "73c8bc14-77d3-4688-90c6-32d1e67fa797",
@@ -2023,6 +2137,15 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/73c8bc14-77d3-4688-90c6-32d1e67fa797/"
+  },
+  {
+    "id": "bf5da2a6-4fac-4cc3-89c9-1c1f7ce08931",
+    "application_date": "2025-12-22",
+    "applicant": "Dom Development S.A.",
+    "project_subject": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze z garażem podziemnym wraz z infrastrukturą i zagospodarowaniem terenu",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/bf5da2a6-4fac-4cc3-89c9-1c1f7ce08931/"
   },
   {
     "id": "ad4ae0d9-9792-47ae-9463-a5ea9d6d272a",
@@ -2106,13 +2229,24 @@
     "link": "/wniosek/12156cc5-c26c-4953-9462-6e2a4194bc9d/"
   },
   {
+    "id": "b75bf354-83f3-47a3-874a-70a95e6f74e6",
+    "application_date": "2022-11-18",
+    "applicant": "Stoen Operator  Sp. z o.o.",
+    "project_subject": "budowa sieci elektroenergetycznej SN i nN w ramach odtworzenia układu pracy sieci elektroenergetycznej nN po wybudowaniu przyłącza elektroenergetycznego do zasilenia budynku wielorodzinnego",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2022-12-15",
+    "link": "/wniosek/b75bf354-83f3-47a3-874a-70a95e6f74e6/",
+    "ignored": "true"
+  },
+  {
     "id": "362b9040-c485-430d-9dc1-c2eb6c0b2365",
     "application_date": "2022-08-23",
     "applicant": "CHODZEŃ sp. z o.o. sp. komandytowa",
     "project_subject": "budowa budynku magazynowego",
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
-    "link": "/wniosek/362b9040-c485-430d-9dc1-c2eb6c0b2365/"
+    "link": "/wniosek/362b9040-c485-430d-9dc1-c2eb6c0b2365/",
+    "ignored": "true"
   },
   {
     "id": "75ffe453-23b7-46cb-95bc-a0e6f07d013e",
@@ -2121,7 +2255,8 @@
     "project_subject": "remont i przebudowa przedsionka klatki schodowej nr 5 w budynku mieszkalnym wielorodzinnym",
     "decision": "Decyzja odmowna",
     "decision_date": "2018-05-16",
-    "link": "/wniosek/75ffe453-23b7-46cb-95bc-a0e6f07d013e/"
+    "link": "/wniosek/75ffe453-23b7-46cb-95bc-a0e6f07d013e/",
+    "ignored": "true"
   },
   {
     "id": "45e87ca5-0c22-4084-b4a7-a554124c1be5",
@@ -2130,7 +2265,8 @@
     "project_subject": "Budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego",
     "decision": "Wycofany przez inwestora",
     "decision_date": "2023-10-03",
-    "link": "/wniosek/45e87ca5-0c22-4084-b4a7-a554124c1be5/"
+    "link": "/wniosek/45e87ca5-0c22-4084-b4a7-a554124c1be5/",
+    "ignored": "true"
   },
   {
     "id": "49ffab89-ad28-4d33-8a81-10d2124c6a1a",
@@ -2139,7 +2275,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2019-04-29",
-    "link": "/wniosek/49ffab89-ad28-4d33-8a81-10d2124c6a1a/"
+    "link": "/wniosek/49ffab89-ad28-4d33-8a81-10d2124c6a1a/",
+    "ignored": "true"
   },
   {
     "id": "c5e868e4-b22c-481d-a2f6-24b404fc814a",
@@ -2148,7 +2285,8 @@
     "project_subject": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym",
     "decision": "Decyzja pozytywna",
     "decision_date": "2019-05-30",
-    "link": "/wniosek/c5e868e4-b22c-481d-a2f6-24b404fc814a/"
+    "link": "/wniosek/c5e868e4-b22c-481d-a2f6-24b404fc814a/",
+    "ignored": "true"
   },
   {
     "id": "620f11dc-7ff2-4a6c-90f0-df680713f99e",
@@ -2193,7 +2331,8 @@
     "project_subject": "budowa budynku mieszkalnego jednorodzinnego i budynku gospodarczego",
     "decision": "Bez rozpatrzenia",
     "decision_date": "",
-    "link": "/wniosek/e0f65adf-c338-42b6-88e0-e0dee1e417e5/"
+    "link": "/wniosek/e0f65adf-c338-42b6-88e0-e0dee1e417e5/",
+    "ignored": "true"
   },
   {
     "id": "44448919-54c2-4c9b-8716-1b0168119967",
