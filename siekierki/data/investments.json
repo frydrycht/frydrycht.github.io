@@ -42,6 +42,10 @@
     "description": "etap 3A: 5 kondygnacji, 63 mieszkania, 4 lokale usługowe",
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
+    "environmental_permit":[
+      "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
+    ],
+    "environmental_permit_date": "30.07.2025",
     "construction_permit": [
       "12156cc5-c26c-4953-9462-6e2a4194bc9d"
     ],
@@ -742,7 +746,10 @@
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
     "environmental_permit_links": "292/OŚ/2025\nhttps://bip.um.warszawa.pl/web/biuro-ochrony-srodowiska/-/decyzja-nr-292/os/2025-z-1-sierpnia-2025-r-znak-os-iv-uii-6220-125-2022-jso\n89/OŚ/2024\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazami_podziemnymi__powierzchnia_uslug.htm\n",
-    "environmental_permit_date": "23.02.2024",
+    "environmental_permit":[
+      "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
+    ],
+    "environmental_permit_date": "30.07.2025",
     "construction_permit": [
       "03dc5a80-96fb-4b34-90ac-6fca6c1e7ab5",
       "33d87b9f-9d20-4032-8a13-cedd9b1d6532",
@@ -756,9 +763,13 @@
   },
   {
     "invest_id": "b2f19802-5219-4247-be70-34d8e8be78cd",
-    "name": "",
+    "name": "Mokotów Sportowy",
     "investor": "Dom Development",
     "description": "etap 3B: 2-5 kondygnacji, 0k. 112 mieszkań, ok. 3 lokale usługowe",
+    "environmental_permit":[
+      "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
+    ],
+    "environmental_permit_date": "30.07.2025",
     "construction_permit": [
       "193add93-a418-4bb1-a5a4-8561d7f745f4"
     ],
@@ -1219,6 +1230,10 @@
     "description": "etap 1: 5-6 kondygnacji, ok 167 mieszkań, 1 lokal usługowy\netap 2: 4-5 kondygnacji, ok. 116 mieszkań, ok. 4 lokale usługowe",
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
+    "environmental_permit":[
+      "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
+    ],
+    "environmental_permit_date": "30.07.2025",
     "construction_permit": [
       "f7c5a322-5aad-4612-a3a7-0fdbf7c165fe",
       "adfbc32f-66d6-469c-aac6-5709347188e0",

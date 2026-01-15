@@ -44,20 +44,23 @@
         "applicant": "SGI",
         "applicaion_date": "",
         "urls":[
-            {
-                "name": "Decyzja",
-                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-w-obrebie-1-07-15-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-1934424"
-            },
-            {
-                "name": "Zawiadomienie",
-                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-4444952"
-            },            
-            {
-                "name": "Wszczęcie",
-                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-w-obrebie-1-07-15-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-762715"
-            }
         ],
         "status": "Decyzja pozytywna",
         "decision_date": "06.06.2023"
+    },
+    {
+        "id": "e8ad8b89-dc15-405f-b4f6-8c256628ae30",
+        "project_id": "OŚ-IV-UII.6220.125.2022.JSO",
+        "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych wraz z garażami podziemnymi, powierzchnią usługową oraz towarzyszącą infrastrukturą komunikacyjną i techniczną na dz. ewid. nr 17, na cz. dz. ewid. nr 16/2 i 18 obręb 1-05-07 oraz na cz. dz. ewid. nr 2/1, 2/2 i 3 obręb 1-05-08 przy ul. Antoniewskiej w Dzielnicy Mokotów m.st. Warszawy. ",
+        "applicant": "Dom Development",
+        "applicaion_date": "29.08.2022",
+        "urls":[
+            {
+                "name": "Decyzja",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/decyzja-nr-292/os/2025-z-1-sierpnia-2025-r-znak-os-iv-uii-6220-125-2022-jso"
+            }
+        ],
+        "status": "Decyzja pozytywna",
+        "decision_date": "30.07.2025"
     }
 ]
