@@ -256,7 +256,7 @@
             <th>Numer sprawy</th>
             <th>Wnioskodawca</th>
             <th>Przedmiot inwestycji</th>
-            <th>Decyzja</th>
+            <th>Status</th>
             <th>Data decyzji</th>
             <th>Linki</th>
         </tr>
@@ -269,7 +269,7 @@
             <td>${p.project_id || ""}</td>
             <td>${p.applicant || ""}</td>
             <td>${p.project_subject || ""}</td>
-            <td>${p.decision || ""}</td>
+            <td>${p.status || ""}</td>
             <td>${p.decision_date || ""}</td>
             <td>
                 ${fillEnvironmentalLinks(p.urls)}

@@ -344,12 +344,12 @@
     "website": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wydane/2022/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2022/Decyzja_nr_180_OS_2022_z_18_marca_2022_r__znak_OS-IV-UII_6220_133_2018_SYP.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_przy_ul__Polskiej_i_7-KUL_w_Dzielnicy_M.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/NR/exeres/1093754B-905C-4DAD-82E3-86422344144A.htm",
     "environmental_permit": [
-      "4a459d59-48d6-4784-9eb4-37175546af9e",
-      "6a28f35e-9d56-414b-b515-007b627f38bc"
+      "4a459d59-48d6-4784-9eb4-37175546af9e"
     ],
     "environmental_permit_date": "21.03.2022",
     "construction_permit": [
-      "cae1028e-52e7-491f-beec-c24fcad7d64d"
+      "cae1028e-52e7-491f-beec-c24fcad7d64d",
+      "6a28f35e-9d56-414b-b515-007b627f38bc"
     ],
     "construction_permit_date": "13.06.2022",
     "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor_U1fZVpriN_C6Ljkr2BQzU2nb-30lFpnohfK9POKgT_fl8_Cd4aYUXIdu8HQ8Sm0K0vepzpSb4QBVOkQc8ipJoVm7vFsNuUr8sv1yH6OVS01Sx-PUEzNKRH9yyzhH4grgxHAs3js2153D3assvTI52lgaUPGUD5qVKpWrQVGEnHn-24H76yjUzrLsrJcQRkcTf5BKKtTs1xOzcKLaioedEw1yHl3Uia6ynypWx1b9_mu4Gq_j7FX1gaCOXg?authuser=0&fife=s16383",
@@ -384,12 +384,12 @@
     "website": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wydane/2022/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2022/Decyzja_nr_180_OS_2022_z_18_marca_2022_r__znak_OS-IV-UII_6220_133_2018_SYP.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_przy_ul__Polskiej_i_7-KUL_w_Dzielnicy_M.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_pieciu_budynkow_mieszkalnych__wielorodzinnych_wraz_z_uslugami_i_garazami_podziemnymi_.htm\nhttps://bip.warszawa.pl/NR/exeres/1093754B-905C-4DAD-82E3-86422344144A.htm",
     "environmental_permit": [
-      "4a459d59-48d6-4784-9eb4-37175546af9e",
-      "6a28f35e-9d56-414b-b515-007b627f38bc"
+      "4a459d59-48d6-4784-9eb4-37175546af9e"
     ],
     "environmental_permit_date": "21.03.2022",
     "construction_permit": [
-      "b0ce2a64-a7c3-4c8f-bfc3-f4f5afd747ef"
+      "b0ce2a64-a7c3-4c8f-bfc3-f4f5afd747ef",
+      "6a28f35e-9d56-414b-b515-007b627f38bc"
     ],
     "construction_permit_date": "13.06.2022",
     "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor1V0NdDhSv2zEN4W6l6FTnDZURLkcqDwvQ8aDBP5NFTCx5XG-6b1yuVWeylshba3uqC1eAyuuKstISvXrZqu-8m3MB_m7Pf3aTakjoqON2yZmfWtKKF3XpywH79V-4fA86BBsXjQsY3ZvPk2wI6s3UX_pruovAgNA13r9xR-d-HSoNM4mQPuzSgwMjsMsdd-UisatZSywz2ubv7dGo2QxDO7Xow5hy97vlgDVO90Z7j1-vNX1rjy4eesZh4A?authuser=0&fife=s16383",
@@ -437,6 +437,9 @@
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+    "environmental_permit":[
+      "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
+    ],
     "environmental_permit_date": "4.11.2021",
     "construction_permit": [],
     "construction_permit_date": "06.10.2023",
@@ -502,6 +505,9 @@
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+    "environmental_permit":[
+      "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
+    ],
     "environmental_permit_date": "4.11.2021",
     "construction_permit": [
       "70129c02-bbbb-4015-8f49-2014e2cd07e9"
@@ -770,21 +776,6 @@
     "status": "Planowane"
   },
   {
-    "invest_id": "9f7bf131-2daf-4a7b-89a3-e7901c9d79e2",
-    "name": "",
-    "investor": "SGI",
-    "description": "",
-    "info": "5.04.2022 inwestor złożył wniosek o wydanie decyzji środowiskowej",
-    "website": "",
-    "environmental_permit_links": "https://bip.warszawa.pl/NR/exeres/A4789FC9-DDC0-46B5-8BE7-91EDE2656674.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2023/Decyzja_nr_232_OS_2023_z_6_czerwca_2023_r__znak_OS-IV-UII_6220_50_2022_EKO.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_budynkow_mieszkalnych_wielorodzinnych_wraz_z_podziemnym_parkingiem__infrastruktura_techniczna.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2023/Budowa_budynkow_mieszkalnych_wielorodzinnych_wraz_z_podziemnym_parkingiem__infrastruktura_techniczna.htm\n",
-    "environmental_permit_date": "06.06.2023",
-    "construction_permit": [],
-    "construction_permit_date": "",
-    "status": "Planowane",
-    "start_date": null,
-    "construction_start_date": null
-  },
-  {
     "invest_id": "5327e587-fa84-44e5-8131-39169b0121d9",
     "name": "",
     "investor": "SGI",
@@ -936,9 +927,13 @@
   },
   {
     "invest_id": "25ede5d4-8006-43be-bfc7-1fbe8ebd554e",
-    "name": "",
+    "name": "Ananasowa",
     "investor": "SGI",
     "description": "budowa zespołu trzech budynków mieszkalnych wielorodzinnych z usługami w parterze i parkingiem podziemnym",
+    "environmental_permit":[
+      "a0c7004e-f643-40a6-85e4-37e0ee08729a"
+    ],
+    "environmental_permit_date": "06.06.2023",
     "construction_permit": [
       "44e9bd30-cceb-4536-b792-10604231063b"
     ],
@@ -1065,6 +1060,10 @@
     "description": "",
     "info": "Inwestor w grudniu zakupił działkę z istniejącym domem i w związku z tym zmodyfikował plany osiedla",
     "website": "https://www.sgi.pl/warszawa/ananasowa/",
+    "environmental_permit":[
+      "a0c7004e-f643-40a6-85e4-37e0ee08729a"
+    ],
+    "environmental_permit_date": "06.06.2023",
     "construction_permit": [
       "c93c49ee-4960-4491-8118-ad72eb607932",
       "d3e26752-df78-4c9c-9123-598891638064",
@@ -1200,6 +1199,9 @@
     "info": "",
     "website": "https://wislanymokotow.pl/e8/",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+    "environmental_permit":[
+      "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
+    ],
     "environmental_permit_date": "4.11.2021",
     "construction_permit": [
       "0bb0fe17-5fe1-4b43-b9cd-a8120011ed54"
@@ -1236,6 +1238,9 @@
     "info": "",
     "website": "https://wille.wislanymokotow.pl/",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+    "environmental_permit":[
+      "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
+    ],
     "environmental_permit_date": "4.11.2021",
     "construction_permit": [],
     "construction_permit_date": "",
@@ -1252,6 +1257,9 @@
     "info": "",
     "website": "https://wille.wislanymokotow.pl/",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+    "environmental_permit":[
+      "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
+    ],
     "environmental_permit_date": "4.11.2021",
     "construction_permit": [],
     "construction_permit_date": "08.03.2023",
@@ -1341,7 +1349,9 @@
     "description": "budowa zespołu pięciu budynków mieszkalnych wielorodzinnych wraz z podziemnym parkingiem, infrastrukturą techniczną i drogami dojazdowymi",
     "info": "",
     "website": "https://www.sgi.pl/warszawa/ananasowa/",
-    "environmental_permit": "",
+    "environmental_permit":[
+      "a0c7004e-f643-40a6-85e4-37e0ee08729a"
+    ],
     "environmental_permit_date": "06.06.2023",
     "construction_permit": [
       "01465e94-0268-49df-bf9d-790d41e43786",

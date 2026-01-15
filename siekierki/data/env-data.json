@@ -2,7 +2,7 @@
     {
         "id": "4a459d59-48d6-4784-9eb4-37175546af9e",
         "project_id": "OŚ-IV-UII.6220.133.2018.SYP",
-        "project_subject": "budowie zespołu pięciu budynków mieszkalnych, wielorodzinnych wraz z usługami i garażami podziemnymi (trzy garaże podziemne i pięć części nadziemnych), elementami zagospodarowania terenu, drogą wewnętrzną i miejscami parkingowymi w terenie oraz z infrastrukturą techniczną, na dz. ewid. nr 66, 67, 68, 69, 70, 71, 72, 73/3, 74/2, 82/1, 82/2, 82/3, 83/1, 83/2 obręb 1-07-13, przy ul. Polskiej i 7-KUL w Dzielnicy Mokotów m.st. Warszawy",
+        "project_subject": "budowa zespołu pięciu budynków mieszkalnych, wielorodzinnych wraz z usługami i garażami podziemnymi (trzy garaże podziemne i pięć części nadziemnych), elementami zagospodarowania terenu, drogą wewnętrzną i miejscami parkingowymi w terenie oraz z infrastrukturą techniczną, na dz. ewid. nr 66, 67, 68, 69, 70, 71, 72, 73/3, 74/2, 82/1, 82/2, 82/3, 83/1, 83/2 obręb 1-07-13, przy ul. Polskiej i 7-KUL w Dzielnicy Mokotów m.st. Warszawy",
         "applicant":"Bouygues Immobilier",
         "applicaion_date": "19.11.2018",
         "urls":[
@@ -13,5 +13,51 @@
         ],
         "status": "Decyzja pozytywna",
         "decision_date": "18.03.2022"
+    },
+    {
+        "id": "49cd406c-3113-4aca-bf96-546d1b1ec8bf",
+        "project_id": "OŚ-IV-UII.6220.80.2020.UPR",
+        "project_subject": "Zespół budynków mieszkalnych wielorodzinnych z usługami, garażami podziemnymi oraz infrastrukturą techniczną i drogową (kwartały MU/W 12, 13, 14, 15, 16)",
+        "applicant": "Budimex Nieruchomości",
+        "applicaion_date": "22.05.2020",
+        "urls":[
+            {
+                "name": "Decyzja",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-w-obrebie-1-07-15-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-1934424"
+            },
+            {
+                "name": "Zawiadomienie",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-4444952"
+            },            
+            {
+                "name": "Wszczęcie",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-w-obrebie-1-07-15-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-762715"
+            }
+        ],
+        "status": "Decyzja pozytywna",
+        "decision_date": "4.11.2021"
+    },
+    {
+        "id": "a0c7004e-f643-40a6-85e4-37e0ee08729a",
+        "project_id": "OŚ-IV-UII.6220.50.2022.EKO",
+        "project_subject": "budowa budynków mieszkalnych wielorodzinnych wraz z podziemnym parkingiem, infrastrukturą techniczną i drogami dojazdowymi",
+        "applicant": "SGI",
+        "applicaion_date": "",
+        "urls":[
+            {
+                "name": "Decyzja",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-w-obrebie-1-07-15-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-1934424"
+            },
+            {
+                "name": "Zawiadomienie",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-4444952"
+            },            
+            {
+                "name": "Wszczęcie",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/zespol-budynkow-mieszkalnych-wielorodzinnych-z-uslugami-garazami-podziemnymi-oraz-infrastruktura-techniczna-i-drogowa-kwartaly-mu-w-12-13-14-15-16-w-obrebie-1-07-15-przy-al-polski-walczacej-rog-al-jozefa-becka-w-dzielnicy-mokotow-762715"
+            }
+        ],
+        "status": "Decyzja pozytywna",
+        "decision_date": "06.06.2023"
     }
 ]
