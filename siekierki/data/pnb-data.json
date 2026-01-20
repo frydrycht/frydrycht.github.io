@@ -1,5 +1,15 @@
 [
   {
+    "id": "b3463e01-78b5-447e-99dc-e9b86f323ed7",
+    "application_date": "2016-03-24",
+    "applicant": "Wójcik Krzysztof",
+    "project_subject": "budowa dwóch budynków mieszkalnych jednorodzinnych wolnostojących z garażami w bryle budynku  i szczelnego zbiornika bezodpływowego",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2016-06-07",
+    "link": "/wniosek/b3463e01-78b5-447e-99dc-e9b86f323ed7/",
+    "ignored": true
+  },
+  {
     "id": "e0f65adf-c338-42b6-88e0-e0dee1e417e5",
     "application_date": "2016-04-05",
     "applicant": "Majewski Jan",
@@ -28,6 +38,16 @@
     "decision_date": "2017-07-21",
     "link": "/wniosek/070dd5ca-fadc-450e-9bf0-8b12a1207f64/",
     "ignored": false
+  },
+  {
+    "id": "ea3b79e5-33c4-4444-92fa-bef561eaf852",
+    "application_date": "2016-12-30",
+    "applicant": "Wójcik Krzysztof",
+    "project_subject": "zmiana decyzji pozwolenia na budowę nr 191/B/2016 z dnia 07.06.2016 zatwierdzającej projektu budowlany i udzielającej pozwolenia na budowę dla inwestycji polegającej na budowie dwóch budynków mieszkalnych jednorodzinnych wolnostojących z garażami w bryle budynku  i szczelnego zbiornika bezodpływowego w zakresie zatwierdzenia zamiennego projektu budowlanego",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2017-04-18",
+    "link": "/wniosek/ea3b79e5-33c4-4444-92fa-bef561eaf852/",
+    "ignored": true
   },
   {
     "id": "a6c47813-d5ac-4402-94a5-12e543edc465",
@@ -87,6 +107,16 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2017-10-20",
     "link": "/wniosek/712ca7d3-20fd-4877-8e51-08397d9a8772/",
+    "ignored": true
+  },
+  {
+    "id": "baaf6142-187b-47df-bc9d-18f0f3c4a00b",
+    "application_date": "2017-08-17",
+    "applicant": "Zega  Danuta  Sabina",
+    "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2017-12-29",
+    "link": "/wniosek/baaf6142-187b-47df-bc9d-18f0f3c4a00b/",
     "ignored": true
   },
   {
@@ -600,6 +630,16 @@
     "ignored": true
   },
   {
+    "id": "17baa036-b4d7-488d-9b9c-4e24eabff206",
+    "application_date": "2020-09-04",
+    "applicant": "Koprowski Rafał",
+    "project_subject": "rozbiórka budynku gospodarczego oraz wiaty garażowej",
+    "decision": "Wycofany przez inwestora",
+    "decision_date": "2020-11-25",
+    "link": "/wniosek/17baa036-b4d7-488d-9b9c-4e24eabff206/",
+    "ignored": true
+  },
+  {
     "id": "081c41f0-ca3c-450f-a28d-29a878ae4889",
     "application_date": "2020-09-10",
     "applicant": "Budimex Nieruchomości Sp. z o.o.",
@@ -928,6 +968,16 @@
     "decision_date": "2024-03-26",
     "link": "/wniosek/5cec52fa-a09f-4eed-b5b7-21eaed1cae6a/",
     "ignored": false
+  },
+  {
+    "id": "834d81c6-307f-4515-8e6e-64d9fa6723fe",
+    "application_date": "2021-08-30",
+    "applicant": "Koprowski Piotr",
+    "project_subject": "budowa budynku mieszkalnego jednorodzinnego",
+    "decision": "Decyzja umarzająca",
+    "decision_date": "2025-01-29",
+    "link": "/wniosek/834d81c6-307f-4515-8e6e-64d9fa6723fe/",
+    "ignored": true
   },
   {
     "id": "3f49c58d-bed5-4757-a60f-8f0555ea4d1b",
@@ -1327,6 +1377,26 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2023-03-29",
     "link": "/wniosek/da107a1e-1f3c-4aeb-b89d-c3f7e097103c/",
+    "ignored": true
+  },
+  {
+    "id": "b055ba34-057d-4b2a-964a-ba772dfe383e",
+    "application_date": "2022-11-25",
+    "applicant": "Englicht  Paweł",
+    "project_subject": "budowa budynku mieszkalnego jednorodzinnego wraz z zagospodarowaniem terenu i infrastrukturą techniczną",
+    "decision": "Decyzja umarzająca",
+    "decision_date": "2025-03-12",
+    "link": "/wniosek/b055ba34-057d-4b2a-964a-ba772dfe383e/",
+    "ignored": true
+  },
+  {
+    "id": "de7c548d-475e-4443-ad33-ab3ec81e48bc",
+    "application_date": "2022-11-25",
+    "applicant": "Englicht  Paweł",
+    "project_subject": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego wraz z zagospodarowaniem terenu i infrastrukturą techniczną oraz rozbiórka budynku mieszkalnego jednorodzinnego",
+    "decision": "Wycofany przez inwestora",
+    "decision_date": "2025-03-07",
+    "link": "/wniosek/de7c548d-475e-4443-ad33-ab3ec81e48bc/",
     "ignored": true
   },
   {
@@ -2240,6 +2310,16 @@
     "ignored": false
   },
   {
+    "id": "20fbd6ce-59bf-4b91-a94d-ee9e0a04c450",
+    "application_date": "2025-02-19",
+    "applicant": "Englicht Paweł",
+    "project_subject": "budowa trzech budynków mieszkalnych jednorodzinnych",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/20fbd6ce-59bf-4b91-a94d-ee9e0a04c450/",
+    "ignored": true
+  },
+  {
     "id": "79cc9024-fda9-4eeb-a415-7473ca1ae88c",
     "application_date": "2025-02-27",
     "applicant": "Wawa Novum Sześć Sp. z o.o.",
@@ -2590,6 +2670,16 @@
     "ignored": false
   },
   {
+    "id": "bfc1ea60-3b50-4a3e-a69a-2bbb16d7990e",
+    "application_date": "2025-12-22",
+    "applicant": "Dom Development S.A.",
+    "project_subject": "zespół budynków mieszkalnych wielorodzinnych z lokalami usługowymi w parterze budynku A, garażem podziemnym, drogą wewnętrzną, niezbędną infrastrukturą techniczną oraz zagospodarowaniem terenu",
+    "decision": "Przekazany",
+    "decision_date": "",
+    "link": "/wniosek/bfc1ea60-3b50-4a3e-a69a-2bbb16d7990e/",
+    "ignored": false
+  },
+  {
     "id": "0505ff58-b74d-4001-ace2-f4c72fdce7e1",
     "application_date": "2025-12-23",
     "applicant": "Robyg 24 Sp. z o.o.",
@@ -2657,6 +2747,16 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/bde8268b-0301-4eac-9b41-f4333beb9877/",
+    "ignored": false
+  },
+  {
+    "id": "a6471a3a-19ac-4b7a-838c-1e28a5596b6d",
+    "application_date": "2025-12-23",
+    "applicant": "ACG 15 Sp. z o.o.",
+    "project_subject": "budowa budynku mieszkalnego wielorodzinnego wraz z garażem podziemnym, z usługami w parterze oraz infrastrukturą  towarzyszącą",
+    "decision": "Przekazany",
+    "decision_date": "",
+    "link": "/wniosek/a6471a3a-19ac-4b7a-838c-1e28a5596b6d/",
     "ignored": false
   },
   {
