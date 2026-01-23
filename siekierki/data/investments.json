@@ -612,6 +612,7 @@
     "investor": "Albero Invest",
     "description": "10 budynków mieszkalnych jednorodzinnych, dwulokalowych w zabudowie szeregowej wraz z garażami",
     "construction_permit": [
+      "10d34b8f-e736-431c-8914-ed46e1a168fd",
       "830b6378-36f2-46fe-923f-80af4196bda9",
       "90267d35-7cee-48ea-ae41-deef98b1df17",
       "632e0d5f-5ca4-4929-bcb0-9b5c2c12637e",
@@ -694,6 +695,8 @@
     "environmental_permit_links": "(umorzenie) https://nowy.bip.um.warszawa.pl/web/biuro-ochrony-srodowiska/-/ul-bernardynska-dzielnica-mokotow-znak-sprawy-os-iv-ui-6220-5-2020-aor-zaw-z-16-08-2024\nhttps://bip.warszawa.pl/NR/exeres/BA366736-6A1A-4BCF-987C-319E4161BFE2.htm\n",
     "environmental_permit_date": "",
     "construction_permit": [
+      "7d413d74-3dde-4031-8a81-535321dd19b9",
+      "5ba543be-da69-4519-bfb4-ea63af547c6e",
       "722009ca-f3c8-4eaa-baeb-8ec4509136b8"
     ],
     "construction_permit_date": "",
@@ -711,7 +714,11 @@
     "website": "",
     "environmental_permit_links": "(umorzenie) https://bip.um.warszawa.pl/web/biuro-ochrony-srodowiska/-/ul-bernardynska-dzielnica-mokotow-znak-sprawy-os-iv-uii-6220-27-2020-wka-zaw-z-15-01-25-r-\nhttps://bip.warszawa.pl/NR/exeres/FD791C49-C3FB-41D6-A191-FF2A273EF088.htm\n",
     "environmental_permit_date": "",
-    "construction_permit": [],
+    "construction_permit": [
+      "5655d971-34be-4ddf-bcaf-0887c75d9c6b",
+      "a6471a3a-19ac-4b7a-838c-1e28a5596b6d",
+      "1d11299c-0750-4f9c-b662-a4c429c7b0d6"
+    ],
     "construction_permit_date": "",
     "gx_media_links": null,
     "status": "Planowane",
