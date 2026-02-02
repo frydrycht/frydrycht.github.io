@@ -24,14 +24,40 @@
             text-align: left;
         }
 
-        .nested-table {
+        #construction_permits_section table, #environmental_permits_section table {
             width: 100%;
-            margin-top: 6px;
+            font-size: 0.85em;
         }
 
-        .nested-table th {
-            background: #fafafa;
+        #construction_permits_section th, #environmental_permits_section th {
+            background: #eeeeee;
             width: auto;
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+
+        #construction_permits_section td, #environmental_permits_section td {
+            width: auto;
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+
+        div.section_title {
+            font-size: 0.9em;
+            font-weight: bold;
+            color: #333;
+            margin-top: 1em;
+            background-color: #eeeeee;
+            display: block;
+            width: 100%;
+        }
+
+        #construction_permits_section {
+            margin-top: 1em;
+        }
+
+        #environmental_permits_section {
+            margin-top: 1em;
         }
     </style>
 </head>
@@ -63,27 +89,17 @@
             <th>Status</th>
             <td id="status"></td>
         </tr>
+    </table>    
 
-        <tr id="construction_permit_date_row">
-            <th>Data PnB</th>
-            <td id="construction_permit_date"></td>
-        </tr>
+    <div id="construction_permits_section">
+        <div class="section_title">Pozwolenia na budowę</div>
+        <div id="construction_permit"></div>
+    </div>
 
-        <tr id="construction_permit_row">
-            <th>Pozwolenia na budowę</th>
-            <td id="construction_permit"></td>
-        </tr>
-
-        <tr id="environmental_permit_date_row">
-            <th>Data decyzji środowiskowej</th>
-            <td id="environmental_permit_date"></td>
-        </tr>
-
-        <tr id="environmental_permit_row">
-            <th>Decyzja środowiskowa</th>
-            <td id="environmental_permit"></td>
-        </tr>
-    </table>
+    <div id="environmental_permits_section">
+        <div class="section_title">Decyzja środowiskowa</div>
+        <div id="environmental_permit"></div>
+    </div>
 
     <script>
         document.addEventListener("DOMContentLoaded", async () => {
@@ -146,28 +162,17 @@
                 setOrHide("investor_row", "investor", investment.investor);
                 setOrHide("description_row", "description", investment.description);
                 setLinkOrHide("website_row", "website", investment.website?.trim());
-                setOrHide("status_row", "status", investment.status);
-                setOrHide(
-                    "construction_permit_date_row",
-                    "construction_permit_date",
-                    investment.construction_permit_date
-                );
+                setOrHide("status_row", "status", investment.status);                
 
                 fillConstructionPermits(
-                    "construction_permit_row",
+                    "construction_permits_section",
                     "construction_permit",
                     investment.construction_permit,
                     pnbData
                 );
 
-                setOrHide(
-                    "environmental_permit_date_row",
-                    "environmental_permit_date",
-                    investment.environmental_permit_date
-                );
-
                 fillEnvironmentalPermits(
-                    "environmental_permit_row",
+                    "environmental_permits_section",
                     "environmental_permit",
                     investment.environmental_permit,
                     envData
@@ -190,6 +195,7 @@
                 const matched = pnbData.filter(p =>
                     permitIds.includes(p.id)
                 );
+                matched.sort((a, b) => b.application_date.localeCompare(a.application_date));
 
                 if (matched.length === 0) {
                     row.style.display = "none";
@@ -241,7 +247,8 @@
 
                 const matched = pnbData.filter(p =>
                     permitIds.includes(p.id)
-                );
+                );                
+                matched.sort((a, b) => b.application_date.localeCompare(a.application_date));
 
                 if (matched.length === 0) {
                     row.style.display = "none";
