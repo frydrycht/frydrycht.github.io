@@ -20,7 +20,7 @@
             function setOrHide(rowId, cellId, value) {
                 const row = document.getElementById(rowId);
                 const cell = document.getElementById(cellId);
-                if (!value || value === "" || (Array.isArray(value) && value.length === 0)) {
+                if (!value || value === "" || value === "null" || (Array.isArray(value) && value.length === 0)) {
                     if (row) row.style.display = "none";
                 } else {
                     if (cell) cell.textContent = value;
@@ -36,7 +36,7 @@
             setOrHide("status_street_row", "status_street", getQueryParam("status-street"));
 
             const investId = getQueryParam("invest-id");
-            if (!investId) {
+            if (!investId || investId === "null") {
                 const rowsToHide = [
                     "investor_row", "url_row", "contract_row", "env_decision_date_row",
                     "construction_permit_date_row", "project_row", "zud_row",
