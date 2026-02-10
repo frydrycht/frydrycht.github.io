@@ -2054,7 +2054,7 @@
     "application_date": "2024-06-24",
     "applicant": "Zdrowie Sp. z o.o.",
     "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego",
-    "decision": "Postępowanie zawieszone",
+    "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/5139a348-2af5-48c5-8991-ba567f96cc7f/",
     "ignored": false
@@ -2597,6 +2597,16 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/616df534-f0f1-45af-a467-144ee1696ccb/",
+    "ignored": false
+  },
+  {
+    "id": "9b4a9a1f-44c8-4435-baeb-5867da747810",
+    "application_date": "2025-12-18",
+    "applicant": "Tanna Spółka z ograniczoną odpowiedzialnością",
+    "project_subject": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/9b4a9a1f-44c8-4435-baeb-5867da747810/",
     "ignored": false
   },
   {
