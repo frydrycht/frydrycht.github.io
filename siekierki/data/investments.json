@@ -42,7 +42,7 @@
     "description": "etap 3A: 5 kondygnacji, 63 mieszkania, 4 lokale usługowe",
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
-    "environmental_permit":[
+    "environmental_permit": [
       "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
     ],
     "environmental_permit_date": "30.07.2025",
@@ -441,7 +441,7 @@
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
-    "environmental_permit":[
+    "environmental_permit": [
       "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
     ],
     "environmental_permit_date": "4.11.2021",
@@ -509,7 +509,7 @@
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
-    "environmental_permit":[
+    "environmental_permit": [
       "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
     ],
     "environmental_permit_date": "4.11.2021",
@@ -598,7 +598,10 @@
       "8c85a45c-8c1d-446b-9f24-51413c453438",
       "9c47c25a-3533-4b15-af0a-c6a663a747ab",
       "2bdca846-b47a-46cb-93af-7b7bb5716b29",
-      "cddc1cdf-8cd6-4105-8a7c-a61fe96df4e6"
+      "cddc1cdf-8cd6-4105-8a7c-a61fe96df4e6",
+      "4e74ec35-56c0-4180-acc4-e432782f7887",
+      "616df534-f0f1-45af-a467-144ee1696ccb",
+      "9b4a9a1f-44c8-4435-baeb-5867da747810"
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
@@ -753,7 +756,7 @@
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
     "environmental_permit_links": "292/OŚ/2025\nhttps://bip.um.warszawa.pl/web/biuro-ochrony-srodowiska/-/decyzja-nr-292/os/2025-z-1-sierpnia-2025-r-znak-os-iv-uii-6220-125-2022-jso\n89/OŚ/2024\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazami_podziemnymi__powierzchnia_uslug.htm\n",
-    "environmental_permit":[
+    "environmental_permit": [
       "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
     ],
     "environmental_permit_date": "30.07.2025",
@@ -773,7 +776,7 @@
     "name": "Mokotów Sportowy",
     "investor": "Dom Development",
     "description": "etap 3B: 2-5 kondygnacji, 0k. 112 mieszkań, ok. 3 lokale usługowe",
-    "environmental_permit":[
+    "environmental_permit": [
       "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
     ],
     "environmental_permit_date": "30.07.2025",
@@ -843,7 +846,7 @@
     "investor": "YIT",
     "description": "",
     "info": "",
-    "construction_permit":[
+    "construction_permit": [
       "d72ae566-1151-4b5e-bfd1-085a7552b324"
     ],
     "website": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
@@ -949,7 +952,7 @@
     "name": "Ananasowa",
     "investor": "SGI",
     "description": "budowa zespołu trzech budynków mieszkalnych wielorodzinnych z usługami w parterze i parkingiem podziemnym",
-    "environmental_permit":[
+    "environmental_permit": [
       "a0c7004e-f643-40a6-85e4-37e0ee08729a"
     ],
     "environmental_permit_date": "06.06.2023",
@@ -1079,7 +1082,7 @@
     "description": "",
     "info": "Inwestor w grudniu zakupił działkę z istniejącym domem i w związku z tym zmodyfikował plany osiedla",
     "website": "https://www.sgi.pl/warszawa/ananasowa/",
-    "environmental_permit":[
+    "environmental_permit": [
       "a0c7004e-f643-40a6-85e4-37e0ee08729a"
     ],
     "environmental_permit_date": "06.06.2023",
@@ -1219,7 +1222,7 @@
     "info": "",
     "website": "https://wislanymokotow.pl/e8/",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
-    "environmental_permit":[
+    "environmental_permit": [
       "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
     ],
     "environmental_permit_date": "4.11.2021",
@@ -1239,7 +1242,7 @@
     "description": "etap 1: 5-6 kondygnacji, ok 167 mieszkań, 1 lokal usługowy\netap 2: 4-5 kondygnacji, ok. 116 mieszkań, ok. 4 lokale usługowe",
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
-    "environmental_permit":[
+    "environmental_permit": [
       "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
     ],
     "environmental_permit_date": "30.07.2025",
@@ -1262,7 +1265,7 @@
     "info": "",
     "website": "https://wille.wislanymokotow.pl/",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
-    "environmental_permit":[
+    "environmental_permit": [
       "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
     ],
     "environmental_permit_date": "4.11.2021",
@@ -1281,7 +1284,7 @@
     "info": "",
     "website": "https://wille.wislanymokotow.pl/",
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
-    "environmental_permit":[
+    "environmental_permit": [
       "49cd406c-3113-4aca-bf96-546d1b1ec8bf"
     ],
     "environmental_permit_date": "4.11.2021",
@@ -1373,7 +1376,7 @@
     "description": "budowa zespołu pięciu budynków mieszkalnych wielorodzinnych wraz z podziemnym parkingiem, infrastrukturą techniczną i drogami dojazdowymi",
     "info": "",
     "website": "https://www.sgi.pl/warszawa/ananasowa/",
-    "environmental_permit":[
+    "environmental_permit": [
       "a0c7004e-f643-40a6-85e4-37e0ee08729a"
     ],
     "environmental_permit_date": "06.06.2023",
@@ -1504,7 +1507,7 @@
   {
     "invest_id": "6e036af4-42a4-499d-83e0-e4f924ecb7a0",
     "name": "",
-    "investor": "INVEST Sp. z o.o.",
+    "investor": "LD Invest Sp. z o.o.",
     "construction_permit": [
       "bde8268b-0301-4eac-9b41-f4333beb9877",
       "5db65383-83af-4025-8ced-eb206579aa44"
