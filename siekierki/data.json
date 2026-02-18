@@ -500,7 +500,14 @@
                 "text": "Postępowanie DŚU",
                 "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm"
             }
-        ]
+        ],
+        "env_permit": [
+            {
+                "text": "Decyzja środowiskowa",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/decyzja-nr-58/os/2026-z-17-lutego-2026-r-znak-os-iv-uii-6220-9-2020-wka"
+            }
+        ],
+        "env_permit_date": "17.02.2026"
     },
     {
         "id": 32,
