@@ -80,7 +80,7 @@
                 setOrHide("investor_row", "investor", investment.investor);
                 setOrHideUrl("url_row", "url", investment.url);
                 setOrHideUrl("contract_row", "contract", investment.contract ? investment.contract.url : null, investment.contract ? investment.contract.text : null);
-                setOrHide("env_decision_date_row", "env_decision_date", investment.env_decision_date);
+                setOrHide("env_decision_date_row", "env_decision_date", investment.env_permit_date);
                 setOrHide("construction_permit_date_row", "construction_permit_date", investment.construction_permit_date);
                 setOrHideUrl("project_row", "project", investment.project_url, "Projekt");
                 setOrHideUrl("zud_row", "zud", investment.zud_url, "Mapa");
@@ -111,7 +111,7 @@
                     return a;
                 }
 
-                fillLinks("env_decision_row", "env_decision", investment.env_decision);
+                fillLinks("env_decision_row", "env_decision", investment.env_permit);
                 fillLinks("construction_permit_row", "construction_permit", investment.construction_permit);
 
                 function fillInfo(rowId, cellId, items) {
