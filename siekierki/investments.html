@@ -89,6 +89,14 @@
             <th>Status</th>
             <td id="status"></td>
         </tr>
+        <tr id="construction_start_date_row">
+            <th>Data rozpoczęcia budowy</th>
+            <td id="construction_start_date"></td>
+        </tr>
+        <tr id="start_date_row">
+            <th>Oddanie do użytku</th>
+            <td id="start_date"></td>
+        </tr>
     </table>    
 
     <div id="construction_permits_section">
@@ -163,6 +171,8 @@
                 setOrHide("description_row", "description", investment.description);
                 setLinkOrHide("website_row", "website", investment.website?.trim());
                 setOrHide("status_row", "status", investment.status);                
+                setOrHide("construction_start_date_row", "construction_start_date", investment.construction_start_date);
+                setOrHide("start_date_row", "start_date", investment.start_date);
 
                 fillConstructionPermits(
                     "construction_permits_section",
