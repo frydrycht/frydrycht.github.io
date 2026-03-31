@@ -337,12 +337,19 @@
     },
     {
         "id": 20,
-        "description": "Nadrzeczna Albero Invest",
+        "description": "15 KUD Albero Invest",
         "investor": "Albero Invest",
         "contract": {
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-512/2024-z-2024-10-30"
-        }
+        },
+        "construction_permit": [
+            {
+                "text": "Wszczęcie postępowania",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-t-budowa-drogi-15kud-na-odcinku-od-skrzyzowania-z-14-kud-do-skrzyzowania-z-ul-nadrzeczna-wraz-z-odwodnieniem-oswiet"
+            }
+        ],
+        "project_url": "https://drive.google.com/file/d/1d0TdeOcprxMyfNrileduMAYdestFHSuc/view?usp=sharing"
     },
     {
         "id": 21,
