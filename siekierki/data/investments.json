@@ -1237,9 +1237,9 @@
   },
   {
     "invest_id": "2cdf623e-f1e2-457d-b79d-20970636045e",
-    "name": "Mokotów Sportowy",
+    "name": "Mokotów Sportowy 1A",
     "investor": "Dom Development",
-    "description": "etap 1: 5-6 kondygnacji, ok 167 mieszkań, 1 lokal usługowy\netap 2: 4-5 kondygnacji, ok. 116 mieszkań, ok. 4 lokale usługowe",
+    "description": "etap 1: 5-6 kondygnacji, ok 167 mieszkań, 1 lokal usługowy",
     "info": "",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
     "environmental_permit": [
@@ -1248,13 +1248,33 @@
     "environmental_permit_date": "30.07.2025",
     "construction_permit": [
       "f7c5a322-5aad-4612-a3a7-0fdbf7c165fe",
+      "620f11dc-7ff2-4a6c-90f0-df680713f99e"
+    ],
+    "construction_permit_date": "20.12.2023",
+    "gx_media_links": null,
+    "status": "Oddane do użytku",
+    "start_date": "Q1.2026",
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "d12b7612-7bb7-4e6e-a5ce-b5487c498cda",
+    "name": "Mokotów Sportowy 1B",
+    "investor": "Dom Development",
+    "description": "etap 2: 4-5 kondygnacji, ok. 116 mieszkań, ok. 4 lokale usługowe",
+    "info": "",
+    "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
+    "environmental_permit": [
+      "e8ad8b89-dc15-405f-b4f6-8c256628ae30"
+    ],
+    "environmental_permit_date": "30.07.2025",
+    "construction_permit": [
       "adfbc32f-66d6-469c-aac6-5709347188e0",
       "620f11dc-7ff2-4a6c-90f0-df680713f99e"
     ],
-    "construction_permit_date": "20.12.2023 - etap I\n14.03.2025 - etap II",
+    "construction_permit_date": "14.03.2025",
     "gx_media_links": null,
     "status": "W budowie",
-    "start_date": "Q1.2026",
+    "start_date": "",
     "construction_start_date": ""
   },
   {
@@ -1297,7 +1317,7 @@
   },
   {
     "invest_id": "6f9a5938-1d1a-4ec4-a6e2-3b2849d0c0c5",
-    "name": "Rytm Mokotowa",
+    "name": "Rytm Mokotowa 1A",
     "investor": "Robyg",
     "description": "",
     "info": "",
@@ -1305,13 +1325,30 @@
     "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_497_OS_2021_z_27_wrzesnia_2021_r__znak_OS-IV-UI_6220_44_2018_MSK.htm",
     "environmental_permit_date": "27.09.2021",
     "construction_permit": [
-      "69b14ccc-f6c9-4ef4-9f07-deb80715ae88",
+      "69b14ccc-f6c9-4ef4-9f07-deb80715ae88"
+    ],
+    "construction_permit_date": "04.04.2024",
+    "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoouBljLCcPmpV_69rnJ14rhyT3nvewKewuAFE4NQ_lCvelH4ETZVpCBVAnUf_lQwTEmQ6v6OkZsDf9VFsgjJ-xQ_54IORRRFdHhnVgIJlWbyO5KjBy7CIhMJF0f5ScvYLXhEhirE0c0I0b5KM4xIhrE46UooMGVj3MjjE7PulOQnv1trERSaJgo0EPJ1c9zYhtKKWHO-eWSuw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooK9gO_3lriYbpmI1TEfx36HmdOTwWt-GyVSVOx1Q6SkOTbfd-GtcJUziQd6Y6U8c1nN50aMmZ4aRCcIp9jjykBwy-Dr2Wgz3SuzT9_dW44zbADgbcjcg8YB2My0PqcGzHGWbSP3TbQsL1AHsmdkGsy39RX9LFy3nnGl9HyswMW3OMxbtaVwth3oUu60CaRs9QtkvcF-QAspKM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorMfyE4H6FzRR0dpQTuDNypt3Zt544QwKxDxfatgZihxf3IIpB67OjGD9rB3IAgYpbMCB2EmFpwd-li5_KUtk2HYxCdEwL_kSd-5L7Z0dGy1FnDt_-2pPQAxnPe7D08N4fblFhF4JbbRfBw4CfwPHrX4e_kkFEmWck2BH5kxSBANxIEHHxoACXj2IOl5THsQ08NL5ID__v-hV4?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoojPVj9n3EA2vTRccUTSsRa8uKSWPAnBuSEVTNe45ITei8xdh1xdxFv_vtNKgN-NecPMTMu6fQBR3bD1s6Bu-9GovqneFKsPL-vRRxClyuPN_I2Qc2F-dpVAZOzgYYZwvOEFTf7uMvYVr86J_1C_cKSDYherLsmTmpB1WpRz0fqPQeW5Ziotfgo-fEOq4zFB7EYF_xhdtSvxlk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooMIxlECpBebIhYhPhTcrZiI984kxF6EVWZO_JfqWrGSIwyz-u_9fkM9-_zOxJG2plAOwMzRwMhxozoBIHjOGkfx-qwefQ_Qp-9otZZa-eL2sjiyhmUqjXJWwBzIUOC2gBhnBB9wnCL9qISqSXdpQmDF7DQGkjNZfJIYJP7MI76WE8jp_y2rwTsF3w8x3yAnCz6Ac87EJ8CuFc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop8m2ZEiwq3RmIabgC0ddmsgZ4ts8kiik6FoihiXYY8AdX5VAsBggfu9OLUJr9NL2_Ignf00TJ-X4PJFovHEah7J0yepTGOyqtu4uP2E1UhQKrKQw0qR0LehKgAxZq_WgOMSCIdcyp8ifaB21uInFzk1csJqttmojQK_5O8Y-zAJhheCUYOII2I-M9fFSD5uaJrGIlM-VaZNy0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqjSvf_MGiLnGw2_xMgRGPZPxWFm3Iu26BjkQW7D36QMZcMsSUHNCg2BMDuz6JYaAOWwCAI45Op-s5TIzs3SVFYEqjjUgkc5Acy-yDKZcQjvg31BbPknT7OrEAEOM3T3R_3NVlGvJ8uu4SwhRJ8RRQWZfo3U4RkwYj1F95OjNinteGaLE07LW7cW_vyW-PcUAcuLgQXQT6IQK0?authuser=0&fife=s16383",
+    "status": "Oddane do użytku",
+    "start_date": "Q1.2026",
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "05a7bd1e-74f8-4209-a7b6-4e23d0b9d586",
+    "name": "Rytm Mokotowa 1B",
+    "investor": "Robyg",
+    "description": "",
+    "info": "",
+    "website": "https://robyg.pl/warszawa/inwestycje/rytm-mokotowa",
+    "environmental_permit_links": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_497_OS_2021_z_27_wrzesnia_2021_r__znak_OS-IV-UI_6220_44_2018_MSK.htm",
+    "environmental_permit_date": "27.09.2021",
+    "construction_permit": [
       "52f2c391-11b5-4bbb-8b2a-a86ff57e04cd"
     ],
-    "construction_permit_date": "04.04.2024, 13.08.2024",
+    "construction_permit_date": "13.08.2024",
     "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoouBljLCcPmpV_69rnJ14rhyT3nvewKewuAFE4NQ_lCvelH4ETZVpCBVAnUf_lQwTEmQ6v6OkZsDf9VFsgjJ-xQ_54IORRRFdHhnVgIJlWbyO5KjBy7CIhMJF0f5ScvYLXhEhirE0c0I0b5KM4xIhrE46UooMGVj3MjjE7PulOQnv1trERSaJgo0EPJ1c9zYhtKKWHO-eWSuw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooK9gO_3lriYbpmI1TEfx36HmdOTwWt-GyVSVOx1Q6SkOTbfd-GtcJUziQd6Y6U8c1nN50aMmZ4aRCcIp9jjykBwy-Dr2Wgz3SuzT9_dW44zbADgbcjcg8YB2My0PqcGzHGWbSP3TbQsL1AHsmdkGsy39RX9LFy3nnGl9HyswMW3OMxbtaVwth3oUu60CaRs9QtkvcF-QAspKM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorMfyE4H6FzRR0dpQTuDNypt3Zt544QwKxDxfatgZihxf3IIpB67OjGD9rB3IAgYpbMCB2EmFpwd-li5_KUtk2HYxCdEwL_kSd-5L7Z0dGy1FnDt_-2pPQAxnPe7D08N4fblFhF4JbbRfBw4CfwPHrX4e_kkFEmWck2BH5kxSBANxIEHHxoACXj2IOl5THsQ08NL5ID__v-hV4?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoojPVj9n3EA2vTRccUTSsRa8uKSWPAnBuSEVTNe45ITei8xdh1xdxFv_vtNKgN-NecPMTMu6fQBR3bD1s6Bu-9GovqneFKsPL-vRRxClyuPN_I2Qc2F-dpVAZOzgYYZwvOEFTf7uMvYVr86J_1C_cKSDYherLsmTmpB1WpRz0fqPQeW5Ziotfgo-fEOq4zFB7EYF_xhdtSvxlk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooMIxlECpBebIhYhPhTcrZiI984kxF6EVWZO_JfqWrGSIwyz-u_9fkM9-_zOxJG2plAOwMzRwMhxozoBIHjOGkfx-qwefQ_Qp-9otZZa-eL2sjiyhmUqjXJWwBzIUOC2gBhnBB9wnCL9qISqSXdpQmDF7DQGkjNZfJIYJP7MI76WE8jp_y2rwTsF3w8x3yAnCz6Ac87EJ8CuFc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop8m2ZEiwq3RmIabgC0ddmsgZ4ts8kiik6FoihiXYY8AdX5VAsBggfu9OLUJr9NL2_Ignf00TJ-X4PJFovHEah7J0yepTGOyqtu4uP2E1UhQKrKQw0qR0LehKgAxZq_WgOMSCIdcyp8ifaB21uInFzk1csJqttmojQK_5O8Y-zAJhheCUYOII2I-M9fFSD5uaJrGIlM-VaZNy0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqjSvf_MGiLnGw2_xMgRGPZPxWFm3Iu26BjkQW7D36QMZcMsSUHNCg2BMDuz6JYaAOWwCAI45Op-s5TIzs3SVFYEqjjUgkc5Acy-yDKZcQjvg31BbPknT7OrEAEOM3T3R_3NVlGvJ8uu4SwhRJ8RRQWZfo3U4RkwYj1F95OjNinteGaLE07LW7cW_vyW-PcUAcuLgQXQT6IQK0?authuser=0&fife=s16383",
     "status": "W budowie",
-    "start_date": "Q1.2026",
+    "start_date": "",
     "construction_start_date": ""
   },
   {
