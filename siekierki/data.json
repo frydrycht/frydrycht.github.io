@@ -303,7 +303,11 @@
     {
         "id": 17,
         "description": "35 KUD",
-        "investor": "? Ronson ?",
+        "investor": "Ronson",
+        "contract":{
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.warszawa.pl/web/mokotow/-/uchwala-nr-2628/2026-z-2026-04-08"
+        },
         "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504909.888011405&Y=5785818.800229643&S=17&O=0&T=7fe778011fe004016dba49249246cdb6ffx2F"
     },
     {
