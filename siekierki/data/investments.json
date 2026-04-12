@@ -1163,7 +1163,11 @@
     "gx_media_links": null,
     "status": "Planowane",
     "start_date": null,
-    "construction_start_date": null
+    "construction_start_date": null,
+    "environmental_permit": [
+      "51b6e884-25d4-432e-8c33-9f1c2c3b5125"
+    ],
+    "id": null
   },
   {
     "invest_id": "1fe6efda-c7d1-40b8-bf3b-a4819ad88162",
@@ -1178,7 +1182,11 @@
     "gx_media_links": null,
     "status": "Planowane",
     "start_date": null,
-    "construction_start_date": null
+    "construction_start_date": null,
+    "environmental_permit": [
+      "51b6e884-25d4-432e-8c33-9f1c2c3b5125"
+    ],
+    "id": null
   },
   {
     "invest_id": "271ad8a9-7b51-4124-a537-9c7be4759ac3",

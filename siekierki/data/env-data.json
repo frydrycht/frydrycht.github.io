@@ -62,5 +62,63 @@
         ],
         "status": "Decyzja pozytywna",
         "decision_date": "30.07.2025"
+    },
+    {
+        "id": "51b6e884-25d4-432e-8c33-9f1c2c3b5125",
+        "project_id": "OŚ-IV-UII.6220.30.2026.MAL",
+        "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych, maksymalnie V-kondygnacyjnych z garażami podziemnymi, z usługami na działkach ewid. nr 10, 11 obręb 1-05-05 oraz na części działek ewid. nr 21, 22, 23 obręb 1-05-04 przy ul. Antoniewskiej w Dzielnicy Mokotów m.st. Warszawy.",
+        "applicant": "Dom Development",
+        "applicaion_date": "02.04.2026",
+        "urls":[
+            {
+                "name": "Złożenie wniosku",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/karta-informacyjna-nr-672-2026"
+            }
+        ]
+    },
+    {
+        "id": "6c79666a-03e8-438e-9ee9-54cbe5f808cb",
+        "project_id": "OŚ-IV-UII.6220.8.2020.WKA",
+        "project_subject": "Realizacja zespołu zabudowy mieszkaniowej wraz z infrastrukturą towarzyszącą na dz. ew. nr 51/2, 67, 70, 73, 76 oraz na cz. dz. ew. nr 45, 48, 51/1, 54, 57, 60, 64, obręb 1-05-01, w rejonie al. J. Becka i ul. Wolickiej w Dzielnicy Mokotów m.st. Warszawy",
+        "applicant": "ACG 18 sp. z o.o.",
+        "applicaion_date": "15.01.2020",
+        "urls":[
+        ]
+    },
+    {
+        "id": "f1145f46-b173-4991-9656-df593584bb02",
+        "project_id": "OŚ-IV-UII.6220.47.2020.WKA",
+        "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych i biurowo-usługowych wraz z garażami podziemnymi oraz towarzyszącą infrastrukturą komunikacyjną i techniczną na dz. ew. nr 6/10, 6/13, obręb 1-07-14, przy al. J. Becka w Dz. Mokotów m.st. Warszawy",
+        "applicant": "Bulwell sp. z o.o.",
+        "applicaion_date": "12.03.2020",
+        "urls":[
+        ]
+    },
+    {
+        "id": "69c71734-cf78-45d5-a87a-a9a5ed83a26f",
+        "project_id": "OŚ-IV-UII.6220.102.2020.MST",
+        "project_subject": "budowa zespołu budynków mieszkalnych wielorodzinnych wraz z garażami podziemnymi, powierzchnią usługową oraz towarzyszącą infrastrukturą komunikacyjną i techniczną w rejonie ul. Czerniakowskiej, al. Becka oraz ul. Grzesiuka",
+        "applicant": "Arietta sp. z o. o.",
+        "applicaion_date": "23.07.2020",
+        "urls":[
+        ]
+    },
+    {
+        "id": "88a82df8-409b-4fce-9d46-072921b3284e",
+        "project_id": "OŚ-IV-UII.6220.103.2020.MST",
+        "project_subject": "budowa zespołu budynków biurowo-usługowych wraz z garażami podziemnymi oraz towarzyszącą infrastrukturą komunikacyjną i techniczną w rejonie al. Becka",
+        "applicant": "Mayland Real Estate sp. z o. o.",
+        "applicaion_date": "23.07.2020",
+        "urls":[
+        ]
+    },
+    {
+        "id": "183166bd-c3ae-4392-a774-090d54e30659",
+        "project_id": "OŚ-IV-UII.6220.104.2020.JFI",
+        "project_subject": "budowa zespołu budynków biurowo-usługowych wraz z garażami podziemnymi oraz towarzyszącą infrastrukturą,komunikacyjną i techniczną w rejonie Al. Becka",
+        "applicant": "Mayland Real Estate Sp. z o.o.",
+        "applicaion_date": "24.07.2020",
+        "urls":[
+        ]
     }
 ]
