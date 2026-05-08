@@ -1586,5 +1586,29 @@
     "status": "Planowane",
     "start_date": null,
     "construction_start_date": ""
+  },
+  {
+    "invest_id": "9b8f1795-8f58-4897-86b4-18dc3fe55e6e",
+    "name": "",
+    "investor": "SGI",
+    "construction_permit": [
+      "e318bc83-3512-452a-af1d-efd80bb66d20"
+    ],
+    "construction_permit_date": "",
+    "status": "Planowane",
+    "start_date": null,
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "8bd922ed-c7a5-4343-9af0-893306d8428b",
+    "name": "",
+    "investor": "SGI",
+    "construction_permit": [
+      "165149c9-b6b9-4556-8dbc-1e5c86993a28"
+    ],
+    "construction_permit_date": "",
+    "status": "Planowane",
+    "start_date": null,
+    "construction_start_date": ""
   }
 ]
