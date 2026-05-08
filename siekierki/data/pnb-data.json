@@ -3028,5 +3028,25 @@
     "decision_date": "",
     "link": "/wniosek/16aac221-a485-4a8e-b981-03ac13480786/",
     "ignored": false
+  },
+  {
+    "id": "165149c9-b6b9-4556-8dbc-1e5c86993a28",
+    "application_date": "2026-05-05",
+    "applicant": "SGI D Sp. z o.o.",
+    "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego , budynków gospodarczych i ogrodzenia",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/165149c9-b6b9-4556-8dbc-1e5c86993a28/",
+    "ignored": false
+  },
+  {
+    "id": "e318bc83-3512-452a-af1d-efd80bb66d20",
+    "application_date": "2026-05-05",
+    "applicant": "SGI D Sp. z o.o.",
+    "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego , budynków gospodarczych i ogrodzenia oraz budynku hydrofoni",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/e318bc83-3512-452a-af1d-efd80bb66d20/",
+    "ignored": false
   }
 ]
