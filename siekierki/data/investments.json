@@ -863,7 +863,13 @@
     "website": "http://mayland.pl/projects-2/retail-park-warszawa/",
     "status": "Planowane",
     "start_date": null,
-    "construction_start_date": null
+    "construction_start_date": null,
+    "construction_permit": [
+      "78c91913-c514-4b88-8bf6-36836951eae5"
+    ],
+    "environmental_permit": [
+      "1277308b-15aa-410e-a005-7b3de4253599"
+    ]
   },
   {
     "invest_id": "65ec7fa7-13ca-4517-8c2f-c253c380faff",

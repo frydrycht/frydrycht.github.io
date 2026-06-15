@@ -120,5 +120,18 @@
         "applicaion_date": "24.07.2020",
         "urls":[
         ]
+    },
+    {
+        "id": "1277308b-15aa-410e-a005-7b3de4253599",
+        "project_id": "OŚ-IV-UII.6220.53.2026.PWA",
+        "project_subject": "budowa obiektów handlowo-usługowych wraz z niezbędną infrastrukturą techniczną” na dz. ewid. nr 32/3, 34/3, 35/3, 36/3, 37/3, 38/3, 40/3, 41/3 obręb 1-07-16 w rejonie Al. Becka i ul. Wolickiej",
+        "applicant": "P.A. NOVA S.A.",
+        "applicaion_date": "08.06.2026",
+        "urls":[
+            {
+                "name": "Złożenie wniosku",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/karta-informacyjna-nr-1168-2026"
+            }
+        ]
     }
 ]

@@ -212,7 +212,11 @@
         "id": 10,
         "description": "Dantex Antoniewska",
         "investor": "Dantex",
-        "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
+        "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF",
+        "contract": {
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.warszawa.pl/web/mokotow/-/uchwala-nr-2861/2026-z-2026-05-27-1"
+        }
     },
     {
         "id": 11,
