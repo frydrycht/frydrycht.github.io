@@ -670,5 +670,14 @@
         "description": "Pasaż między WM VI a VII",
         "investor": "Spravia",
         "construction_end_date": "05.2024"
+    },
+    {
+        "id": 42,
+        "description": "37 KDD i 42 KDD Antoniewska",
+        "investor": "Dom Development",
+        "contract": {
+            "text": "Uchwała zarządu dzielnicy",
+            "url": "https://bip.warszawa.pl/web/mokotow/-/uchwala-nr-2975/2026-z-2026-06-17"
+        }
     }
 ]
