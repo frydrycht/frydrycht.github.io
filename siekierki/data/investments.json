@@ -1060,6 +1060,9 @@
     "investor": "JAZ-BUD Sawicki Sk.",
     "description": "projekt koncepcyjny na ok. 192 mieszkania w 4 5-kondygnacyjnych budynkach",
     "info": "https://www.skyscrapercity.com/threads/mokot%C3%B3w-inwestycje.249305/post-189394137",
+    "environmental_permit": [
+      "2cd66f4e-8d63-4248-b1fa-c5e50df59042"
+    ],
     "construction_permit": [
       "9661974f-fe7f-41cd-a5e8-fbcbaed1ff12"
     ],

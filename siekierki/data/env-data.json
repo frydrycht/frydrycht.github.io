@@ -133,5 +133,18 @@
                 "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/karta-informacyjna-nr-1168-2026"
             }
         ]
+    },
+    {
+        "id": "2cd66f4e-8d63-4248-b1fa-c5e50df59042",
+        "project_id": "OŚ-IV-UII.6220.50.2026.MAL",
+        "project_subject": "Budowa zespołu zabudowy mieszkaniowej, wielorodzinnej z usługami w parterach i garażami podziemnymi oraz towarzyszącą infrastrukturą komunikacyjną i techniczną na działkach ewid. nr 25, 26, 27, 28, 29, 30 i części działki ewid. nr 24 obręb 1-07-17 przy ul. Antoniewskiej w Dzielnicy Mokotów m.st. Warszawy",
+        "applicant": "JAZ-BUD Sawicki spółka komandytowa",
+        "applicaion_date": "01.06.2026",
+        "urls":[
+            {
+                "name": "Złożenie wniosku",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/karta-informacyjna-nr-1213-2026"
+            }
+        ]
     }
 ]
