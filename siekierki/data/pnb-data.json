@@ -2484,7 +2484,7 @@
     "application_date": "2025-11-19",
     "applicant": "Antar S Sp. z o.o.",
     "project_subject": "budowa budynku mieszkalnego wielorodzinnego wraz z parkingiem podziemnym oraz infrastrukturą techniczną",
-    "decision": "W trakcie rozpatrywania",
+    "decision": "Postępowanie zawieszone",
     "decision_date": "",
     "link": "/wniosek/d3e26752-df78-4c9c-9123-598891638064/",
     "ignored": false
@@ -2934,7 +2934,7 @@
     "application_date": "2026-01-19",
     "applicant": "Albero Invest - 4 Sp. z o.o.",
     "project_subject": "budowa zespołu 10 budynków mieszkalnych jednorodzinnych, dwulokalowych w zabudowie szeregowej wraz z garażami, 10 podziemnymi zbiornikami szczelnymi (szamba do 10 m3), drogami wewnętrznymi oraz zagospodarowaniem terenu",
-    "decision": "W trakcie rozpatrywania",
+    "decision": "Postępowanie zawieszone",
     "decision_date": "",
     "link": "/wniosek/10d34b8f-e736-431c-8914-ed46e1a168fd/",
     "ignored": false
@@ -2994,8 +2994,8 @@
     "application_date": "2026-02-23",
     "applicant": "Gołaszewski Cezary",
     "project_subject": "budowa zewnętrznej i wewnętrznej instalacji gazowej do budynku mieszkalnego jednorodzinnego z usługą w parterze",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
+    "decision": "Decyzja odmowna",
+    "decision_date": "2026-05-22",
     "link": "/wniosek/c5792608-26e3-4700-b710-c605d0e55383/",
     "ignored": false
   },
