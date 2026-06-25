@@ -37,7 +37,7 @@
   },
   {
     "invest_id": "b90b7915-b017-4b72-afda-13801395de5a",
-    "name": "Mokotów Sportowy",
+    "name": "Mokotów Sportowy 3.1",
     "investor": "Dom Development",
     "description": "etap 3A: 5 kondygnacji, 63 mieszkania, 4 lokale usługowe",
     "info": "",
@@ -569,9 +569,8 @@
   },
   {
     "invest_id": "316ddb83-12e3-42e3-ba54-9dcdcf2ec3c1",
-    "name": "Rytm Mokotowa II",
+    "name": "Rytm Mokotowa 2B",
     "investor": "Robyg",
-    "description": "8 budynków ze wspólnym garażem, 5 kondygnacji, lokale usługowe (ok. 490 m2), 363 mieszkania, 356 miejsc w garażu + 10 na zewnątrz",
     "info": "",
     "website": "",
     "environmental_permit_links": "https://bip.warszawa.pl/NR/exeres/606C628D-F5BC-4A8D-8E7C-336FF269C65B.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\n",
@@ -1254,7 +1253,7 @@
   },
   {
     "invest_id": "2cdf623e-f1e2-457d-b79d-20970636045e",
-    "name": "Mokotów Sportowy 1A",
+    "name": "Mokotów Sportowy 1.1A",
     "investor": "Dom Development",
     "description": "etap 1: 5-6 kondygnacji, ok 167 mieszkań, 1 lokal usługowy",
     "info": "",
@@ -1275,7 +1274,7 @@
   },
   {
     "invest_id": "d12b7612-7bb7-4e6e-a5ce-b5487c498cda",
-    "name": "Mokotów Sportowy 1B",
+    "name": "Mokotów Sportowy 1.1B",
     "investor": "Dom Development",
     "description": "etap 2: 4-5 kondygnacji, ok. 116 mieszkań, ok. 4 lokale usługowe",
     "info": "",
@@ -1370,7 +1369,7 @@
   },
   {
     "invest_id": "f0ff3bbf-ba6e-4de5-9efb-f8afdb6e180a",
-    "name": "Rytm Mokotowa II",
+    "name": "Rytm Mokotowa 2A",
     "investor": "Robyg",
     "description": "8 budynków ze wspólnym garażem, 5 kondygnacji, lokale usługowe (ok. 490 m2), 363 mieszkania, 356 miejsc w garażu + 10 na zewnątrz",
     "info": "",
@@ -1614,6 +1613,18 @@
     "investor": "SGI",
     "construction_permit": [
       "165149c9-b6b9-4556-8dbc-1e5c86993a28"
+    ],
+    "construction_permit_date": "",
+    "status": "Planowane",
+    "start_date": null,
+    "construction_start_date": ""
+  },
+  {
+    "invest_id": "841a1067-b0e8-4a82-b489-5609a3337d22",
+    "name": "Mokotów Sportowy 1.3",
+    "investor": "Dom Development",
+    "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
+    "construction_permit": [
     ],
     "construction_permit_date": "",
     "status": "Planowane",

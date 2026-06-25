@@ -445,6 +445,10 @@
             {
                 "text": "Wszczęcie postępowania",
                 "url": "https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowania-przestrzennego-rejonu-augustowki-czesc-i-w-r"
+            },
+            {
+                "text": "Decyzja 2/MOK/ZRID/2026",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowania-przestrzennego-rejonu-augustowki-czesc-i-w-rejonie-ulicy-antoniewskiej-jako-63kd-d-"
             }
         ]
     },
@@ -679,5 +683,16 @@
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.warszawa.pl/web/mokotow/-/uchwala-nr-2975/2026-z-2026-06-17"
         }
+    },
+    {
+        "id": 43,
+        "description": "7 KDw Robyg",
+        "investor": "Robyg",
+        "construction_permit":[
+            {
+                "text": "Wniosek o PnB",
+                "url": "https://wyszukiwarka.gunb.gov.pl//wniosek/aa996a35-0517-4e73-a1e9-e55847fb3186/"
+            }
+        ]
     }
 ]
