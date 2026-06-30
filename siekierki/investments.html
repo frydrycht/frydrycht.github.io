@@ -235,8 +235,8 @@
             <td>${p.decision_date || ""}</td>
             <td>
                 ${p.link
-                            ? `<a href="https://wyszukiwarka.gunb.gov.pl/${p.link}" target="_blank">Zobacz</a>`
-                            : ""}
+                            ? `<a href="${p.link.startsWith('http') ? p.link : 'https://wyszukiwarka.gunb.gov.pl/' + p.link}" target="_blank">${p.decision_number || 'Zobacz'}</a>`
+                            : (p.decision_number ? p.decision_number : "")}
             </td>
         `;
 

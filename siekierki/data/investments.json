@@ -575,10 +575,12 @@
     "website": "",
     "environmental_permit_links": "https://bip.warszawa.pl/NR/exeres/606C628D-F5BC-4A8D-8E7C-336FF269C65B.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\n",
     "environmental_permit_date": "18.04.2023",
-    "construction_permit": [],
+    "construction_permit": [
+      "f1c7d8e0-3b6a-4f5e-9c2b-1e2f3d4a5b6c"
+    ],
     "construction_permit_date": "",
     "gx_media_links": null,
-    "status": "Planowane",
+    "status": "Gotowe do realizacji",
     "start_date": null,
     "construction_start_date": null
   },
@@ -1625,9 +1627,10 @@
     "investor": "Dom Development",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
     "construction_permit": [
+      "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g"
     ],
     "construction_permit_date": "",
-    "status": "Planowane",
+    "status": "Gotowe do realizacji",
     "start_date": null,
     "construction_start_date": ""
   }
