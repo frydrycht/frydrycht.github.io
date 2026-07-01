@@ -1,5 +1,15 @@
 [
   {
+    "id": "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g",
+    "application_date": "",
+    "applicant": "Dom Development S.A.",
+    "project_subject": "",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "19.06.2026",
+    "link": "",
+    "ignored": false
+  },
+  {
     "id": "b3463e01-78b5-447e-99dc-e9b86f323ed7",
     "application_date": "2016-03-24",
     "applicant": "Wójcik Krzysztof",
@@ -1118,6 +1128,16 @@
     "decision_date": "2022-11-03",
     "link": "/wniosek/c8188e0c-2cba-46f5-8cb8-a28618cd42f0/",
     "ignored": true
+  },
+  {
+    "id": "f1c7d8e0-3b6a-4f5e-9c2b-1e2f3d4a5b6c",
+    "application_date": "2022-02-22",
+    "applicant": "Robyg 19 Sp. z o.o.",
+    "project_subject": "budowa budynków mieszkalnych wielorodzinnych z lokalami usługowymi i garażem podziemnym",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2026-06-26",
+    "link": "https://bip.warszawa.pl/web/biuro-architektury-i-planowania-przestrzennego/-/karta-informacyjna-nr-1283-2026",
+    "ignored": false
   },
   {
     "id": "0a80e7e7-de41-4814-9159-d74b5d1e2c46",
@@ -2684,7 +2704,7 @@
     "application_date": "2025-12-22",
     "applicant": "Dom Development S.A.",
     "project_subject": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze z garażem podziemnym wraz z infrastrukturą i zagospodarowaniem terenu",
-    "decision": "W trakcie rozpatrywania",
+    "decision": "Postępowanie zawieszone",
     "decision_date": "",
     "link": "/wniosek/ad4ae0d9-9792-47ae-9463-a5ea9d6d272a/",
     "ignored": false
@@ -3087,28 +3107,6 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/682c5659-e09f-4fc2-baaf-8136a6947483/",
-    "ignored": false
-  },
-  {
-    "id": "f1c7d8e0-3b6a-4f5e-9c2b-1e2f3d4a5b6c",
-    "application_date": "2022-02-22",
-    "applicant": "Robyg 19 Sp. z o.o.",
-    "project_subject": "budowa budynków mieszkalnych wielorodzinnych z lokalami usługowymi i garażem podziemnym",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2026-06-26",
-    "link": "https://bip.warszawa.pl/web/biuro-architektury-i-planowania-przestrzennego/-/karta-informacyjna-nr-1283-2026",
-    "decision_number": "120/AM/MOK/PB/2026",
-    "ignored": false
-  },
-  {
-    "id": "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g",
-    "application_date": "",
-    "applicant": "Dom Development S.A.",
-    "project_subject": "",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "19.06.2026",
-    "link": "",
-    "decision_number": "115/AM/MOK/PB/2026",
     "ignored": false
   }
 ]
