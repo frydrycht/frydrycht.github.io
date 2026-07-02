@@ -529,6 +529,7 @@
     "description": "",
     "info": "W kwietniu 2025 Ronson nabył działki o adresach Polska 14 i 16 (https://ronson.pl/wp-content/uploads/2025/05/Srodroczne-Skrocone-Sprawozdania-Finansowe-za-okres-trzech-miesiecy-zakonczonych-dnia-31-marca-2025-1.pdf str. 52)",
     "construction_permit": [
+      "e8bea56e-7486-4b75-a9dc-865cdd4f343e",
       "be204ce6-6f89-4653-b724-c5b234752e6a",
       "74b57d81-b474-40e7-a692-19cb7063c40c",
       "716904ff-a495-4b9b-8824-2170801f5c5c"
@@ -964,6 +965,7 @@
     ],
     "environmental_permit_date": "06.06.2023",
     "construction_permit": [
+      "682c5659-e09f-4fc2-baaf-8136a6947483",
       "44e9bd30-cceb-4536-b792-10604231063b"
     ],
     "construction_permit_date": "",

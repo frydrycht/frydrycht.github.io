@@ -113,6 +113,12 @@
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16"
         },
+        "construction_permit": [
+            {
+                "text": "Zebranie dowodów",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zakonczonym-zbieraniu-dowodow-i-materialow-w-postepowaniu-administracyjnym-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-drog-gminnych-publicznych-oznaczonych-jako-12kdw-klasy-d-51kd-d-klasy-d-"
+            }
+        ],
         "investor": "Dom Development",
         "zud_url": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506176.977594721&Y=5784791.092417153&S=14&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF"
     },
