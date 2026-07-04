@@ -1140,6 +1140,16 @@
     "ignored": false
   },
   {
+    "id": "541dc1d9-c8b7-43a7-9790-9c911704613a",
+    "application_date": "2022-02-22",
+    "applicant": "Robyg 19 Sp. z o.o.",
+    "project_subject": "wniosek o pozwolenie na budowe budynków mieszkalnych wielorodzinnych z lokalami usługowymi i garażem podziemnym",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2026-06-26",
+    "link": "/wniosek/541dc1d9-c8b7-43a7-9790-9c911704613a/",
+    "ignored": false
+  },
+  {
     "id": "0a80e7e7-de41-4814-9159-d74b5d1e2c46",
     "application_date": "2022-03-03",
     "applicant": "Kowalska-Malitka  Bożena",
@@ -1844,8 +1854,8 @@
     "application_date": "2024-03-26",
     "applicant": "Dom Development S.A.",
     "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych z lokalami usługowymi w parterze, garażem podziemnym oraz drogą wewnętrzną",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
+    "decision": "Decyzja pozytywna",
+    "decision_date": "2026-06-19",
     "link": "/wniosek/9e8bf9a7-7a7d-403d-9773-ad25ce747e8f/",
     "ignored": false
   },
