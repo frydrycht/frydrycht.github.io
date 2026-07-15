@@ -577,7 +577,7 @@
     "environmental_permit_links": "https://bip.warszawa.pl/NR/exeres/606C628D-F5BC-4A8D-8E7C-336FF269C65B.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\n",
     "environmental_permit_date": "18.04.2023",
     "construction_permit": [
-      "f1c7d8e0-3b6a-4f5e-9c2b-1e2f3d4a5b6c"
+      "541dc1d9-c8b7-43a7-9790-9c911704613a"
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
@@ -764,8 +764,7 @@
     "environmental_permit_date": "30.07.2025",
     "construction_permit": [
       "03dc5a80-96fb-4b34-90ac-6fca6c1e7ab5",
-      "33d87b9f-9d20-4032-8a13-cedd9b1d6532",
-      "9e8bf9a7-7a7d-403d-9773-ad25ce747e8f"
+      "33d87b9f-9d20-4032-8a13-cedd9b1d6532"
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
@@ -1604,7 +1603,8 @@
     "name": "",
     "investor": "SGI",
     "construction_permit": [
-      "e318bc83-3512-452a-af1d-efd80bb66d20"
+      "e318bc83-3512-452a-af1d-efd80bb66d20",
+      "e4c20a69-7de8-473f-abd7-8313f127e5d2"
     ],
     "construction_permit_date": "",
     "status": "Planowane",
@@ -1629,7 +1629,7 @@
     "investor": "Dom Development",
     "website": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
     "construction_permit": [
-      "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g"
+      "9e8bf9a7-7a7d-403d-9773-ad25ce747e8f"
     ],
     "construction_permit_date": "",
     "status": "Gotowe do realizacji",

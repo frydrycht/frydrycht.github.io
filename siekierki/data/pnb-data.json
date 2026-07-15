@@ -1,15 +1,5 @@
 [
   {
-    "id": "d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6g",
-    "application_date": "",
-    "applicant": "Dom Development S.A.",
-    "project_subject": "",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "19.06.2026",
-    "link": "",
-    "ignored": false
-  },
-  {
     "id": "b3463e01-78b5-447e-99dc-e9b86f323ed7",
     "application_date": "2016-03-24",
     "applicant": "Wójcik Krzysztof",
@@ -1128,16 +1118,6 @@
     "decision_date": "2022-11-03",
     "link": "/wniosek/c8188e0c-2cba-46f5-8cb8-a28618cd42f0/",
     "ignored": true
-  },
-  {
-    "id": "f1c7d8e0-3b6a-4f5e-9c2b-1e2f3d4a5b6c",
-    "application_date": "2022-02-22",
-    "applicant": "Robyg 19 Sp. z o.o.",
-    "project_subject": "budowa budynków mieszkalnych wielorodzinnych z lokalami usługowymi i garażem podziemnym",
-    "decision": "Decyzja pozytywna",
-    "decision_date": "2026-06-26",
-    "link": "https://bip.warszawa.pl/web/biuro-architektury-i-planowania-przestrzennego/-/karta-informacyjna-nr-1283-2026",
-    "ignored": false
   },
   {
     "id": "541dc1d9-c8b7-43a7-9790-9c911704613a",
