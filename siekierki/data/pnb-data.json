@@ -3108,5 +3108,25 @@
     "decision_date": "",
     "link": "/wniosek/e4c20a69-7de8-473f-abd7-8313f127e5d2/",
     "ignored": false
+  },
+  {
+    "id": "5463b1e6-42a0-46e9-8704-a46d3747f51a",
+    "application_date": "2026-07-17",
+    "applicant": "RONSON DEVELOPMENT PARTNER 2 SP. Z O.O.- RETREAT 2011 SP.K.",
+    "project_subject": "całkowita rozbiórka 1 budynku mieszkalnego jednorodzinnego i 2 budynków gospodarczo-garażowych",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/5463b1e6-42a0-46e9-8704-a46d3747f51a/",
+    "ignored": false
+  },
+  {
+    "id": "c9c5fe0d-a35b-434b-861d-4b7f9a937b5d",
+    "application_date": "2026-07-17",
+    "applicant": "SGI D Sp. z o.o.",
+    "project_subject": "zespół budynków mieszkalnych wielorodzinnych z usługami i garażem podziemnym",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/c9c5fe0d-a35b-434b-861d-4b7f9a937b5d/",
+    "ignored": false
   }
 ]
