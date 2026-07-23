@@ -257,11 +257,12 @@
     {
         "id": 13,
         "description": "Kątna Kątna",
-        "investor": "Kątna Sp. z o.o.",
+        "investor": "",
         "contract": {
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10"
-        }
+        },
+        "project_url": "https://drive.google.com/file/d/1-LhvgqWOL1KyoLclVdzG9MPfwPtsiwVQ/view"
     },
     {
         "id": 14,

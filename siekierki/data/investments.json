@@ -529,6 +529,7 @@
     "description": "",
     "info": "W kwietniu 2025 Ronson nabył działki o adresach Polska 14 i 16 (https://ronson.pl/wp-content/uploads/2025/05/Srodroczne-Skrocone-Sprawozdania-Finansowe-za-okres-trzech-miesiecy-zakonczonych-dnia-31-marca-2025-1.pdf str. 52)",
     "construction_permit": [
+      "5463b1e6-42a0-46e9-8704-a46d3747f51a",
       "e8bea56e-7486-4b75-a9dc-865cdd4f343e",
       "be204ce6-6f89-4653-b724-c5b234752e6a",
       "74b57d81-b474-40e7-a692-19cb7063c40c",
@@ -1616,6 +1617,7 @@
     "name": "",
     "investor": "SGI",
     "construction_permit": [
+      "c9c5fe0d-a35b-434b-861d-4b7f9a937b5d",
       "165149c9-b6b9-4556-8dbc-1e5c86993a28"
     ],
     "construction_permit_date": "",
@@ -1632,7 +1634,7 @@
       "9e8bf9a7-7a7d-403d-9773-ad25ce747e8f"
     ],
     "construction_permit_date": "",
-    "status": "Gotowe do realizacji",
+    "status": "W budowie",
     "start_date": null,
     "construction_start_date": ""
   }
