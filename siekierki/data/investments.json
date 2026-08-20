@@ -582,9 +582,9 @@
     ],
     "construction_permit_date": "",
     "gx_media_links": null,
-    "status": "Gotowe do realizacji",
+    "status": "W budowie",
     "start_date": null,
-    "construction_start_date": null
+    "construction_start_date": "08.2026"
   },
   {
     "invest_id": "b45fbc2a-0b1b-41eb-9d4f-35e1863f5411",
