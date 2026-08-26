@@ -227,7 +227,13 @@
         "contract": {
             "text": "Uchwała zarządu dzielnicy",
             "url": "https://bip.warszawa.pl/web/mokotow/-/uchwala-nr-2861/2026-z-2026-05-27-1"
-        }
+        },
+        "construction_permit": [
+            {
+                "text": "Wszczęcie",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-odcinkow-drog-gminnych-11kd-l-13kd-l-i-47kd-d-oraz-ciagu-pieszego-5kd-p/zp-wraz-z-niezbedna-in"
+            }
+        ],
     },
     {
         "id": 11,
