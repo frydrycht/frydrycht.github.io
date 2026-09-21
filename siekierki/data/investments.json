@@ -60,6 +60,7 @@
     "name": "",
     "investor": "Kątna",
     "construction_permit": [
+      "849f3356-8dcf-4f2b-bb05-7cd1eafaf307",
       "bc7bed3e-fcfd-40f2-94d5-f2a1c9df876f",
       "77cd112f-2595-41e2-926e-ea9c84839eb4",
       "8ce24c43-c8ad-4680-9b4d-35105a343e48",
@@ -67,7 +68,7 @@
     ],
     "construction_permit_date": "04.06.2025",
     "gx_media_links": null,
-    "status": "Gotowe do realizacji",
+    "status": "Planowane",
     "start_date": null,
     "construction_start_date": null
   },

@@ -2967,7 +2967,7 @@
     "decision": "Decyzja odmowna",
     "decision_date": "2026-07-16",
     "link": "/wniosek/3788ae07-eb69-4212-8a24-773424aab7e8/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "81e34580-4909-4c2b-8008-0eecc28345cc",
@@ -2977,7 +2977,7 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2026-04-23",
     "link": "/wniosek/81e34580-4909-4c2b-8008-0eecc28345cc/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "6712a3c9-bb16-40be-a134-d4e304c6734a",
@@ -2987,7 +2987,7 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2026-04-23",
     "link": "/wniosek/6712a3c9-bb16-40be-a134-d4e304c6734a/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "e1e08156-ddf9-494c-a4ca-7012cee3fdab",
@@ -2997,7 +2997,7 @@
     "decision": "Postępowanie zawieszone",
     "decision_date": "",
     "link": "/wniosek/e1e08156-ddf9-494c-a4ca-7012cee3fdab/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "c5792608-26e3-4700-b710-c605d0e55383",
@@ -3007,7 +3007,7 @@
     "decision": "Decyzja odmowna",
     "decision_date": "2026-05-22",
     "link": "/wniosek/c5792608-26e3-4700-b710-c605d0e55383/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "c96e180e-3a39-4f43-8efc-ac7247924e0e",
@@ -3017,7 +3017,7 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/c96e180e-3a39-4f43-8efc-ac7247924e0e/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "e8bea56e-7486-4b75-a9dc-865cdd4f343e",
@@ -3037,7 +3037,7 @@
     "decision": "Decyzja pozytywna",
     "decision_date": "2026-07-31",
     "link": "/wniosek/16aac221-a485-4a8e-b981-03ac13480786/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "165149c9-b6b9-4556-8dbc-1e5c86993a28",
@@ -3067,7 +3067,7 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/e02372a3-205a-42a8-8240-2bf6c44573ac/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "78c91913-c514-4b88-8bf6-36836951eae5",
@@ -3137,7 +3137,7 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/0e61c3d9-5dc8-4c41-aec5-0ecc9c3d142b/",
-    "ignored": false
+    "ignored": true
   },
   {
     "id": "1631c458-5421-46cd-99ff-d5ac63ae66a6",
