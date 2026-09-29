@@ -713,5 +713,16 @@
                 "url": "https://wyszukiwarka.gunb.gov.pl//wniosek/aa996a35-0517-4e73-a1e9-e55847fb3186/"
             }
         ]
+    },
+    {
+        "id": 44,
+        "description": "Ananasowa White Stone",
+        "investor": "White Stone Development",
+        "contract":[
+            {
+                "text": "Uchwała zarządu dzielnicy",
+                "url": "https://bip.warszawa.pl/web/mokotow/-/uchwala-nr-3501/2026-z-2026-09-23"
+            }
+        ]
     }
 ]
