@@ -1504,7 +1504,7 @@
     "investor": "APM",
     "description": "30 sklepów, 100 miejsc parkingowych\nhttp://www.mallson.pl/pl/projekty/projekty-w-realizacji/warszawa-plac-wislany\n-----\nGaraż podziemny ok.5700 m2 + nadziemny ok 1200 m2\n",
     "info": "12.04.2022 wydano decyzję odmawiającą wydania decyzji środowiskowej ",
-    "website": "",
+    "website": "https://plac-wislany.pl/",
     "environmental_permit_links": "https://bip.warszawa.pl/NR/exeres/B806C98A-8AD3-4570-97F0-DD99ACD2D4E8.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zabudowy_uslugowej_z_garazem_podziemnym_oraz_z_niezbedna_infrastruktura_na_dzialkach_ewid__nr.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zabudowy_uslugowej_z_garazem_podziemnym_oraz_z_niezbedna_infrastruktura_przy_al__Polski_Walcz.htm\n(decyzja odmowna) https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wydane/2022/Budowa_zabudowy_uslugowej_z_garazem_podziemnym_oraz_z_niezbedna_infrastruktura_przy_al__Polski_Walcz.htm",
     "environmental_permit_date": "",
     "construction_permit": [
@@ -1522,6 +1522,7 @@
     "name": "Plac Wiślany",
     "investor": "APM",
     "description": "30 sklepów, 100 miejsc parkingowych\nhttp://www.mallson.pl/pl/projekty/projekty-w-realizacji/warszawa-plac-wislany\n-----\nGaraż podziemny ok.5700 m2 + nadziemny ok 1200 m2",
+    "website": "https://plac-wislany.pl/",
     "construction_permit": [
       "42d5eb54-d085-4d44-b76f-3a172ee3ce88"
     ],
@@ -1555,6 +1556,7 @@
     "name": "",
     "investor": "SBM \"Klub Dwustu\"",
     "construction_permit": [
+      "6854ae88-f189-4520-87bf-7de431f6390a",
       "bc59a624-040d-4f62-9739-e105994566fe",
       "83677b37-4d4c-43f6-ad40-a8dcc3ecff7b"
     ],
