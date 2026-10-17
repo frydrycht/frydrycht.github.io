@@ -2784,7 +2784,7 @@
     "application_date": "2025-12-23",
     "applicant": "INVEST Sp. z o.o.",
     "project_subject": "budowa budynku mieszkalnego, wielorodzinnego z garażem podziemnym",
-    "decision": "W trakcie rozpatrywania",
+    "decision": "Bez rozpatrzenia",
     "decision_date": "",
     "link": "/wniosek/bde8268b-0301-4eac-9b41-f4333beb9877/",
     "ignored": false
@@ -2954,8 +2954,8 @@
     "application_date": "2026-02-02",
     "applicant": "LD Invest Sp. z o.o.",
     "project_subject": "budowa budynku mieszkalnego, wielorodzinnego z garażem podziemnym",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
+    "decision": "Decyzja odmowna",
+    "decision_date": "2026-06-03",
     "link": "/wniosek/5db65383-83af-4025-8ced-eb206579aa44/",
     "ignored": false
   },
@@ -3014,8 +3014,8 @@
     "application_date": "2026-03-18",
     "applicant": "Osipowicz Katarzyna",
     "project_subject": "rozbiórka budynku mieszkalnego jednorodzinnego i budynku gospodarczego",
-    "decision": "W trakcie rozpatrywania",
-    "decision_date": "",
+    "decision": "Decyzja odmowna",
+    "decision_date": "2026-06-18",
     "link": "/wniosek/c96e180e-3a39-4f43-8efc-ac7247924e0e/",
     "ignored": true
   },
@@ -3167,6 +3167,16 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/6854ae88-f189-4520-87bf-7de431f6390a/",
+    "ignored": false
+  },
+  {
+    "id": "cdbe6855-b81b-4882-b36a-7e3d656b1924",
+    "application_date": "2026-10-14",
+    "applicant": "Gościniec Boutique Residences Sp. z o.o.",
+    "project_subject": "budowa sieci kanalizacji sanitarnej DN 200 mm",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/cdbe6855-b81b-4882-b36a-7e3d656b1924/",
     "ignored": false
   }
 ]
