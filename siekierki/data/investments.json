@@ -1189,7 +1189,24 @@
     "investor": "Dom Development",
     "description": "budowa zespołu 6 budynków mieszkalnych wielorodzinnych oznaczonych A B C D E F wraz z usługami w 3 budynkach, garażem podziemnym, niezbędną infrastrukturą techniczną i zagospodarowaniem terenu",
     "construction_permit": [
-      "6bfca7ef-2a48-440b-9289-62bb5b4ebd09",
+      "6bfca7ef-2a48-440b-9289-62bb5b4ebd09"
+    ],
+    "construction_permit_date": "",
+    "gx_media_links": null,
+    "status": "Planowane",
+    "start_date": null,
+    "construction_start_date": null,
+    "environmental_permit": [
+      "f3e1c7d0-4b5a-4f8e-9c6b-2f1e5d6c7a8b"
+    ],
+    "id": null
+  },
+  {
+    "invest_id": "f1c2e3d4-5b6a-7c8d-9e0f-1a2b3c4d5e6f",
+    "name": "",
+    "investor": "Dom Development",
+    "description": "budowa zespołu 2 budynków mieszkalnych wielorodzinnych oznaczonych A, B wraz z usługami, garażem podziemnym, niezbędną infrastrukturą techniczną i zagospodarowaniem terenu",
+    "construction_permit": [
       "86c22173-bc1f-4f7a-adcb-c8a4e0130f7b"
     ],
     "construction_permit_date": "",
@@ -1423,9 +1440,8 @@
       "24a898ca-21dd-4027-8d1e-7f35a33f51b7"
     ],
     "construction_permit_date": "01.09.2023",
-    "gx_media_links": null,
-    "status": "W budowie",
-    "start_date": null,
+    "status": "Oddane do użytku",
+    "start_date": "10.2026",
     "construction_start_date": "04.2025"
   },
   {
@@ -1500,10 +1516,10 @@
   },
   {
     "invest_id": "5f141fb2-293f-4149-ac6a-7ef4ab0da809",
-    "name": "Plac Wiślany ",
+    "name": "Plac Wiślany",
     "investor": "APM",
     "description": "30 sklepów, 100 miejsc parkingowych\nhttp://www.mallson.pl/pl/projekty/projekty-w-realizacji/warszawa-plac-wislany\n-----\nGaraż podziemny ok.5700 m2 + nadziemny ok 1200 m2\n",
-    "info": "12.04.2022 wydano decyzję odmawiającą wydania decyzji środowiskowej ",
+    "info": "12.04.2022 wydano decyzję odmawiającą wydania decyzji środowiskowej",
     "website": "https://plac-wislany.pl/",
     "environmental_permit_links": "https://bip.warszawa.pl/NR/exeres/B806C98A-8AD3-4570-97F0-DD99ACD2D4E8.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zabudowy_uslugowej_z_garazem_podziemnym_oraz_z_niezbedna_infrastruktura_na_dzialkach_ewid__nr.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zabudowy_uslugowej_z_garazem_podziemnym_oraz_z_niezbedna_infrastruktura_przy_al__Polski_Walcz.htm\n(decyzja odmowna) https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wydane/2022/Budowa_zabudowy_uslugowej_z_garazem_podziemnym_oraz_z_niezbedna_infrastruktura_przy_al__Polski_Walcz.htm",
     "environmental_permit_date": "",
