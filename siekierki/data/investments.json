@@ -1658,5 +1658,14 @@
     "status": "W budowie",
     "start_date": null,
     "construction_start_date": ""
+  },
+  {
+    "invest_id": "265256db-a4aa-4bed-af6e-b4d32997facb",
+    "name": "",
+    "investor": "Harvest Real Estate",
+    "construction_permit": [
+      "0f246d81-39d2-487b-96fe-f649caf5c736"
+    ],
+    "status": "Planowane"
   }
 ]
