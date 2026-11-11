@@ -2404,7 +2404,7 @@
     "application_date": "2025-08-12",
     "applicant": "Szymanowski Andrzej",
     "project_subject": "zmiana sposobu użytkowania lokalu usługowo - biurowego na dwa lokale mieszkalne",
-    "decision": "Postępowanie zawieszone",
+    "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/0bbcfe4d-5c29-4178-897f-0f9119936932/",
     "ignored": true
@@ -3187,6 +3187,16 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/12354b70-2431-4741-9427-c7c6ee34ae38/",
+    "ignored": false
+  },
+  {
+    "id": "0f246d81-39d2-487b-96fe-f649caf5c736",
+    "application_date": "2026-11-06",
+    "applicant": "Harvest Real Estate Sp z o.o.",
+    "project_subject": "zabudowa szeregowa: dwa budynki jednorodzinne dwulokalowe oraz jeden budynek jednorodzinny wraz z garażami podziemnymi",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/0f246d81-39d2-487b-96fe-f649caf5c736/",
     "ignored": false
   }
 ]
