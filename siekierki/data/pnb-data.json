@@ -3170,6 +3170,16 @@
     "ignored": false
   },
   {
+    "id": "1052b645-afec-4935-8c0b-ee328bec827f",
+    "application_date": "2026-10-05",
+    "applicant": "Antar S Sp. z o.o.",
+    "project_subject": "zmiana decyzji o pozwoleniu na budowę nr 64/MOK/PB/2024 z 19.03.2024 zatwierdzenie projektu zagospodarowania terenu oraz projektu architektoniczno-budowlanego i udzielenie pozwolenia na budowę dla inwestycji budowlanej polegajacej na budowie zespołu pięciu budynków mieszkalnych wielorodzinnych wraz z podziemnym parkingiem, infrastrukturą techniczną w zakresie zmiany działek inwestycji",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/1052b645-afec-4935-8c0b-ee328bec827f/",
+    "ignored": false
+  },
+  {
     "id": "cdbe6855-b81b-4882-b36a-7e3d656b1924",
     "application_date": "2026-10-14",
     "applicant": "Gościniec Boutique Residences Sp. z o.o.",
@@ -3197,6 +3207,16 @@
     "decision": "W trakcie rozpatrywania",
     "decision_date": "",
     "link": "/wniosek/0f246d81-39d2-487b-96fe-f649caf5c736/",
+    "ignored": false
+  },
+  {
+    "id": "4626fcc5-0313-40d3-8177-005194430bb8",
+    "application_date": "2026-11-10",
+    "applicant": "DOM Spółka Akcyjna",
+    "project_subject": "przebudowa i modernizacja istniejącego budynku magazynowo-handlowego na budynek handlowo-usługowy",
+    "decision": "W trakcie rozpatrywania",
+    "decision_date": "",
+    "link": "/wniosek/4626fcc5-0313-40d3-8177-005194430bb8/",
     "ignored": false
   }
 ]
