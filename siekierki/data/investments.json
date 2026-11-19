@@ -1102,8 +1102,6 @@
     ],
     "environmental_permit_date": "06.06.2023",
     "construction_permit": [
-      "1052b645-afec-4935-8c0b-ee328bec827f",
-      "c93c49ee-4960-4491-8118-ad72eb607932",
       "d3e26752-df78-4c9c-9123-598891638064",
       "b59293a5-2322-4a6d-846a-ee1df47e2db5"
     ],
@@ -1458,6 +1456,8 @@
     ],
     "environmental_permit_date": "06.06.2023",
     "construction_permit": [
+      "1052b645-afec-4935-8c0b-ee328bec827f",
+      "c93c49ee-4960-4491-8118-ad72eb607932",
       "01465e94-0268-49df-bf9d-790d41e43786",
       "1d0abc41-312d-4a59-9f18-0de5c5f59707"
     ],
