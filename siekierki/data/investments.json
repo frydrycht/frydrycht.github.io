@@ -826,23 +826,32 @@
     "construction_start_date": null
   },
   {
+    "invest_id": "ec1166bd-01fd-41d7-9af5-d29c78aa9298",
+    "name": "",
+    "investor": "Dantex",
+    "description": "1 budynek, 3-4 kondygnacje",
+    "environmental_permit_links": "(decyzja) https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2024/Decyzja_nr_80_OS_2024_z_22_lutego_2024_r___znak_OS-IV-UII_6220_168_2022_KBA.htm\nhttps://bip.warszawa.pl/NR/exeres/45583374-A5AB-484E-8A49-89D4F1024D94.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2023/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazami_podziemnymi__powierzchnia_uslug.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazami_podziemnymi__powierzchnia_uslug.htm\n",
+    "environmental_permit_date": "22.02.2024",
+    "environmental_permit": [
+      "d1f3e7c8-4b5a-4f8e-9c6b-2f1e5d6c7a8c"
+    ],
+    "status": "Planowane"
+  },
+  {
     "invest_id": "7dfbc218-1dd0-4a7d-a4d6-6c74f5fff9db",
     "name": "",
     "investor": "Dantex",
-    "description": "5 budynków, 3-4 kondygnacje, 168 mieszkań, 3 lokale usługowe, 203 miejsca parkingowe w garażu podziemnym",
-    "info": "",
-    "website": "",
+    "description": "4 budynki, 3-4 kondygnacje",
     "environmental_permit_links": "(decyzja) https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2024/Decyzja_nr_80_OS_2024_z_22_lutego_2024_r___znak_OS-IV-UII_6220_168_2022_KBA.htm\nhttps://bip.warszawa.pl/NR/exeres/45583374-A5AB-484E-8A49-89D4F1024D94.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2023/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazami_podziemnymi__powierzchnia_uslug.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazami_podziemnymi__powierzchnia_uslug.htm\n",
     "environmental_permit_date": "22.02.2024",
+    "environmental_permit": [
+      "d1f3e7c8-4b5a-4f8e-9c6b-2f1e5d6c7a8c"
+    ],
     "construction_permit": [
       "e9ebea9e-7a90-4ede-b09c-f646938eeb35",
       "76938cff-e236-4cb7-9fcd-8874f19d8707"
     ],
-    "construction_permit_date": "",
-    "gx_media_links": null,
-    "status": "Planowane",
-    "start_date": null,
-    "construction_start_date": null
+    "status": "Planowane"
   },
   {
     "invest_id": "fee1ba35-38e8-4b32-81f9-795362fc3cec",

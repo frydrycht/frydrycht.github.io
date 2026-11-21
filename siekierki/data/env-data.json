@@ -155,9 +155,20 @@
         "applicaion_date": "23.10.2026",
         "urls":[
             {
+                "name": "Wszczęcie",
+                "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/ul-antoniewska-dzielnica-mokotow-znak-sprawy-os-iv-uii-6220-66-2026-ero-pismo-z-20-listopada-2026-r-zawiadomienie-o-wszczeciu-postepowania-"
+            },
+            {
                 "name": "Złożenie wniosku",
                 "url": "https://bip.warszawa.pl/web/biuro-ochrony-srodowiska/-/karta-informacyjna-nr-2316-2026"
             }
         ]
+    },
+    {
+        "id": "d1f3e7c8-4b5a-4f8e-9c6b-2f1e5d6c7a8c",
+        "project_id": "OŚ-IV-UII.6220.168.2022.KBA",
+        "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterach, garażem podziemnym oraz towarzyszącą infrastrukturą techniczną i drogową na działkach ewid. nr 24, 25, 26, 27, 28, 29, 30 obręb 1-07-17 przy ul. Antoniewskiej w Dzielnicy Mokotów m.st. Warszawy",
+        "applicant": "Dom Development",
+        "decision_date": "22.02.2024"
     }
 ]
