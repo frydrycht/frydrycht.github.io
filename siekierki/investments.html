@@ -275,6 +275,7 @@
             <th>Przedmiot inwestycji</th>
             <th>Status</th>
             <th>Data decyzji</th>
+            <th>Numer decyzji</th>
             <th>Linki</th>
         </tr>
     `;
@@ -288,6 +289,7 @@
             <td>${p.project_subject || ""}</td>
             <td>${p.status || ""}</td>
             <td>${p.decision_date || ""}</td>
+            <td>${p.decision_id || ""}</td>
             <td>
                 ${fillEnvironmentalLinks(p.urls)}
             </td>

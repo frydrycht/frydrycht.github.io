@@ -12,7 +12,8 @@
             }
         ],
         "status": "Decyzja pozytywna",
-        "decision_date": "18.03.2022"
+        "decision_date": "18.03.2022",
+        "decision_id": "180/OŚ/2022"
     },
     {
         "id": "49cd406c-3113-4aca-bf96-546d1b1ec8bf",
@@ -35,7 +36,8 @@
             }
         ],
         "status": "Decyzja pozytywna",
-        "decision_date": "4.11.2021"
+        "decision_date": "4.11.2021",
+        "decision_id": "575/OŚ/2021"
     },
     {
         "id": "a0c7004e-f643-40a6-85e4-37e0ee08729a",
@@ -46,7 +48,8 @@
         "urls":[
         ],
         "status": "Decyzja pozytywna",
-        "decision_date": "06.06.2023"
+        "decision_date": "06.06.2023",
+        "decision_id": "232/OŚ/2023"
     },
     {
         "id": "e8ad8b89-dc15-405f-b4f6-8c256628ae30",
@@ -61,7 +64,8 @@
             }
         ],
         "status": "Decyzja pozytywna",
-        "decision_date": "30.07.2025"
+        "decision_date": "30.07.2025",
+        "decision_id": "292/OŚ/2025"
     },
     {
         "id": "51b6e884-25d4-432e-8c33-9f1c2c3b5125",
@@ -170,13 +174,8 @@
         "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych wraz z garażami podziemnymi, powierzchnią usługową oraz towarzyszącą infrastrukturą komunikacyjną i techniczną, dz. ew. nr 19/7 (cz.), 19/59 obr. 1-07-17, w rejonie ul. Antoniewskiej w Dzielnicy Mokotów",
         "applicant": "Dantex",
         "applicaion_date":"03.10.2022",
-        "decision_date": "22.02.2024",
-        "urls": [
-            {
-                "name": "Decyzja 80/OŚ/2024",
-                "url": ""
-            }
-        ]
+        "decision_id": "80/OŚ/2024",
+        "decision_date": "22.02.2024"
     },
     {
         "id": "e9ebea9e-7a90-4ede-b09c-f646938eeb35",
@@ -184,12 +183,7 @@
         "project_subject": "Budowa zespołu budynków mieszkalnych wielorodzinnych wraz z garażami podziemnymi, powierzchnią usługową oraz towarzyszącą infrastrukturą komunikacyjną i techniczną, dz. ew. nr 19/7 (cz.), 19/59 obr. 1-07-17, ul. Antoniewska w Dzielnicy Mokotów",
         "applicant": "Dantex",
         "applicaion_date": "21.12.2022",
-        "decision_date": "18.04.2024",
-        "urls":[
-            {
-                "name": "Decyzja 174/OŚ/2024",
-                "url":""
-            }
-        ]
+        "decision_id": "174/OŚ/2024",
+        "decision_date": "18.04.2024"
     }
 ]
